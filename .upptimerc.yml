@@ -11,8 +11,11 @@ sites:
     url: https://neosia.unhas.ac.id
   - name: SSO Unhas
     url: https://sso.unhas.ac.id
-  - name: Dikmawa
+   - name: Sister
+    url: https://sister.unhas.ac.id
+   - name: Dikmawa
     url: https://dikmawa.unhas.ac.id
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
