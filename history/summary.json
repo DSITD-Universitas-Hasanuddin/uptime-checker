@@ -10,11 +10,11 @@
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.67%",
-    "time": 2864,
-    "timeDay": 2380,
-    "timeWeek": 2864,
-    "timeMonth": 2864,
-    "timeYear": 2864,
+    "time": 2726,
+    "timeDay": 2124,
+    "timeWeek": 2726,
+    "timeMonth": 2726,
+    "timeYear": 2726,
     "dailyMinutesDown": {
       "2023-01-04": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.67%",
-    "time": 4665,
-    "timeDay": 3593,
-    "timeWeek": 4665,
-    "timeMonth": 4665,
-    "timeYear": 4665,
+    "time": 4844,
+    "timeDay": 4354,
+    "timeWeek": 4844,
+    "timeMonth": 4844,
+    "timeYear": 4844,
     "dailyMinutesDown": {
       "2023-01-04": 18
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2362,
-    "timeDay": 4458,
-    "timeWeek": 2362,
-    "timeMonth": 2362,
-    "timeYear": 2362,
+    "time": 2176,
+    "timeDay": 3262,
+    "timeWeek": 2176,
+    "timeMonth": 2176,
+    "timeYear": 2176,
     "dailyMinutesDown": {}
   },
   {
@@ -68,33 +68,13 @@
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.68%",
-    "time": 3674,
-    "timeDay": 3171,
-    "timeWeek": 3674,
-    "timeMonth": 3674,
-    "timeYear": 3674,
+    "time": 3569,
+    "timeDay": 3008,
+    "timeWeek": 3569,
+    "timeMonth": 3569,
+    "timeYear": 3569,
     "dailyMinutesDown": {
       "2023-01-04": 18
-    }
-  },
-  {
-    "name": "Sister",
-    "url": "https://sister.unhas.ac.id",
-    "icon": "https://icons.duckduckgo.com/ip3/sister.unhas.ac.id.ico",
-    "slug": "sister",
-    "status": "down",
-    "uptime": "66.93%",
-    "uptimeDay": "66.93%",
-    "uptimeWeek": "66.93%",
-    "uptimeMonth": "66.93%",
-    "uptimeYear": "66.93%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-01-07": 0
     }
   },
   {
@@ -108,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5856,
-    "timeDay": 7449,
-    "timeWeek": 5856,
-    "timeMonth": 5856,
-    "timeYear": 5856,
+    "time": 6020,
+    "timeDay": 7301,
+    "timeWeek": 6020,
+    "timeMonth": 6020,
+    "timeYear": 6020,
     "dailyMinutesDown": {}
   }
 ]
