@@ -11,8 +11,6 @@ sites:
     url: https://neosia.unhas.ac.id
   - name: SSO Unhas
     url: https://sso.unhas.ac.id
-  - name: Sister
-    url: https://sister.unhas.ac.id
   - name: Dikmawa
     url: https://dikmawa.unhas.ac.id
 
