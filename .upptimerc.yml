@@ -13,6 +13,8 @@ sites:
     url: https://sso.unhas.ac.id
   - name: Dikmawa
     url: https://dikmawa.unhas.ac.id
+  - name: Sister Unhas
+    url: http://sister.unhas.ac.id
 
 
 status-website:
