@@ -4,18 +4,19 @@
     "url": "https://unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/unhas.ac.id.ico",
     "slug": "unhas-main",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 3466,
     "timeDay": 3293,
     "timeWeek": 3865,
     "timeMonth": 3466,
     "timeYear": 3466,
     "dailyMinutesDown": {
+      "2023-01-18": 2,
       "2023-01-08": 17,
       "2023-01-04": 19
     }
@@ -25,10 +26,10 @@
     "url": "https://apps.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/apps.unhas.ac.id.ico",
     "slug": "apps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
     "time": 4313,
@@ -37,6 +38,7 @@
     "timeMonth": 4313,
     "timeYear": 4313,
     "dailyMinutesDown": {
+      "2023-01-18": 1,
       "2023-01-08": 17,
       "2023-01-04": 18
     }
@@ -64,10 +66,10 @@
     "url": "https://sso.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/sso.unhas.ac.id.ico",
     "slug": "sso-unhas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
     "time": 3870,
@@ -76,6 +78,7 @@
     "timeMonth": 3870,
     "timeYear": 3870,
     "dailyMinutesDown": {
+      "2023-01-18": 1,
       "2023-01-11": 19,
       "2023-01-08": 17,
       "2023-01-04": 18
@@ -104,9 +107,9 @@
     "url": "http://sister.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/sister.unhas.ac.id.ico",
     "slug": "sister-unhas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -115,6 +118,8 @@
     "timeWeek": 3382,
     "timeMonth": 3395,
     "timeYear": 3395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-18": 0
+    }
   }
 ]
