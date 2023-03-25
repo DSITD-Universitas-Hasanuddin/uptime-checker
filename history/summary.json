@@ -76,9 +76,9 @@
     "url": "https://neosia.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/neosia.unhas.ac.id.ico",
     "slug": "neosia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 766,
     "timeMonth": 692,
     "timeYear": 1813,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-25": 0
+    }
   },
   {
     "name": "SSO Unhas",
@@ -95,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.unhas.ac.id.ico",
     "slug": "sso-unhas",
     "status": "up",
-    "uptime": "96.62%",
+    "uptime": "96.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.17%",
+    "uptimeWeek": "83.98%",
     "uptimeMonth": "92.00%",
-    "uptimeYear": "96.62%",
+    "uptimeYear": "96.63%",
     "time": 3015,
     "timeDay": 1119,
     "timeWeek": 1445,
