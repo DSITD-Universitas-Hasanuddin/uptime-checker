@@ -153,11 +153,11 @@
     "url": "https://dikmawa.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/dikmawa.unhas.ac.id.ico",
     "slug": "dikmawa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 4654,
     "timeDay": 13807,
@@ -165,7 +165,7 @@
     "timeMonth": 5702,
     "timeYear": 4654,
     "dailyMinutesDown": {
-      "2023-04-21": 30,
+      "2023-04-21": 17,
       "2023-01-25": 24
     }
   },
