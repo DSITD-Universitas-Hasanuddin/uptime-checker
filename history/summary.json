@@ -542,18 +542,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/eng.unhas.ac.id.ico",
     "slug": "fakultas-teknik2",
     "status": "down",
-    "uptime": "13.34%",
-    "uptimeDay": "13.34%",
-    "uptimeWeek": "13.34%",
-    "uptimeMonth": "13.34%",
-    "uptimeYear": "13.34%",
+    "uptime": "6.90%",
+    "uptimeDay": "6.90%",
+    "uptimeWeek": "6.90%",
+    "uptimeMonth": "6.90%",
+    "uptimeYear": "6.90%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-28": 0
+      "2023-06-28": 1
     }
   },
   {
