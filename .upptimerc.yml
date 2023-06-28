@@ -15,6 +15,42 @@ sites:
     url: https://dikmawa.unhas.ac.id
   - name: Sister Unhas
     url: http://sister.unhas.ac.id
+  - name: Fakultas Teknik
+    url: http://eng.unhas.ac.id
+  - name: Fakultas Kedokteran
+    url: http://med.unhas.ac.id
+  - name: Fakultas Ekonomi
+    url: http://feb.unhas.ac.id
+  - name: Fakultas IKP
+    url: http://fikp.unhas.ac.id
+  - name: Fakultas KM
+    url: http://fkm.unhas.ac.id
+  - name: Fakultas Farmasi
+    url: http://farmasi.unhas.ac.id
+  - name: Fakultas Ilmu Budaya
+    url: http://ilmubudaya.unhas.ac.id
+  - name: Fakultas ISIP
+    url: http://fisip.unhas.ac.id/newfisip
+  - name: Fakultas Pertanian
+    url: http://agriculture.unhas.ac.id
+  - name: Fakultas Peternakan
+    url: http://peternakan.unhas.ac.id
+  - name: Fakultas Kehutanan
+    url: http://forestry.unhas.ac.id
+  - name: Fakultas Hukum
+    url: http://lawfaculty.unhas.ac.id
+  - name: Fakultas Kedokteran Gigi
+    url: http://dent.unhas.ac.id
+  - name: Fakultas Vokasi
+    url: http://vokasi.unhas.ac.id
+  - name: Fakultas Keperawatan
+    url: http://nursing.unhas.ac.id
+  - name: Fakultas MIPA
+    url: http://sci.unhas.ac.id
+  - name: LP2M
+    url: http://lp2m.unhas.ac.id
+  
+
 
 
 status-website:
