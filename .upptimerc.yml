@@ -15,8 +15,6 @@ sites:
     url: https://dikmawa.unhas.ac.id
   - name: Sister Unhas
     url: http://sister.unhas.ac.id
-  - name: Fakultas Teknik
-    url: https://eng.unhas.ac.id/fakultas
   - name: Fakultas Kedokteran
     url: https://med.unhas.ac.id
   - name: Fakultas Ekonomi
@@ -47,6 +45,8 @@ sites:
     url: https://nursing.unhas.ac.id
   - name: Fakultas MIPA
     url: https://sci.unhas.ac.id
+  - name: Fakultas Teknik2
+    url: https://eng.unhas.ac.id/fakultas/
   - name: LP2M
     url: https://lp2m.unhas.ac.id
   
