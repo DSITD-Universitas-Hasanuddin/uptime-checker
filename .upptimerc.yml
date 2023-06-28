@@ -16,7 +16,7 @@ sites:
   - name: Sister Unhas
     url: http://sister.unhas.ac.id
   - name: Fakultas Teknik
-    url: http://eng.unhas.ac.id
+    url: http://eng.unhas.ac.id/fakultas
   - name: Fakultas Kedokteran
     url: http://med.unhas.ac.id
   - name: Fakultas Ekonomi
