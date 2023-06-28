@@ -61,7 +61,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Uptime Unhas Website"
-  introMessage: Website Monitoring Uptime WebUnhas (unit, aplikasi dan website universitas/fakultas)
+  introMessage: "Website Monitoring Uptime WebUnhas (unit, aplikasi dan website universitas/fakultas)"
   navbar:
     - title: Status
       href: /
