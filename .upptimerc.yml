@@ -16,39 +16,39 @@ sites:
   - name: Sister Unhas
     url: http://sister.unhas.ac.id
   - name: Fakultas Teknik
-    url: http://eng.unhas.ac.id/fakultas
+    url: https://eng.unhas.ac.id/fakultas
   - name: Fakultas Kedokteran
-    url: http://med.unhas.ac.id
+    url: https://med.unhas.ac.id
   - name: Fakultas Ekonomi
-    url: http://feb.unhas.ac.id
+    url: https://feb.unhas.ac.id
   - name: Fakultas IKP
-    url: http://fikp.unhas.ac.id
+    url: https://fikp.unhas.ac.id
   - name: Fakultas KM
-    url: http://fkm.unhas.ac.id
+    url: https://fkm.unhas.ac.id
   - name: Fakultas Farmasi
-    url: http://farmasi.unhas.ac.id
+    url: https://farmasi.unhas.ac.id
   - name: Fakultas Ilmu Budaya
-    url: http://ilmubudaya.unhas.ac.id
+    url: https://ilmubudaya.unhas.ac.id
   - name: Fakultas ISIP
-    url: http://fisip.unhas.ac.id/newfisip
+    url: https://fisip.unhas.ac.id/newfisip
   - name: Fakultas Pertanian
-    url: http://agriculture.unhas.ac.id
+    url: https://agriculture.unhas.ac.id
   - name: Fakultas Peternakan
-    url: http://peternakan.unhas.ac.id
+    url: https://peternakan.unhas.ac.id
   - name: Fakultas Kehutanan
-    url: http://forestry.unhas.ac.id
+    url: https://forestry.unhas.ac.id
   - name: Fakultas Hukum
-    url: http://lawfaculty.unhas.ac.id
+    url: https://lawfaculty.unhas.ac.id
   - name: Fakultas Kedokteran Gigi
-    url: http://dent.unhas.ac.id
+    url: https://dent.unhas.ac.id
   - name: Fakultas Vokasi
-    url: http://vokasi.unhas.ac.id
+    url: https://vokasi.unhas.ac.id
   - name: Fakultas Keperawatan
-    url: http://nursing.unhas.ac.id
+    url: https://nursing.unhas.ac.id
   - name: Fakultas MIPA
-    url: http://sci.unhas.ac.id
+    url: https://sci.unhas.ac.id
   - name: LP2M
-    url: http://lp2m.unhas.ac.id
+    url: https://lp2m.unhas.ac.id
   
 
 
