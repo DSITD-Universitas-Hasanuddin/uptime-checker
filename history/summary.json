@@ -294,18 +294,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/feb.unhas.ac.id.ico",
     "slug": "fakultas-ekonomi",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "uptime": "97.59%",
+    "uptimeDay": "93.12%",
+    "uptimeWeek": "97.59%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "97.59%",
     "time": 3098,
     "timeDay": 3255,
     "timeWeek": 3098,
     "timeMonth": 3098,
     "timeYear": 3098,
     "dailyMinutesDown": {
-      "2023-07-01": 11
+      "2023-07-01": 99
     }
   },
   {
@@ -332,18 +332,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fkm.unhas.ac.id.ico",
     "slug": "fakultas-km",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptime": "97.63%",
+    "uptimeDay": "93.23%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "97.63%",
+    "uptimeYear": "97.63%",
     "time": 2931,
     "timeDay": 2652,
     "timeWeek": 2931,
     "timeMonth": 2931,
     "timeYear": 2931,
     "dailyMinutesDown": {
-      "2023-07-01": 10
+      "2023-07-01": 97
     }
   },
   {
@@ -370,18 +370,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilmubudaya.unhas.ac.id.ico",
     "slug": "fakultas-ilmu-budaya",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptime": "97.67%",
+    "uptimeDay": "93.34%",
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "97.67%",
     "time": 3624,
     "timeDay": 3853,
     "timeWeek": 3624,
     "timeMonth": 3624,
     "timeYear": 3624,
     "dailyMinutesDown": {
-      "2023-07-01": 8
+      "2023-07-01": 96
     }
   },
   {
@@ -390,18 +390,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fisip.unhas.ac.id.ico",
     "slug": "fakultas-isip",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "97.70%",
+    "uptimeDay": "93.45%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.70%",
     "time": 2723,
     "timeDay": 2003,
     "timeWeek": 2723,
     "timeMonth": 2723,
     "timeYear": 2723,
     "dailyMinutesDown": {
-      "2023-07-01": 7
+      "2023-07-01": 94
     }
   },
   {
@@ -409,36 +409,40 @@
     "url": "https://agriculture.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.unhas.ac.id.ico",
     "slug": "fakultas-pertanian",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 3338,
     "timeDay": 2473,
     "timeWeek": 3338,
     "timeMonth": 3338,
     "timeYear": 3338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-01": 1
+    }
   },
   {
     "name": "Fakultas Peternakan",
     "url": "https://peternakan.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/peternakan.unhas.ac.id.ico",
     "slug": "fakultas-peternakan",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 3004,
     "timeDay": 3410,
     "timeWeek": 3004,
     "timeMonth": 3004,
     "timeYear": 3004,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-01": 1
+    }
   },
   {
     "name": "Fakultas Kehutanan",
@@ -446,18 +450,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/forestry.unhas.ac.id.ico",
     "slug": "fakultas-kehutanan",
     "status": "down",
-    "uptime": "99.02%",
-    "uptimeDay": "97.27%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.02%",
+    "uptime": "96.91%",
+    "uptimeDay": "91.19%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "96.91%",
     "time": 3126,
     "timeDay": 2520,
     "timeWeek": 3126,
     "timeMonth": 3126,
     "timeYear": 3126,
     "dailyMinutesDown": {
-      "2023-07-01": 39
+      "2023-07-01": 127
     }
   },
   {
@@ -519,19 +523,19 @@
     "url": "https://nursing.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/nursing.unhas.ac.id.ico",
     "slug": "fakultas-keperawatan",
-    "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
-    "time": 2756,
-    "timeDay": 2964,
-    "timeWeek": 2756,
-    "timeMonth": 2756,
-    "timeYear": 2756,
+    "status": "up",
+    "uptime": "96.97%",
+    "uptimeDay": "91.36%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "96.97%",
+    "uptimeYear": "96.97%",
+    "time": 2784,
+    "timeDay": 2999,
+    "timeWeek": 2784,
+    "timeMonth": 2784,
+    "timeYear": 2784,
     "dailyMinutesDown": {
-      "2023-07-01": 38
+      "2023-07-01": 124
     }
   },
   {
@@ -539,19 +543,19 @@
     "url": "https://sci.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/sci.unhas.ac.id.ico",
     "slug": "fakultas-mipa",
-    "status": "down",
-    "uptime": "99.10%",
-    "uptimeDay": "97.49%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.10%",
-    "time": 3242,
-    "timeDay": 2888,
-    "timeWeek": 3242,
-    "timeMonth": 3242,
-    "timeYear": 3242,
+    "status": "up",
+    "uptime": "97.00%",
+    "uptimeDay": "91.45%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "97.00%",
+    "time": 3214,
+    "timeDay": 2927,
+    "timeWeek": 3214,
+    "timeMonth": 3214,
+    "timeYear": 3214,
     "dailyMinutesDown": {
-      "2023-07-01": 36
+      "2023-07-01": 123
     }
   },
   {
@@ -571,7 +575,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-01": 782,
+      "2023-07-01": 870,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 342
@@ -582,19 +586,19 @@
     "url": "https://lp2m.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/lp2m.unhas.ac.id.ico",
     "slug": "lp-2-m",
-    "status": "down",
-    "uptime": "99.14%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.14%",
-    "time": 3512,
-    "timeDay": 3315,
-    "timeWeek": 3512,
-    "timeMonth": 3512,
-    "timeYear": 3512,
+    "status": "up",
+    "uptime": "97.04%",
+    "uptimeDay": "91.55%",
+    "uptimeWeek": "97.04%",
+    "uptimeMonth": "97.04%",
+    "uptimeYear": "97.04%",
+    "time": 3606,
+    "timeDay": 3882,
+    "timeWeek": 3606,
+    "timeMonth": 3606,
+    "timeYear": 3606,
     "dailyMinutesDown": {
-      "2023-07-01": 35
+      "2023-07-01": 122
     }
   }
 ]
