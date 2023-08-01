@@ -442,7 +442,7 @@
     "slug": "fakultas-isip",
     "status": "up",
     "uptime": "78.22%",
-    "uptimeDay": "0.06%",
+    "uptimeDay": "0.10%",
     "uptimeWeek": "0.01%",
     "uptimeMonth": "75.97%",
     "uptimeYear": "78.22%",
@@ -668,7 +668,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-01": 449,
+      "2023-08-01": 450,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
