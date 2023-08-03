@@ -1,7 +1,7 @@
 url: https://lp2m.unhas.ac.id
-status: up
-code: 200
-responseTime: 3472
-lastUpdated: 2023-08-02T23:08:58.435Z
+status: down
+code: 500
+responseTime: 6301
+lastUpdated: 2023-08-03T01:51:59.192Z
 startTime: Wed Jun 28 2023 18:03:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
