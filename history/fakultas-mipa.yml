@@ -1,7 +1,7 @@
 url: https://sci.unhas.ac.id
-status: up
-code: 200
-responseTime: 3201
-lastUpdated: 2023-08-17T23:09:38.143Z
+status: down
+code: 500
+responseTime: 1107
+lastUpdated: 2023-08-18T13:09:25.430Z
 startTime: Wed Jun 28 2023 18:03:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
