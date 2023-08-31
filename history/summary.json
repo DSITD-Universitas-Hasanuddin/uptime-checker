@@ -86,7 +86,7 @@
     "uptimeYear": "99.19%",
     "time": 2632,
     "timeDay": 2212,
-    "timeWeek": 2287,
+    "timeWeek": 2288,
     "timeMonth": 2405,
     "timeYear": 2632,
     "dailyMinutesDown": {
@@ -249,19 +249,19 @@
     "url": "https://sikola.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/sikola.unhas.ac.id.ico",
     "slug": "sikola-unhas",
-    "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.22%",
-    "time": 5081,
-    "timeDay": 5081,
-    "timeWeek": 5081,
-    "timeMonth": 5081,
-    "timeYear": 5081,
+    "status": "up",
+    "uptime": "92.69%",
+    "uptimeDay": "92.69%",
+    "uptimeWeek": "92.69%",
+    "uptimeMonth": "92.69%",
+    "uptimeYear": "92.69%",
+    "time": 5663,
+    "timeDay": 5663,
+    "timeWeek": 5663,
+    "timeMonth": 5663,
+    "timeYear": 5663,
     "dailyMinutesDown": {
-      "2023-08-31": 1
+      "2023-08-31": 12
     }
   },
   {
@@ -583,11 +583,11 @@
     "uptime": "87.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.52%",
-    "uptimeMonth": "94.74%",
+    "uptimeMonth": "94.76%",
     "uptimeYear": "87.54%",
     "time": 3888,
     "timeDay": 2381,
-    "timeWeek": 2947,
+    "timeWeek": 2986,
     "timeMonth": 4589,
     "timeYear": 3888,
     "dailyMinutesDown": {
@@ -916,7 +916,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-31": 464,
+      "2023-08-31": 476,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
