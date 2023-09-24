@@ -1,7 +1,7 @@
 url: https://sso.unhas.ac.id
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-24T17:42:24.180Z
+status: up
+code: 200
+responseTime: 1370
+lastUpdated: 2023-09-24T17:47:19.471Z
 startTime: 2023-01-03T08:56:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
