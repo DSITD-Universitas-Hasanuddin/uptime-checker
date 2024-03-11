@@ -504,7 +504,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sister.unhas.ac.id.ico",
     "slug": "sister-unhas",
     "status": "down",
-    "uptime": "71.58%",
+    "uptime": "71.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -515,7 +515,7 @@
     "timeMonth": 0,
     "timeYear": 1552,
     "dailyMinutesDown": {
-      "2024-03-11": 865,
+      "2024-03-11": 878,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
@@ -1390,19 +1390,19 @@
     "url": "https://forestry.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/forestry.unhas.ac.id.ico",
     "slug": "fakultas-kehutanan",
-    "status": "up",
-    "uptime": "95.89%",
-    "uptimeDay": "96.80%",
-    "uptimeWeek": "91.44%",
-    "uptimeMonth": "97.02%",
-    "uptimeYear": "95.89%",
+    "status": "down",
+    "uptime": "95.94%",
+    "uptimeDay": "96.68%",
+    "uptimeWeek": "91.42%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "95.94%",
     "time": 3864,
     "timeDay": 2693,
     "timeWeek": 3145,
     "timeMonth": 3324,
     "timeYear": 3864,
     "dailyMinutesDown": {
-      "2024-03-11": 46,
+      "2024-03-11": 48,
       "2024-03-08": 817,
       "2024-02-27": 34,
       "2024-02-15": 127,
@@ -1487,8 +1487,7 @@
       "2023-07-19": 30,
       "2023-07-13": 98,
       "2023-07-11": 40,
-      "2023-07-07": 270,
-      "2023-07-06": 201
+      "2023-07-07": 270
     }
   },
   {
@@ -1977,7 +1976,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-11": 866,
+      "2024-03-11": 879,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
