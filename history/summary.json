@@ -4,10 +4,10 @@
     "url": "https://unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/unhas.ac.id.ico",
     "slug": "unhas-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "73.30%",
-    "uptimeWeek": "93.05%",
+    "uptimeDay": "73.17%",
+    "uptimeWeek": "93.03%",
     "uptimeMonth": "97.14%",
     "uptimeYear": "98.77%",
     "time": 1420,
@@ -16,7 +16,7 @@
     "timeMonth": 1602,
     "timeYear": 1430,
     "dailyMinutesDown": {
-      "2024-04-06": 101,
+      "2024-04-06": 103,
       "2024-04-05": 283,
       "2024-04-04": 16,
       "2024-04-03": 20,
@@ -98,7 +98,7 @@
       "2023-09-27": 19,
       "2023-09-21": 18,
       "2023-09-15": 185,
-      "2023-09-13": 67
+      "2023-09-13": 47
     }
   },
   {
@@ -236,9 +236,9 @@
     "slug": "sso-unhas",
     "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "91.67%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "98.43%",
+    "uptimeDay": "90.88%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "98.40%",
     "uptimeYear": "98.63%",
     "time": 1573,
     "timeDay": 1500,
@@ -246,7 +246,7 @@
     "timeMonth": 1730,
     "timeYear": 1568,
     "dailyMinutesDown": {
-      "2024-04-06": 103,
+      "2024-04-06": 114,
       "2024-04-05": 17,
       "2024-04-04": 15,
       "2024-04-03": 19,
@@ -501,7 +501,7 @@
     "timeMonth": 0,
     "timeYear": 1570,
     "dailyMinutesDown": {
-      "2024-04-06": 659,
+      "2024-04-06": 670,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -1878,7 +1878,7 @@
     "slug": "fakultas-keperawatan",
     "status": "up",
     "uptime": "95.92%",
-    "uptimeDay": "92.98%",
+    "uptimeDay": "93.82%",
     "uptimeWeek": "78.78%",
     "uptimeMonth": "88.41%",
     "uptimeYear": "95.92%",
@@ -2107,7 +2107,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-06": 659,
+      "2024-04-06": 671,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
