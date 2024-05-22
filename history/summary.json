@@ -4,11 +4,11 @@
     "url": "https://unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/unhas.ac.id.ico",
     "slug": "unhas-main",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "97.65%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "97.64%",
     "uptimeYear": "98.44%",
     "time": 1472,
     "timeDay": 1520,
@@ -16,7 +16,7 @@
     "timeMonth": 1576,
     "timeYear": 1481,
     "dailyMinutesDown": {
-      "2024-05-22": 18,
+      "2024-05-22": 22,
       "2024-05-21": 34,
       "2024-05-20": 67,
       "2024-05-19": 3,
@@ -97,7 +97,7 @@
       "2023-11-18": 59,
       "2023-11-16": 19,
       "2023-11-12": 26,
-      "2023-11-10": 34
+      "2023-11-10": 16
     }
   },
   {
@@ -105,19 +105,19 @@
     "url": "https://apps.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/apps.unhas.ac.id.ico",
     "slug": "apps",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "97.70%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "97.69%",
     "uptimeYear": "98.83%",
-    "time": 2450,
+    "time": 2449,
     "timeDay": 2446,
     "timeWeek": 2525,
     "timeMonth": 2446,
     "timeYear": 2464,
     "dailyMinutesDown": {
-      "2024-05-22": 17,
+      "2024-05-22": 20,
       "2024-05-21": 19,
       "2024-05-20": 66,
       "2024-05-19": 2,
@@ -201,8 +201,7 @@
       "2023-10-31": 19,
       "2023-10-29": 22,
       "2023-10-23": 15,
-      "2023-10-21": 16,
-      "2023-10-19": 15
+      "2023-10-21": 16
     }
   },
   {
@@ -232,19 +231,19 @@
     "url": "https://sso.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/sso.unhas.ac.id.ico",
     "slug": "sso-unhas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "98.74%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "98.71%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "98.65%",
-    "time": 1610,
+    "time": 1611,
     "timeDay": 1700,
     "timeWeek": 1950,
     "timeMonth": 1699,
     "timeYear": 1619,
     "dailyMinutesDown": {
-      "2024-05-22": 17,
+      "2024-05-22": 20,
       "2024-05-21": 18,
       "2024-05-20": 51,
       "2024-05-19": 1,
@@ -334,8 +333,7 @@
       "2023-09-12": 17,
       "2023-09-10": 216,
       "2023-09-09": 146,
-      "2023-09-08": 1,
-      "2023-09-04": 17
+      "2023-09-08": 1
     }
   },
   {
@@ -500,7 +498,7 @@
     "timeMonth": 0,
     "timeYear": 1628,
     "dailyMinutesDown": {
-      "2024-05-22": 800,
+      "2024-05-22": 819,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
@@ -1643,10 +1641,10 @@
     "url": "https://lawfaculty.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/lawfaculty.unhas.ac.id.ico",
     "slug": "fakultas-hukum",
-    "status": "up",
+    "status": "down",
     "uptime": "97.57%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "98.76%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "97.86%",
     "uptimeYear": "97.57%",
     "time": 1825,
@@ -1655,7 +1653,7 @@
     "timeMonth": 1832,
     "timeYear": 1825,
     "dailyMinutesDown": {
-      "2024-05-22": 16,
+      "2024-05-22": 19,
       "2024-05-21": 18,
       "2024-05-20": 52,
       "2024-05-19": 0,
@@ -1741,8 +1739,7 @@
       "2023-11-01": 193,
       "2023-10-31": 17,
       "2023-10-30": 775,
-      "2023-10-29": 21,
-      "2023-10-28": 25
+      "2023-10-29": 21
     }
   },
   {
@@ -1750,10 +1747,10 @@
     "url": "https://dent.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/dent.unhas.ac.id.ico",
     "slug": "fakultas-kedokteran-gigi",
-    "status": "up",
+    "status": "down",
     "uptime": "96.23%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "98.79%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "98.76%",
     "uptimeMonth": "86.18%",
     "uptimeYear": "96.23%",
     "time": 2170,
@@ -1762,7 +1759,7 @@
     "timeMonth": 1757,
     "timeYear": 2170,
     "dailyMinutesDown": {
-      "2024-05-22": 16,
+      "2024-05-22": 18,
       "2024-05-21": 17,
       "2024-05-20": 51,
       "2024-05-18": 38,
@@ -1859,8 +1856,7 @@
       "2023-08-06": 22,
       "2023-08-04": 218,
       "2023-08-03": 849,
-      "2023-07-29": 19,
-      "2023-07-26": 15
+      "2023-07-29": 19
     }
   },
   {
@@ -2188,7 +2184,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-22": 801,
+      "2024-05-22": 821,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
