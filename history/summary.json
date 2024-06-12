@@ -485,7 +485,7 @@
     "timeMonth": 0,
     "timeYear": 1654,
     "dailyMinutesDown": {
-      "2024-06-12": 73,
+      "2024-06-12": 107,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
@@ -1675,10 +1675,10 @@
     "url": "https://lawfaculty.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/lawfaculty.unhas.ac.id.ico",
     "slug": "fakultas-hukum",
-    "status": "up",
+    "status": "down",
     "uptime": "95.53%",
-    "uptimeDay": "29.38%",
-    "uptimeWeek": "50.33%",
+    "uptimeDay": "31.67%",
+    "uptimeWeek": "50.32%",
     "uptimeMonth": "70.11%",
     "uptimeYear": "95.53%",
     "time": 1823,
@@ -1687,6 +1687,7 @@
     "timeMonth": 1789,
     "timeYear": 1823,
     "dailyMinutesDown": {
+      "2024-06-12": 1,
       "2024-06-11": 1090,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
@@ -1776,8 +1777,7 @@
       "2023-11-16": 18,
       "2023-11-12": 24,
       "2023-11-10": 170,
-      "2023-11-09": 91,
-      "2023-11-08": 26
+      "2023-11-09": 91
     }
   },
   {
@@ -2105,7 +2105,7 @@
     "slug": "fakultas-mipa",
     "status": "up",
     "uptime": "95.30%",
-    "uptimeDay": "97.56%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "89.27%",
     "uptimeMonth": "97.39%",
     "uptimeYear": "95.30%",
@@ -2228,7 +2228,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-12": 73,
+      "2024-06-12": 108,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
