@@ -6,9 +6,9 @@
     "slug": "unhas-main",
     "status": "up",
     "uptime": "98.92%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "98.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "98.43%",
     "time": 1487,
     "timeDay": 1907,
@@ -16,7 +16,6 @@
     "timeMonth": 1633,
     "timeYear": 1502,
     "dailyMinutesDown": {
-      "2024-06-18": 6,
       "2024-06-14": 21,
       "2024-06-13": 16,
       "2024-06-10": 19,
@@ -94,7 +93,8 @@
       "2023-12-29": 17,
       "2023-12-26": 25,
       "2023-12-24": 15,
-      "2023-12-22": 19
+      "2023-12-22": 19,
+      "2023-12-15": 23
     }
   },
   {
@@ -104,9 +104,9 @@
     "slug": "apps",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "98.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "98.93%",
     "uptimeYear": "98.82%",
     "time": 2479,
     "timeDay": 5404,
@@ -114,7 +114,6 @@
     "timeMonth": 2712,
     "timeYear": 2494,
     "dailyMinutesDown": {
-      "2024-06-18": 6,
       "2024-06-14": 20,
       "2024-06-13": 16,
       "2024-06-10": 18,
@@ -196,7 +195,8 @@
       "2023-12-12": 15,
       "2023-12-04": 94,
       "2023-12-01": 22,
-      "2023-11-24": 17
+      "2023-11-24": 17,
+      "2023-11-23": 21
     }
   },
   {
@@ -227,9 +227,9 @@
     "slug": "sso-unhas",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "98.76%",
     "time": 1632,
     "timeDay": 4312,
@@ -237,7 +237,6 @@
     "timeMonth": 1886,
     "timeYear": 1646,
     "dailyMinutesDown": {
-      "2024-06-18": 5,
       "2024-06-14": 20,
       "2024-06-13": 15,
       "2024-06-10": 18,
@@ -323,7 +322,8 @@
       "2023-10-29": 22,
       "2023-10-21": 15,
       "2023-10-13": 16,
-      "2023-10-12": 26
+      "2023-10-12": 26,
+      "2023-10-08": 26
     }
   },
   {
@@ -476,14 +476,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.82%",
+    "uptimeYear": "39.81%",
     "time": 1627,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1671,
     "dailyMinutesDown": {
-      "2024-06-19": 0,
+      "2024-06-19": 73,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
@@ -1203,11 +1203,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilmubudaya.unhas.ac.id.ico",
     "slug": "fakultas-ilmu-budaya",
     "status": "up",
-    "uptime": "95.66%",
+    "uptime": "95.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "95.66%",
+    "uptimeYear": "95.67%",
     "time": 4590,
     "timeDay": 3520,
     "timeWeek": 4057,
@@ -1682,9 +1682,9 @@
     "slug": "fakultas-hukum",
     "status": "up",
     "uptime": "95.61%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "96.62%",
-    "uptimeMonth": "69.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.67%",
+    "uptimeMonth": "69.47%",
     "uptimeYear": "95.61%",
     "time": 1828,
     "timeDay": 3318,
@@ -1692,7 +1692,6 @@
     "timeMonth": 1862,
     "timeYear": 1828,
     "dailyMinutesDown": {
-      "2024-06-18": 5,
       "2024-06-14": 19,
       "2024-06-13": 15,
       "2024-06-12": 301,
@@ -1782,7 +1781,8 @@
       "2023-11-20": 15,
       "2023-11-19": 187,
       "2023-11-18": 58,
-      "2023-11-16": 18
+      "2023-11-16": 18,
+      "2023-11-12": 24
     }
   },
   {
@@ -1792,9 +1792,9 @@
     "slug": "fakultas-kedokteran-gigi",
     "status": "up",
     "uptime": "96.71%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "96.71%",
     "time": 2121,
     "timeDay": 1369,
@@ -1802,7 +1802,6 @@
     "timeMonth": 1517,
     "timeYear": 2121,
     "dailyMinutesDown": {
-      "2024-06-18": 4,
       "2024-06-14": 19,
       "2024-06-10": 17,
       "2024-06-09": 27,
@@ -1896,7 +1895,8 @@
       "2023-09-21": 16,
       "2023-09-12": 15,
       "2023-09-10": 217,
-      "2023-09-09": 144
+      "2023-09-09": 144,
+      "2023-09-04": 16
     }
   },
   {
@@ -2233,7 +2233,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-19": 1,
+      "2024-06-19": 74,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
