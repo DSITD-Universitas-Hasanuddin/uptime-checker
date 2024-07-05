@@ -4,10 +4,10 @@
     "url": "https://unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/unhas.ac.id.ico",
     "slug": "unhas-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "94.00%",
-    "uptimeWeek": "98.59%",
+    "uptimeDay": "93.89%",
+    "uptimeWeek": "98.58%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "98.63%",
     "time": 1500,
@@ -16,7 +16,7 @@
     "timeMonth": 1557,
     "timeYear": 1512,
     "dailyMinutesDown": {
-      "2024-07-05": 86,
+      "2024-07-05": 88,
       "2024-07-01": 16,
       "2024-06-29": 22,
       "2024-06-28": 36,
@@ -89,7 +89,7 @@
       "2024-01-29": 71,
       "2024-01-28": 20,
       "2024-01-25": 270,
-      "2024-01-22": 49
+      "2024-01-22": 33
     }
   },
   {
@@ -323,7 +323,7 @@
     "status": "up",
     "uptime": "98.54%",
     "uptimeDay": "98.87%",
-    "uptimeWeek": "99.03%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.54%",
     "time": 3022,
@@ -477,7 +477,7 @@
     "timeMonth": 0,
     "timeYear": 1696,
     "dailyMinutesDown": {
-      "2024-07-05": 975,
+      "2024-07-05": 1002,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
@@ -2283,7 +2283,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-05": 976,
+      "2024-07-05": 1003,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
@@ -2655,10 +2655,10 @@
     "url": "https://lp2m.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/lp2m.unhas.ac.id.ico",
     "slug": "lp-2-m",
-    "status": "up",
+    "status": "down",
     "uptime": "96.53%",
-    "uptimeDay": "96.77%",
-    "uptimeWeek": "94.85%",
+    "uptimeDay": "96.68%",
+    "uptimeWeek": "94.84%",
     "uptimeMonth": "97.18%",
     "uptimeYear": "96.48%",
     "time": 3921,
@@ -2667,7 +2667,7 @@
     "timeMonth": 3317,
     "timeYear": 3932,
     "dailyMinutesDown": {
-      "2024-07-05": 46,
+      "2024-07-05": 47,
       "2024-07-01": 209,
       "2024-06-30": 264,
       "2024-06-21": 143,
