@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/unhas.ac.id.ico",
     "slug": "unhas-main",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "96.39%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "98.85%",
+    "uptime": "99.29%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "98.80%",
     "time": 1500,
     "timeDay": 1098,
     "timeWeek": 1092,
     "timeMonth": 1202,
     "timeYear": 1504,
     "dailyMinutesDown": {
-      "2024-09-11": 53,
+      "2024-09-11": 39,
       "2024-09-10": 19,
       "2024-09-09": 18,
       "2024-09-07": 17,
@@ -89,7 +89,8 @@
       "2024-04-06": 732,
       "2024-04-05": 283,
       "2024-04-04": 16,
-      "2024-04-03": 20
+      "2024-04-03": 20,
+      "2024-04-01": 279
     }
   },
   {
@@ -99,17 +100,17 @@
     "slug": "apps",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.16%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.15%",
     "time": 2481,
     "timeDay": 2068,
     "timeWeek": 2228,
     "timeMonth": 2159,
     "timeYear": 2488,
     "dailyMinutesDown": {
-      "2024-09-11": 50,
+      "2024-09-11": 37,
       "2024-09-10": 19,
       "2024-09-09": 18,
       "2024-09-07": 16,
@@ -185,7 +186,7 @@
       "2024-03-22": 20,
       "2024-03-21": 87,
       "2024-03-20": 4,
-      "2024-03-18": 70
+      "2024-03-18": 99
     }
   },
   {
@@ -216,9 +217,9 @@
     "slug": "sso-unhas",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "96.58%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.08%",
     "time": 1659,
     "timeDay": 1293,
@@ -226,7 +227,7 @@
     "timeMonth": 1402,
     "timeYear": 1665,
     "dailyMinutesDown": {
-      "2024-09-11": 50,
+      "2024-09-11": 37,
       "2024-09-10": 18,
       "2024-09-09": 17,
       "2024-09-07": 16,
@@ -300,7 +301,8 @@
       "2024-03-17": 15,
       "2024-03-15": 60,
       "2024-03-14": 44,
-      "2024-03-13": 48
+      "2024-03-13": 48,
+      "2024-03-12": 20
     }
   },
   {
@@ -445,18 +447,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sister.unhas.ac.id.ico",
     "slug": "sister-unhas",
     "status": "down",
-    "uptime": "49.97%",
+    "uptime": "49.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.93%",
+    "uptimeYear": "16.91%",
     "time": 1732,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1608,
     "dailyMinutesDown": {
-      "2024-09-11": 1393,
+      "2024-09-12": 81,
+      "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
@@ -974,11 +977,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fikp.unhas.ac.id.ico",
     "slug": "fakultas-ikp",
     "status": "up",
-    "uptime": "95.27%",
+    "uptime": "95.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.59%",
     "uptimeMonth": "96.87%",
-    "uptimeYear": "96.11%",
+    "uptimeYear": "96.14%",
     "time": 4068,
     "timeDay": 2559,
     "timeWeek": 2687,
@@ -1152,7 +1155,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.60%",
     "uptimeMonth": "96.88%",
-    "uptimeYear": "96.84%",
+    "uptimeYear": "96.86%",
     "time": 3093,
     "timeDay": 2609,
     "timeWeek": 2344,
@@ -1235,7 +1238,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilmubudaya.unhas.ac.id.ico",
     "slug": "fakultas-ilmu-budaya",
     "status": "down",
-    "uptime": "85.09%",
+    "uptime": "85.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "10.80%",
@@ -1246,7 +1249,8 @@
     "timeMonth": 944,
     "timeYear": 3879,
     "dailyMinutesDown": {
-      "2024-09-11": 1394,
+      "2024-09-12": 82,
+      "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
@@ -1736,9 +1740,9 @@
     "slug": "fakultas-hukum",
     "status": "up",
     "uptime": "97.03%",
-    "uptimeDay": "96.68%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.03%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.06%",
     "uptimeYear": "96.41%",
     "time": 1780,
     "timeDay": 1476,
@@ -1746,7 +1750,7 @@
     "timeMonth": 1715,
     "timeYear": 1784,
     "dailyMinutesDown": {
-      "2024-09-11": 48,
+      "2024-09-11": 36,
       "2024-09-10": 18,
       "2024-09-09": 16,
       "2024-09-07": 15,
@@ -1825,7 +1829,8 @@
       "2024-03-15": 59,
       "2024-03-14": 42,
       "2024-03-13": 46,
-      "2024-03-12": 19
+      "2024-03-12": 19,
+      "2024-03-11": 16
     }
   },
   {
@@ -1835,9 +1840,9 @@
     "slug": "fakultas-kedokteran-gigi",
     "status": "up",
     "uptime": "98.47%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.14%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "98.15%",
     "time": 1966,
     "timeDay": 1340,
@@ -1845,7 +1850,7 @@
     "timeMonth": 1307,
     "timeYear": 1956,
     "dailyMinutesDown": {
-      "2024-09-11": 32,
+      "2024-09-11": 20,
       "2024-09-10": 17,
       "2024-09-09": 16,
       "2024-09-05": 25,
@@ -1926,7 +1931,8 @@
       "2024-02-26": 17,
       "2024-02-21": 18,
       "2024-02-16": 15,
-      "2024-02-11": 19
+      "2024-02-11": 19,
+      "2024-02-04": 22
     }
   },
   {
@@ -1939,7 +1945,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.66%",
     "uptimeMonth": "96.92%",
-    "uptimeYear": "97.08%",
+    "uptimeYear": "97.11%",
     "time": 2631,
     "timeDay": 2296,
     "timeWeek": 2160,
@@ -2256,7 +2262,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-11": 1395,
+      "2024-09-12": 83,
+      "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
@@ -2619,8 +2626,7 @@
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
-      "2023-09-14": 1440,
-      "2023-09-13": 1440
+      "2023-09-14": 1440
     }
   },
   {
