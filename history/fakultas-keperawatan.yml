@@ -1,7 +1,7 @@
 url: https://nursing.unhas.ac.id
-status: up
-code: 200
-responseTime: 2306
-lastUpdated: 2024-09-13T23:12:00.624Z
+status: down
+code: 500
+responseTime: 5694
+lastUpdated: 2024-09-14T19:44:26.694Z
 startTime: 2023-06-28T18:03:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
