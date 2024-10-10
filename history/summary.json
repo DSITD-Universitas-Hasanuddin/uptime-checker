@@ -339,8 +339,7 @@
       "2023-10-23": 34,
       "2023-10-20": 63,
       "2023-10-19": 31,
-      "2023-10-12": 110,
-      "2023-10-11": 45
+      "2023-10-12": 110
     }
   },
   {
@@ -429,18 +428,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sister.unhas.ac.id.ico",
     "slug": "sister-unhas",
     "status": "down",
-    "uptime": "47.78%",
+    "uptime": "47.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "9.30%",
+    "uptimeYear": "9.29%",
     "time": 1612,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1595,
     "dailyMinutesDown": {
-      "2024-10-09": 1436,
+      "2024-10-10": 84,
+      "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
@@ -1216,18 +1216,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilmubudaya.unhas.ac.id.ico",
     "slug": "fakultas-ilmu-budaya",
     "status": "down",
-    "uptime": "80.03%",
+    "uptime": "80.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.42%",
-    "uptimeYear": "76.96%",
+    "uptimeYear": "76.94%",
     "time": 3837,
     "timeDay": 763,
     "timeWeek": 908,
     "timeMonth": 930,
     "timeYear": 3626,
     "dailyMinutesDown": {
-      "2024-10-09": 1437,
+      "2024-10-10": 85,
+      "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
@@ -1821,7 +1822,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dent.unhas.ac.id.ico",
     "slug": "fakultas-kedokteran-gigi",
     "status": "up",
-    "uptime": "97.91%",
+    "uptime": "97.92%",
     "uptimeDay": "98.93%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "89.03%",
@@ -2214,8 +2215,7 @@
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
-      "2023-10-12": 1440,
-      "2023-10-11": 1440
+      "2023-10-12": 1440
     }
   },
   {
@@ -2235,7 +2235,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-09": 1437,
+      "2024-10-10": 85,
+      "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
@@ -2598,8 +2599,7 @@
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
-      "2023-10-12": 1440,
-      "2023-10-11": 1440
+      "2023-10-12": 1440
     }
   },
   {
