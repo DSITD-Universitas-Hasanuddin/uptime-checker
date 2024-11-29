@@ -336,8 +336,7 @@
       "2023-12-08": 75,
       "2023-12-07": 113,
       "2023-12-06": 56,
-      "2023-12-05": 7,
-      "2023-11-30": 48
+      "2023-12-05": 7
     }
   },
   {
@@ -425,7 +424,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sister.unhas.ac.id.ico",
     "slug": "sister-unhas",
     "status": "down",
-    "uptime": "44.31%",
+    "uptime": "44.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -436,7 +435,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-28": 1393,
+      "2024-11-29": 99,
+      "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
@@ -799,8 +799,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
-      "2023-12-01": 1440,
-      "2023-11-30": 1440
+      "2023-12-01": 1440
     }
   },
   {
@@ -1230,18 +1229,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilmubudaya.unhas.ac.id.ico",
     "slug": "fakultas-ilmu-budaya",
     "status": "down",
-    "uptime": "74.82%",
-    "uptimeDay": "2.66%",
+    "uptime": "74.81%",
+    "uptimeDay": "1.97%",
     "uptimeWeek": "1.67%",
     "uptimeMonth": "7.18%",
-    "uptimeYear": "64.18%",
+    "uptimeYear": "64.16%",
     "time": 3149,
-    "timeDay": 909,
+    "timeDay": 937,
     "timeWeek": 989,
     "timeMonth": 970,
     "timeYear": 2923,
     "dailyMinutesDown": {
-      "2024-11-28": 1364,
+      "2024-11-29": 99,
+      "2024-11-28": 1411,
       "2024-11-27": 1392,
       "2024-11-26": 1399,
       "2024-11-25": 1427,
@@ -1859,7 +1859,7 @@
     "status": "up",
     "uptime": "98.38%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.24%",
+    "uptimeWeek": "93.70%",
     "uptimeMonth": "90.34%",
     "uptimeYear": "97.69%",
     "time": 1836,
@@ -2253,7 +2253,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-28": 1394,
+      "2024-11-29": 100,
+      "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
@@ -2616,8 +2617,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
-      "2023-12-01": 1440,
-      "2023-11-30": 1440
+      "2023-12-01": 1440
     }
   },
   {
@@ -2626,7 +2626,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lp2m.unhas.ac.id.ico",
     "slug": "lp-2-m",
     "status": "up",
-    "uptime": "97.18%",
+    "uptime": "97.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.73%",
     "uptimeMonth": "98.15%",
