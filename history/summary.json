@@ -439,7 +439,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-03": 1252,
+      "2024-12-03": 1258,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
@@ -1232,19 +1232,19 @@
     "url": "https://ilmubudaya.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/ilmubudaya.unhas.ac.id.ico",
     "slug": "fakultas-ilmu-budaya",
-    "status": "up",
-    "uptime": "74.35%",
-    "uptimeDay": "3.54%",
-    "uptimeWeek": "2.35%",
-    "uptimeMonth": "10.83%",
+    "status": "down",
+    "uptime": "74.36%",
+    "uptimeDay": "3.91%",
+    "uptimeWeek": "2.40%",
+    "uptimeMonth": "10.84%",
     "uptimeYear": "63.18%",
-    "time": 3021,
-    "timeDay": 874,
-    "timeWeek": 961,
-    "timeMonth": 963,
-    "timeYear": 2796,
+    "time": 3017,
+    "timeDay": 864,
+    "timeWeek": 958,
+    "timeMonth": 962,
+    "timeYear": 2792,
     "dailyMinutesDown": {
-      "2024-12-03": 1201,
+      "2024-12-03": 1202,
       "2024-12-02": 1427,
       "2024-12-01": 1419,
       "2024-11-30": 1390,
@@ -1401,8 +1401,7 @@
       "2024-03-11": 240,
       "2024-03-10": 49,
       "2024-03-09": 612,
-      "2024-03-08": 1057,
-      "2024-02-27": 26
+      "2024-03-08": 1057
     }
   },
   {
@@ -2242,7 +2241,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-03": 1253,
+      "2024-12-03": 1259,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
