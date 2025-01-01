@@ -4,18 +4,19 @@
     "url": "https://unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/unhas.ac.id.ico",
     "slug": "unhas-main",
-    "status": "up",
+    "status": "down",
     "uptime": "97.19%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "18.82%",
-    "uptimeMonth": "71.23%",
-    "uptimeYear": "94.38%",
-    "time": 1468,
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "18.87%",
+    "uptimeMonth": "71.22%",
+    "uptimeYear": "94.39%",
+    "time": 1469,
     "timeDay": 1173,
     "timeWeek": 2309,
     "timeMonth": 1213,
     "timeYear": 1461,
     "dailyMinutesDown": {
+      "2025-01-01": 3,
       "2024-12-31": 26,
       "2024-12-30": 1425,
       "2024-12-29": 1440,
@@ -106,7 +107,7 @@
       "2024-07-15": 16,
       "2024-07-14": 15,
       "2024-07-11": 274,
-      "2024-07-10": 43
+      "2024-07-10": 23
     }
   },
   {
@@ -116,9 +117,9 @@
     "slug": "apps",
     "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "82.66%",
-    "uptimeWeek": "84.36%",
-    "uptimeMonth": "90.95%",
+    "uptimeDay": "82.09%",
+    "uptimeWeek": "84.28%",
+    "uptimeMonth": "90.93%",
     "uptimeYear": "98.58%",
     "time": 2445,
     "timeDay": 3310,
@@ -126,7 +127,7 @@
     "timeMonth": 2356,
     "timeYear": 2447,
     "dailyMinutesDown": {
-      "2025-01-01": 2,
+      "2025-01-01": 10,
       "2024-12-31": 248,
       "2024-12-27": 30,
       "2024-12-26": 735,
@@ -230,10 +231,10 @@
     "url": "https://sso.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/sso.unhas.ac.id.ico",
     "slug": "sso-unhas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "86.90%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "86.87%",
     "uptimeMonth": "91.58%",
     "uptimeYear": "98.62%",
     "time": 1620,
@@ -242,6 +243,7 @@
     "timeMonth": 1404,
     "timeYear": 1624,
     "dailyMinutesDown": {
+      "2025-01-01": 3,
       "2024-12-31": 25,
       "2024-12-26": 735,
       "2024-12-25": 583,
@@ -316,8 +318,7 @@
       "2024-07-11": 273,
       "2024-07-10": 41,
       "2024-07-05": 108,
-      "2024-06-29": 21,
-      "2024-06-28": 17
+      "2024-06-29": 21
     }
   },
   {
@@ -440,7 +441,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-01": 468,
+      "2025-01-01": 477,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -987,7 +988,7 @@
     "uptime": "93.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.59%",
+    "uptimeMonth": "60.57%",
     "uptimeYear": "94.65%",
     "time": 3232,
     "timeDay": 982,
@@ -995,7 +996,7 @@
     "timeMonth": 2639,
     "timeYear": 2960,
     "dailyMinutesDown": {
-      "2025-01-01": 468,
+      "2025-01-01": 477,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -1242,7 +1243,7 @@
     "timeMonth": 946,
     "timeYear": 2562,
     "dailyMinutesDown": {
-      "2025-01-01": 469,
+      "2025-01-01": 477,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -1519,7 +1520,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.unhas.ac.id.ico",
     "slug": "fakultas-pertanian",
     "status": "up",
-    "uptime": "96.16%",
+    "uptime": "96.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "98.45%",
@@ -1762,18 +1763,19 @@
     "url": "https://lawfaculty.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/lawfaculty.unhas.ac.id.ico",
     "slug": "fakultas-hukum",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "86.96%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "86.94%",
     "uptimeMonth": "91.70%",
-    "uptimeYear": "98.42%",
-    "time": 1748,
+    "uptimeYear": "98.43%",
+    "time": 1749,
     "timeDay": 1630,
     "timeWeek": 1586,
     "timeMonth": 1520,
     "timeYear": 1747,
     "dailyMinutesDown": {
+      "2025-01-01": 2,
       "2024-12-31": 24,
       "2024-12-26": 736,
       "2024-12-25": 576,
@@ -1848,8 +1850,7 @@
       "2024-07-15": 15,
       "2024-07-11": 272,
       "2024-07-10": 41,
-      "2024-07-05": 298,
-      "2024-06-29": 21
+      "2024-07-05": 298
     }
   },
   {
@@ -2231,7 +2232,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-01": 469,
+      "2025-01-01": 478,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
