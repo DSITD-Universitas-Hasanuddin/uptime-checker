@@ -6,17 +6,16 @@
     "slug": "unhas-main",
     "status": "up",
     "uptime": "96.80%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "78.57%",
-    "uptimeYear": "92.97%",
-    "time": 1408,
-    "timeDay": 1094,
-    "timeWeek": 1179,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "78.59%",
+    "uptimeYear": "92.96%",
+    "time": 1399,
+    "timeDay": 1077,
+    "timeWeek": 1178,
     "timeMonth": 1158,
-    "timeYear": 1394,
+    "timeYear": 1393,
     "dailyMinutesDown": {
-      "2025-03-14": 6,
       "2025-03-11": 58,
       "2025-03-10": 19,
       "2025-03-09": 52,
@@ -109,7 +108,7 @@
       "2024-10-02": 22,
       "2024-09-30": 15,
       "2024-09-26": 22,
-      "2024-09-25": 31
+      "2024-09-25": 52
     }
   },
   {
@@ -119,17 +118,16 @@
     "slug": "apps",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "96.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "96.60%",
     "uptimeYear": "98.68%",
     "time": 2397,
-    "timeDay": 2063,
-    "timeWeek": 2137,
-    "timeMonth": 2143,
-    "timeYear": 2379,
+    "timeDay": 2056,
+    "timeWeek": 2138,
+    "timeMonth": 2144,
+    "timeYear": 2377,
     "dailyMinutesDown": {
-      "2025-03-14": 5,
       "2025-03-11": 58,
       "2025-03-10": 19,
       "2025-03-09": 51,
@@ -202,7 +200,7 @@
       "2024-10-15": 38,
       "2024-10-10": 23,
       "2024-10-09": 16,
-      "2024-10-04": 40
+      "2024-10-04": 80
     }
   },
   {
@@ -217,10 +215,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 782,
-    "timeDay": 505,
-    "timeWeek": 542,
-    "timeMonth": 559,
-    "timeYear": 758,
+    "timeDay": 636,
+    "timeWeek": 561,
+    "timeMonth": 555,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2024-07-05": 195
     }
@@ -232,17 +230,16 @@
     "slug": "sso-unhas",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "96.62%",
-    "uptimeYear": "98.73%",
-    "time": 1585,
-    "timeDay": 1326,
-    "timeWeek": 1377,
-    "timeMonth": 1348,
-    "timeYear": 1572,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "96.63%",
+    "uptimeYear": "98.72%",
+    "time": 1584,
+    "timeDay": 1279,
+    "timeWeek": 1365,
+    "timeMonth": 1350,
+    "timeYear": 1573,
     "dailyMinutesDown": {
-      "2025-03-14": 5,
       "2025-03-11": 56,
       "2025-03-10": 18,
       "2025-03-09": 49,
@@ -314,7 +311,7 @@
       "2024-10-03": 17,
       "2024-10-02": 21,
       "2024-09-26": 21,
-      "2024-09-25": 59
+      "2024-09-25": 81
     }
   },
   {
@@ -329,10 +326,10 @@
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.84%",
     "time": 1576,
-    "timeDay": 1243,
-    "timeWeek": 1294,
-    "timeMonth": 1217,
-    "timeYear": 1403,
+    "timeDay": 1474,
+    "timeWeek": 1328,
+    "timeMonth": 1234,
+    "timeYear": 1402,
     "dailyMinutesDown": {
       "2025-02-19": 311,
       "2024-12-09": 62,
@@ -351,12 +348,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "97.53%",
-    "time": 2377,
-    "timeDay": 1706,
-    "timeWeek": 1707,
-    "timeMonth": 1625,
-    "timeYear": 2111,
+    "uptimeYear": "97.55%",
+    "time": 2375,
+    "timeDay": 1671,
+    "timeWeek": 1702,
+    "timeMonth": 1632,
+    "timeYear": 2095,
     "dailyMinutesDown": {
       "2025-02-27": 71,
       "2025-02-04": 100,
@@ -408,8 +405,7 @@
       "2024-03-22": 390,
       "2024-03-21": 326,
       "2024-03-20": 282,
-      "2024-03-16": 29,
-      "2024-03-15": 63
+      "2024-03-16": 29
     }
   },
   {
@@ -418,7 +414,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sister.unhas.ac.id.ico",
     "slug": "sister-unhas",
     "status": "down",
-    "uptime": "38.43%",
+    "uptime": "38.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -429,7 +425,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-14": 602,
+      "2025-03-15": 95,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -792,8 +789,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   },
   {
@@ -806,12 +802,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "93.81%",
+    "uptimeYear": "93.82%",
     "time": 2353,
-    "timeDay": 1825,
-    "timeWeek": 1952,
-    "timeMonth": 1815,
-    "timeYear": 2362,
+    "timeDay": 1899,
+    "timeWeek": 1919,
+    "timeMonth": 1828,
+    "timeYear": 2360,
     "dailyMinutesDown": {
       "2025-02-27": 70,
       "2025-02-04": 100,
@@ -876,8 +872,7 @@
       "2024-03-22": 390,
       "2024-03-21": 327,
       "2024-03-20": 264,
-      "2024-03-16": 29,
-      "2024-03-15": 63
+      "2024-03-16": 29
     }
   },
   {
@@ -890,12 +885,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "95.79%",
-    "time": 2449,
-    "timeDay": 1248,
-    "timeWeek": 1276,
-    "timeMonth": 1253,
-    "timeYear": 2078,
+    "uptimeYear": "95.80%",
+    "time": 2446,
+    "timeDay": 1302,
+    "timeWeek": 1269,
+    "timeMonth": 1258,
+    "timeYear": 2073,
     "dailyMinutesDown": {
       "2025-02-27": 70,
       "2025-02-04": 99,
@@ -954,8 +949,7 @@
       "2024-03-22": 390,
       "2024-03-21": 326,
       "2024-03-20": 264,
-      "2024-03-16": 29,
-      "2024-03-15": 63
+      "2024-03-16": 29
     }
   },
   {
@@ -964,16 +958,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fikp.unhas.ac.id.ico",
     "slug": "fakultas-ikp",
     "status": "up",
-    "uptime": "93.07%",
+    "uptime": "93.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "92.33%",
-    "time": 2994,
-    "timeDay": 2558,
-    "timeWeek": 2736,
-    "timeMonth": 2875,
-    "timeYear": 2771,
+    "uptimeYear": "92.35%",
+    "time": 2991,
+    "timeDay": 2722,
+    "timeWeek": 2768,
+    "timeMonth": 2874,
+    "timeYear": 2772,
     "dailyMinutesDown": {
       "2025-02-27": 69,
       "2025-02-04": 99,
@@ -1045,8 +1039,7 @@
       "2024-03-22": 390,
       "2024-03-21": 326,
       "2024-03-20": 264,
-      "2024-03-16": 29,
-      "2024-03-15": 63
+      "2024-03-16": 29
     }
   },
   {
@@ -1055,16 +1048,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fkm.unhas.ac.id.ico",
     "slug": "fakultas-km",
     "status": "up",
-    "uptime": "97.82%",
+    "uptime": "97.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "97.36%",
-    "time": 3379,
-    "timeDay": 3027,
-    "timeWeek": 2948,
-    "timeMonth": 2817,
-    "timeYear": 3337,
+    "uptimeYear": "97.37%",
+    "time": 3378,
+    "timeDay": 2990,
+    "timeWeek": 2972,
+    "timeMonth": 2834,
+    "timeYear": 3334,
     "dailyMinutesDown": {
       "2025-02-27": 69,
       "2025-02-04": 98,
@@ -1119,8 +1112,7 @@
       "2024-03-22": 390,
       "2024-03-21": 326,
       "2024-03-20": 264,
-      "2024-03-16": 29,
-      "2024-03-15": 63
+      "2024-03-16": 29
     }
   },
   {
@@ -1129,16 +1121,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/farmasi.unhas.ac.id.ico",
     "slug": "fakultas-farmasi",
     "status": "up",
-    "uptime": "95.77%",
+    "uptime": "95.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "95.92%",
+    "uptimeYear": "95.93%",
     "time": 2638,
-    "timeDay": 2133,
-    "timeWeek": 2326,
-    "timeMonth": 2881,
-    "timeYear": 2491,
+    "timeDay": 2280,
+    "timeWeek": 2347,
+    "timeMonth": 2892,
+    "timeYear": 2489,
     "dailyMinutesDown": {
       "2025-02-27": 65,
       "2025-02-04": 98,
@@ -1196,8 +1188,7 @@
       "2024-03-22": 391,
       "2024-03-21": 326,
       "2024-03-20": 264,
-      "2024-03-16": 29,
-      "2024-03-15": 63
+      "2024-03-16": 29
     }
   },
   {
@@ -1206,18 +1197,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilmubudaya.unhas.ac.id.ico",
     "slug": "fakultas-ilmu-budaya",
     "status": "down",
-    "uptime": "62.63%",
+    "uptime": "62.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "36.05%",
-    "time": 2573,
-    "timeDay": 904,
-    "timeWeek": 921,
-    "timeMonth": 917,
-    "timeYear": 1884,
+    "uptimeYear": "35.88%",
+    "time": 2568,
+    "timeDay": 974,
+    "timeWeek": 933,
+    "timeMonth": 923,
+    "timeYear": 1880,
     "dailyMinutesDown": {
-      "2025-03-14": 602,
+      "2025-03-15": 96,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -1469,8 +1461,7 @@
       "2024-03-22": 391,
       "2024-03-21": 326,
       "2024-03-20": 272,
-      "2024-03-16": 29,
-      "2024-03-15": 63
+      "2024-03-16": 29
     }
   },
   {
@@ -1479,16 +1470,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fisip.unhas.ac.id.ico",
     "slug": "fakultas-isip",
     "status": "up",
-    "uptime": "95.39%",
+    "uptime": "95.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "95.01%",
-    "time": 2340,
-    "timeDay": 1724,
-    "timeWeek": 1671,
-    "timeMonth": 2256,
-    "timeYear": 2020,
+    "uptimeYear": "95.02%",
+    "time": 2338,
+    "timeDay": 1671,
+    "timeWeek": 1689,
+    "timeMonth": 2266,
+    "timeYear": 2016,
     "dailyMinutesDown": {
       "2025-02-27": 64,
       "2025-02-04": 97,
@@ -1546,8 +1537,7 @@
       "2024-03-22": 391,
       "2024-03-21": 326,
       "2024-03-20": 272,
-      "2024-03-16": 29,
-      "2024-03-15": 63
+      "2024-03-16": 29
     }
   },
   {
@@ -1560,12 +1550,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "97.50%",
-    "time": 2397,
-    "timeDay": 1743,
-    "timeWeek": 1745,
-    "timeMonth": 1831,
-    "timeYear": 2018,
+    "uptimeYear": "97.51%",
+    "time": 2394,
+    "timeDay": 1866,
+    "timeWeek": 1766,
+    "timeMonth": 1844,
+    "timeYear": 2016,
     "dailyMinutesDown": {
       "2025-02-27": 64,
       "2025-02-04": 96,
@@ -1616,8 +1606,7 @@
       "2024-03-22": 391,
       "2024-03-21": 326,
       "2024-03-20": 272,
-      "2024-03-16": 29,
-      "2024-03-15": 63
+      "2024-03-16": 29
     }
   },
   {
@@ -1626,16 +1615,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/peternakan.unhas.ac.id.ico",
     "slug": "fakultas-peternakan",
     "status": "up",
-    "uptime": "96.25%",
+    "uptime": "96.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "95.31%",
-    "time": 2693,
-    "timeDay": 1674,
-    "timeWeek": 1566,
-    "timeMonth": 1894,
-    "timeYear": 2176,
+    "uptimeYear": "95.32%",
+    "time": 2690,
+    "timeDay": 1663,
+    "timeWeek": 1585,
+    "timeMonth": 1905,
+    "timeYear": 2171,
     "dailyMinutesDown": {
       "2025-02-27": 64,
       "2025-02-04": 96,
@@ -1694,8 +1683,7 @@
       "2024-03-22": 391,
       "2024-03-21": 326,
       "2024-03-20": 272,
-      "2024-03-16": 30,
-      "2024-03-15": 63
+      "2024-03-16": 30
     }
   },
   {
@@ -1704,16 +1692,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/forestry.unhas.ac.id.ico",
     "slug": "fakultas-kehutanan",
     "status": "up",
-    "uptime": "97.64%",
+    "uptime": "97.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "97.61%",
-    "time": 2922,
-    "timeDay": 2483,
-    "timeWeek": 2440,
-    "timeMonth": 2375,
-    "timeYear": 2918,
+    "uptimeYear": "97.62%",
+    "time": 2921,
+    "timeDay": 2428,
+    "timeWeek": 2424,
+    "timeMonth": 2387,
+    "timeYear": 2916,
     "dailyMinutesDown": {
       "2025-02-27": 63,
       "2025-02-04": 95,
@@ -1764,8 +1752,7 @@
       "2024-03-22": 391,
       "2024-03-21": 326,
       "2024-03-20": 272,
-      "2024-03-16": 30,
-      "2024-03-15": 63
+      "2024-03-16": 30
     }
   },
   {
@@ -1775,17 +1762,16 @@
     "slug": "fakultas-hukum",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "95.84%",
-    "uptimeYear": "98.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "95.85%",
+    "uptimeYear": "98.03%",
     "time": 1711,
-    "timeDay": 1440,
-    "timeWeek": 1487,
-    "timeMonth": 1735,
-    "timeYear": 1706,
+    "timeDay": 1474,
+    "timeWeek": 1491,
+    "timeMonth": 1737,
+    "timeYear": 1705,
     "dailyMinutesDown": {
-      "2025-03-14": 5,
       "2025-03-11": 55,
       "2025-03-10": 18,
       "2025-03-09": 33,
@@ -1863,7 +1849,7 @@
       "2024-10-03": 16,
       "2024-10-02": 41,
       "2024-09-26": 20,
-      "2024-09-25": 20
+      "2024-09-25": 43
     }
   },
   {
@@ -1874,14 +1860,14 @@
     "status": "up",
     "uptime": "96.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.76%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "68.11%",
     "uptimeYear": "93.61%",
-    "time": 1644,
-    "timeDay": 1073,
-    "timeWeek": 1299,
-    "timeMonth": 1218,
-    "timeYear": 1585,
+    "time": 1608,
+    "timeDay": 1173,
+    "timeWeek": 1228,
+    "timeMonth": 1225,
+    "timeYear": 1583,
     "dailyMinutesDown": {
       "2025-03-07": 225,
       "2025-02-28": 654,
@@ -1987,15 +1973,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vokasi.unhas.ac.id.ico",
     "slug": "fakultas-vokasi",
     "status": "up",
-    "uptime": "96.49%",
+    "uptime": "96.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "97.18%",
-    "time": 2417,
-    "timeDay": 2309,
-    "timeWeek": 2321,
-    "timeMonth": 2208,
+    "uptimeYear": "97.20%",
+    "time": 2408,
+    "timeDay": 2444,
+    "timeWeek": 2341,
+    "timeMonth": 2225,
     "timeYear": 2310,
     "dailyMinutesDown": {
       "2025-02-27": 63,
@@ -2049,8 +2035,7 @@
       "2024-03-22": 391,
       "2024-03-21": 325,
       "2024-03-20": 272,
-      "2024-03-16": 30,
-      "2024-03-15": 64
+      "2024-03-16": 30
     }
   },
   {
@@ -2059,15 +2044,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nursing.unhas.ac.id.ico",
     "slug": "fakultas-keperawatan",
     "status": "up",
-    "uptime": "97.20%",
+    "uptime": "97.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "95.97%",
-    "time": 2631,
-    "timeDay": 1867,
-    "timeWeek": 1879,
-    "timeMonth": 1896,
+    "uptimeYear": "95.99%",
+    "time": 2619,
+    "timeDay": 2271,
+    "timeWeek": 1925,
+    "timeMonth": 1916,
     "timeYear": 2676,
     "dailyMinutesDown": {
       "2025-03-12": 49,
@@ -2149,8 +2134,7 @@
       "2024-03-22": 391,
       "2024-03-21": 326,
       "2024-03-20": 272,
-      "2024-03-16": 30,
-      "2024-03-15": 64
+      "2024-03-16": 30
     }
   },
   {
@@ -2163,12 +2147,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "97.02%",
-    "time": 2967,
-    "timeDay": 2556,
-    "timeWeek": 2587,
-    "timeMonth": 2481,
-    "timeYear": 2869,
+    "uptimeYear": "97.03%",
+    "time": 2951,
+    "timeDay": 2834,
+    "timeWeek": 2599,
+    "timeMonth": 2499,
+    "timeYear": 2873,
     "dailyMinutesDown": {
       "2025-03-07": 44,
       "2025-02-27": 62,
@@ -2225,8 +2209,7 @@
       "2024-03-22": 391,
       "2024-03-21": 326,
       "2024-03-20": 272,
-      "2024-03-16": 30,
-      "2024-03-15": 64
+      "2024-03-16": 30
     }
   },
   {
@@ -2246,7 +2229,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-14": 603,
+      "2025-03-15": 96,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -2609,8 +2593,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   },
   {
@@ -2619,16 +2602,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lp2m.unhas.ac.id.ico",
     "slug": "lp-2-m",
     "status": "up",
-    "uptime": "97.33%",
+    "uptime": "97.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "97.62%",
-    "time": 3333,
-    "timeDay": 2033,
-    "timeWeek": 2041,
-    "timeMonth": 2124,
-    "timeYear": 3104,
+    "uptimeYear": "97.64%",
+    "time": 3331,
+    "timeDay": 2150,
+    "timeWeek": 2059,
+    "timeMonth": 2135,
+    "timeYear": 3086,
     "dailyMinutesDown": {
       "2025-02-27": 62,
       "2025-02-04": 93,
@@ -2679,8 +2662,7 @@
       "2024-03-21": 325,
       "2024-03-20": 272,
       "2024-03-18": 219,
-      "2024-03-16": 30,
-      "2024-03-15": 65
+      "2024-03-16": 30
     }
   }
 ]
