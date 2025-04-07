@@ -115,7 +115,7 @@
     "time": 2357,
     "timeDay": 1957,
     "timeWeek": 2106,
-    "timeMonth": 2211,
+    "timeMonth": 2210,
     "timeYear": 2341,
     "dailyMinutesDown": {
       "2025-04-07": 19,
@@ -225,7 +225,7 @@
     "time": 1552,
     "timeDay": 1287,
     "timeWeek": 1383,
-    "timeMonth": 1360,
+    "timeMonth": 1358,
     "timeYear": 1551,
     "dailyMinutesDown": {
       "2025-04-07": 19,
@@ -413,7 +413,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-07": 932,
+      "2025-04-07": 957,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -1174,14 +1174,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.07%",
+    "uptimeYear": "30.06%",
     "time": 2291,
     "timeDay": 797,
     "timeWeek": 1116,
     "timeMonth": 989,
     "timeYear": 1652,
     "dailyMinutesDown": {
-      "2025-04-07": 932,
+      "2025-04-07": 957,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -1834,10 +1834,10 @@
     "url": "https://dent.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/dent.unhas.ac.id.ico",
     "slug": "fakultas-kedokteran-gigi",
-    "status": "up",
+    "status": "down",
     "uptime": "95.84%",
-    "uptimeDay": "91.11%",
-    "uptimeWeek": "98.73%",
+    "uptimeDay": "90.99%",
+    "uptimeWeek": "98.71%",
     "uptimeMonth": "86.96%",
     "uptimeYear": "92.60%",
     "time": 1538,
@@ -1846,7 +1846,7 @@
     "timeMonth": 1445,
     "timeYear": 1475,
     "dailyMinutesDown": {
-      "2025-04-07": 128,
+      "2025-04-07": 130,
       "2025-03-30": 752,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -1944,7 +1944,7 @@
       "2024-07-16": 74,
       "2024-07-11": 272,
       "2024-07-10": 39,
-      "2024-07-05": 53
+      "2024-07-05": 36
     }
   },
   {
@@ -2120,7 +2120,7 @@
     "uptime": "94.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.52%",
+    "uptimeMonth": "52.46%",
     "uptimeYear": "93.51%",
     "time": 2866,
     "timeDay": 861,
@@ -2128,7 +2128,7 @@
     "timeMonth": 1881,
     "timeYear": 2709,
     "dailyMinutesDown": {
-      "2025-04-07": 933,
+      "2025-04-07": 958,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -2212,7 +2212,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-07": 933,
+      "2025-04-07": 958,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
