@@ -4,11 +4,11 @@
     "url": "https://unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/unhas.ac.id.ico",
     "slug": "unhas-main",
-    "status": "up",
+    "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "97.18%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "98.81%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "98.80%",
     "uptimeYear": "95.90%",
     "time": 1336,
     "timeDay": 1362,
@@ -16,7 +16,7 @@
     "timeMonth": 1244,
     "timeYear": 1306,
     "dailyMinutesDown": {
-      "2025-05-08": 22,
+      "2025-05-08": 25,
       "2025-05-07": 46,
       "2025-05-06": 118,
       "2025-05-05": 19,
@@ -95,8 +95,7 @@
       "2024-12-12": 19,
       "2024-12-10": 82,
       "2024-12-09": 38,
-      "2024-12-06": 16,
-      "2024-12-05": 20
+      "2024-12-06": 16
     }
   },
   {
@@ -104,19 +103,19 @@
     "url": "https://apps.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/apps.unhas.ac.id.ico",
     "slug": "apps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "97.25%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "99.07%",
-    "time": 2344,
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "99.09%",
+    "time": 2341,
     "timeDay": 2237,
     "timeWeek": 2087,
     "timeMonth": 2570,
     "timeYear": 2316,
     "dailyMinutesDown": {
-      "2025-05-08": 21,
+      "2025-05-08": 24,
       "2025-05-07": 46,
       "2025-05-06": 118,
       "2025-05-05": 19,
@@ -184,8 +183,7 @@
       "2024-12-25": 585,
       "2024-12-23": 34,
       "2024-12-15": 37,
-      "2024-12-12": 18,
-      "2024-12-10": 81
+      "2024-12-12": 18
     }
   },
   {
@@ -213,19 +211,19 @@
     "url": "https://sso.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/sso.unhas.ac.id.ico",
     "slug": "sso-unhas",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.73%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.80%",
     "time": 1520,
     "timeDay": 1370,
     "timeWeek": 1330,
     "timeMonth": 1478,
-    "timeYear": 1513,
+    "timeYear": 1514,
     "dailyMinutesDown": {
-      "2025-05-08": 21,
+      "2025-05-08": 24,
       "2025-05-07": 44,
       "2025-05-06": 116,
       "2025-05-05": 18,
@@ -295,9 +293,7 @@
       "2024-12-09": 36,
       "2024-12-05": 275,
       "2024-12-04": 1440,
-      "2024-12-03": 61,
-      "2024-12-02": 300,
-      "2024-12-01": 49
+      "2024-12-03": 61
     }
   },
   {
@@ -415,7 +411,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-08": 853,
+      "2025-05-08": 890,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -1206,14 +1202,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "21.60%",
+    "uptimeYear": "21.59%",
     "time": 2180,
     "timeDay": 1037,
     "timeWeek": 951,
     "timeMonth": 940,
     "timeYear": 1556,
     "dailyMinutesDown": {
-      "2025-05-08": 854,
+      "2025-05-08": 891,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -1822,11 +1818,11 @@
     "url": "https://lawfaculty.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/lawfaculty.unhas.ac.id.ico",
     "slug": "fakultas-hukum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "98.98%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "98.97%",
     "uptimeYear": "98.21%",
     "time": 1675,
     "timeDay": 1512,
@@ -1834,7 +1830,7 @@
     "timeMonth": 1606,
     "timeYear": 1662,
     "dailyMinutesDown": {
-      "2025-05-08": 20,
+      "2025-05-08": 22,
       "2025-05-07": 44,
       "2025-05-06": 116,
       "2025-05-05": 18,
@@ -1909,7 +1905,7 @@
       "2024-12-04": 1440,
       "2024-12-03": 45,
       "2024-12-02": 256,
-      "2024-12-01": 63
+      "2024-12-01": 48
     }
   },
   {
@@ -2208,7 +2204,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sci.unhas.ac.id.ico",
     "slug": "fakultas-mipa",
     "status": "up",
-    "uptime": "95.35%",
+    "uptime": "95.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "97.61%",
@@ -2310,7 +2306,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-08": 855,
+      "2025-05-08": 891,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
