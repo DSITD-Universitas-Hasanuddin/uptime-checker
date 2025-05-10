@@ -4,11 +4,11 @@
     "url": "https://unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/unhas.ac.id.ico",
     "slug": "unhas-main",
-    "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "71.20%",
-    "uptimeWeek": "89.93%",
-    "uptimeMonth": "97.06%",
+    "status": "down",
+    "uptime": "99.07%",
+    "uptimeDay": "72.32%",
+    "uptimeWeek": "89.90%",
+    "uptimeMonth": "97.05%",
     "uptimeYear": "97.80%",
     "time": 1310,
     "timeDay": 1057,
@@ -16,7 +16,7 @@
     "timeMonth": 1182,
     "timeYear": 1297,
     "dailyMinutesDown": {
-      "2025-05-10": 251,
+      "2025-05-10": 254,
       "2025-05-09": 380,
       "2025-05-08": 200,
       "2025-05-07": 46,
@@ -73,8 +73,7 @@
       "2025-01-29": 59,
       "2025-01-28": 21,
       "2025-01-24": 64,
-      "2025-01-23": 36,
-      "2025-01-20": 20
+      "2025-01-23": 36
     }
   },
   {
@@ -82,11 +81,11 @@
     "url": "https://apps.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/apps.unhas.ac.id.ico",
     "slug": "apps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "71.55%",
-    "uptimeWeek": "90.08%",
-    "uptimeMonth": "97.11%",
+    "uptimeDay": "72.66%",
+    "uptimeWeek": "90.05%",
+    "uptimeMonth": "97.10%",
     "uptimeYear": "99.34%",
     "time": 2311,
     "timeDay": 2098,
@@ -94,7 +93,7 @@
     "timeMonth": 2421,
     "timeYear": 2308,
     "dailyMinutesDown": {
-      "2025-05-10": 249,
+      "2025-05-10": 252,
       "2025-05-09": 376,
       "2025-05-08": 196,
       "2025-05-07": 46,
@@ -146,7 +145,7 @@
       "2025-02-03": 38,
       "2025-02-02": 76,
       "2025-01-30": 15,
-      "2025-01-29": 57
+      "2025-01-29": 20
     }
   },
   {
@@ -174,10 +173,10 @@
     "url": "https://sso.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/sso.unhas.ac.id.ico",
     "slug": "sso-unhas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "73.97%",
-    "uptimeWeek": "90.60%",
+    "uptimeDay": "75.09%",
+    "uptimeWeek": "90.58%",
     "uptimeMonth": "97.27%",
     "uptimeYear": "99.34%",
     "time": 1514,
@@ -186,7 +185,7 @@
     "timeMonth": 1429,
     "timeYear": 1506,
     "dailyMinutesDown": {
-      "2025-05-10": 246,
+      "2025-05-10": 249,
       "2025-05-09": 328,
       "2025-05-08": 193,
       "2025-05-07": 44,
@@ -240,8 +239,7 @@
       "2025-01-29": 57,
       "2025-01-28": 21,
       "2025-01-24": 64,
-      "2025-01-23": 33,
-      "2025-01-20": 19
+      "2025-01-23": 33
     }
   },
   {
@@ -359,7 +357,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-10": 874,
+      "2025-05-10": 899,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
@@ -1150,14 +1148,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "21.05%",
+    "uptimeYear": "21.04%",
     "time": 2175,
     "timeDay": 991,
     "timeWeek": 928,
     "timeMonth": 947,
     "timeYear": 1550,
     "dailyMinutesDown": {
-      "2025-05-10": 875,
+      "2025-05-10": 900,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
@@ -1768,19 +1766,19 @@
     "url": "https://lawfaculty.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/lawfaculty.unhas.ac.id.ico",
     "slug": "fakultas-hukum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "75.27%",
-    "uptimeWeek": "91.03%",
+    "uptimeDay": "76.39%",
+    "uptimeWeek": "91.02%",
     "uptimeMonth": "97.45%",
-    "uptimeYear": "98.84%",
+    "uptimeYear": "98.85%",
     "time": 1670,
     "timeDay": 1545,
     "timeWeek": 1522,
     "timeMonth": 1581,
     "timeYear": 1656,
     "dailyMinutesDown": {
-      "2025-05-10": 230,
+      "2025-05-10": 232,
       "2025-05-09": 309,
       "2025-05-08": 189,
       "2025-05-07": 44,
@@ -1838,7 +1836,7 @@
       "2025-01-23": 16,
       "2025-01-20": 19,
       "2025-01-19": 20,
-      "2025-01-18": 60
+      "2025-01-18": 33
     }
   },
   {
@@ -2239,7 +2237,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-10": 875,
+      "2025-05-10": 900,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
