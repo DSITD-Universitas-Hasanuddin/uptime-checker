@@ -1,7 +1,7 @@
 url: https://fkm.unhas.ac.id
-status: up
-code: 200
-responseTime: 7527
-lastUpdated: 2025-05-11T23:12:33.167Z
+status: down
+code: 500
+responseTime: 783
+lastUpdated: 2025-05-12T11:16:42.919Z
 startTime: 2023-06-28T18:02:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
