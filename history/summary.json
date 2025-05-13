@@ -4,11 +4,11 @@
     "url": "https://unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/unhas.ac.id.ico",
     "slug": "unhas-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "54.21%",
-    "uptimeWeek": "78.33%",
-    "uptimeMonth": "94.25%",
+    "uptimeDay": "53.98%",
+    "uptimeWeek": "78.30%",
+    "uptimeMonth": "94.24%",
     "uptimeYear": "99.44%",
     "time": 1296,
     "timeDay": 1115,
@@ -16,7 +16,7 @@
     "timeMonth": 1156,
     "timeYear": 1285,
     "dailyMinutesDown": {
-      "2025-05-13": 385,
+      "2025-05-13": 388,
       "2025-05-12": 369,
       "2025-05-11": 410,
       "2025-05-10": 374,
@@ -45,8 +45,7 @@
       "2025-03-27": 37,
       "2025-03-26": 36,
       "2025-03-24": 62,
-      "2025-03-23": 30,
-      "2025-03-20": 21
+      "2025-03-23": 30
     }
   },
   {
@@ -54,11 +53,11 @@
     "url": "https://apps.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/apps.unhas.ac.id.ico",
     "slug": "apps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "54.68%",
-    "uptimeWeek": "79.07%",
-    "uptimeMonth": "94.43%",
+    "uptimeDay": "54.48%",
+    "uptimeWeek": "79.05%",
+    "uptimeMonth": "94.42%",
     "uptimeYear": "99.44%",
     "time": 2300,
     "timeDay": 2115,
@@ -66,7 +65,7 @@
     "timeMonth": 2317,
     "timeYear": 2294,
     "dailyMinutesDown": {
-      "2025-05-13": 383,
+      "2025-05-13": 386,
       "2025-05-12": 363,
       "2025-05-11": 360,
       "2025-05-10": 369,
@@ -97,8 +96,7 @@
       "2025-03-24": 62,
       "2025-03-23": 30,
       "2025-03-20": 44,
-      "2025-03-18": 18,
-      "2025-03-11": 24
+      "2025-03-18": 18
     }
   },
   {
@@ -126,11 +124,11 @@
     "url": "https://sso.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/sso.unhas.ac.id.ico",
     "slug": "sso-unhas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "56.19%",
-    "uptimeWeek": "79.90%",
-    "uptimeMonth": "94.67%",
+    "uptimeDay": "56.02%",
+    "uptimeWeek": "79.88%",
+    "uptimeMonth": "94.66%",
     "uptimeYear": "99.45%",
     "time": 1504,
     "timeDay": 1312,
@@ -138,7 +136,7 @@
     "timeMonth": 1394,
     "timeYear": 1497,
     "dailyMinutesDown": {
-      "2025-05-13": 380,
+      "2025-05-13": 383,
       "2025-05-12": 342,
       "2025-05-11": 355,
       "2025-05-10": 364,
@@ -172,7 +170,7 @@
       "2025-03-18": 18,
       "2025-03-11": 56,
       "2025-03-10": 18,
-      "2025-03-09": 31
+      "2025-03-09": 16
     }
   },
   {
@@ -290,7 +288,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-13": 521,
+      "2025-05-13": 544,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
@@ -1088,7 +1086,7 @@
     "timeMonth": 936,
     "timeYear": 1543,
     "dailyMinutesDown": {
-      "2025-05-13": 521,
+      "2025-05-13": 545,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
@@ -1702,11 +1700,11 @@
     "url": "https://lawfaculty.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/lawfaculty.unhas.ac.id.ico",
     "slug": "fakultas-hukum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "55.47%",
-    "uptimeWeek": "80.31%",
-    "uptimeMonth": "94.84%",
+    "uptimeDay": "55.31%",
+    "uptimeWeek": "80.28%",
+    "uptimeMonth": "94.83%",
     "uptimeYear": "99.45%",
     "time": 1662,
     "timeDay": 1543,
@@ -1714,7 +1712,7 @@
     "timeMonth": 1562,
     "timeYear": 1649,
     "dailyMinutesDown": {
-      "2025-05-13": 378,
+      "2025-05-13": 380,
       "2025-05-12": 353,
       "2025-05-11": 349,
       "2025-05-10": 344,
@@ -1748,8 +1746,7 @@
       "2025-03-10": 18,
       "2025-03-09": 33,
       "2025-03-07": 60,
-      "2025-03-06": 16,
-      "2025-03-05": 21
+      "2025-03-06": 16
     }
   },
   {
@@ -2151,7 +2148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-13": 522,
+      "2025-05-13": 546,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
