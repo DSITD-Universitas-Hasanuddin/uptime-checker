@@ -4,19 +4,19 @@
     "url": "https://unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/unhas.ac.id.ico",
     "slug": "unhas-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "61.47%",
-    "uptimeWeek": "64.70%",
-    "uptimeMonth": "91.46%",
+    "uptimeDay": "62.34%",
+    "uptimeWeek": "64.90%",
+    "uptimeMonth": "91.48%",
     "uptimeYear": "99.29%",
     "time": 1234,
-    "timeDay": 1222,
+    "timeDay": 1221,
     "timeWeek": 1242,
     "timeMonth": 1167,
     "timeYear": 1214,
     "dailyMinutesDown": {
-      "2025-06-22": 277,
+      "2025-06-22": 280,
       "2025-06-21": 472,
       "2025-06-20": 518,
       "2025-06-19": 478,
@@ -24,7 +24,7 @@
       "2025-06-17": 764,
       "2025-06-16": 540,
       "2025-06-15": 457,
-      "2025-06-14": 54
+      "2025-06-14": 39
     }
   },
   {
@@ -32,19 +32,19 @@
     "url": "https://apps.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/apps.unhas.ac.id.ico",
     "slug": "apps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "63.02%",
-    "uptimeWeek": "65.71%",
-    "uptimeMonth": "91.37%",
+    "uptimeDay": "63.87%",
+    "uptimeWeek": "65.91%",
+    "uptimeMonth": "91.41%",
     "uptimeYear": "99.28%",
     "time": 2261,
-    "timeDay": 2195,
+    "timeDay": 2194,
     "timeWeek": 2266,
     "timeMonth": 2158,
     "timeYear": 2237,
     "dailyMinutesDown": {
-      "2025-06-22": 260,
+      "2025-06-22": 263,
       "2025-06-21": 451,
       "2025-06-20": 511,
       "2025-06-19": 471,
@@ -52,7 +52,7 @@
       "2025-06-17": 759,
       "2025-06-16": 505,
       "2025-06-15": 453,
-      "2025-06-14": 198
+      "2025-06-14": 175
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://sso.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/sso.unhas.ac.id.ico",
     "slug": "sso-unhas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "65.55%",
-    "uptimeWeek": "66.41%",
-    "uptimeMonth": "91.42%",
-    "uptimeYear": "99.28%",
+    "uptimeDay": "65.37%",
+    "uptimeWeek": "66.61%",
+    "uptimeMonth": "91.47%",
+    "uptimeYear": "99.29%",
     "time": 1433,
-    "timeDay": 1591,
+    "timeDay": 1607,
     "timeWeek": 1465,
     "timeMonth": 1381,
     "timeYear": 1423,
     "dailyMinutesDown": {
-      "2025-06-22": 257,
+      "2025-06-22": 260,
       "2025-06-21": 415,
       "2025-06-20": 505,
       "2025-06-19": 467,
@@ -104,7 +104,7 @@
       "2025-06-17": 753,
       "2025-06-16": 499,
       "2025-06-15": 441,
-      "2025-06-14": 249
+      "2025-06-14": 224
     }
   },
   {
@@ -227,7 +227,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-22": 592,
+      "2025-06-22": 617,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -768,7 +768,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fikp.unhas.ac.id.ico",
     "slug": "fakultas-ikp",
     "status": "up",
-    "uptime": "95.64%",
+    "uptime": "95.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.95%",
     "uptimeMonth": "98.91%",
@@ -1035,7 +1035,7 @@
     "timeMonth": 1152,
     "timeYear": 1334,
     "dailyMinutesDown": {
-      "2025-06-22": 592,
+      "2025-06-22": 618,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -1691,11 +1691,11 @@
     "url": "https://lawfaculty.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/lawfaculty.unhas.ac.id.ico",
     "slug": "fakultas-hukum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "65.95%",
-    "uptimeWeek": "67.09%",
-    "uptimeMonth": "91.49%",
+    "uptimeDay": "65.81%",
+    "uptimeWeek": "67.29%",
+    "uptimeMonth": "91.52%",
     "uptimeYear": "99.29%",
     "time": 1610,
     "timeDay": 1546,
@@ -1703,7 +1703,7 @@
     "timeMonth": 1538,
     "timeYear": 1597,
     "dailyMinutesDown": {
-      "2025-06-22": 254,
+      "2025-06-22": 256,
       "2025-06-21": 396,
       "2025-06-20": 499,
       "2025-06-19": 462,
@@ -1711,7 +1711,7 @@
       "2025-06-17": 750,
       "2025-06-16": 479,
       "2025-06-15": 437,
-      "2025-06-14": 287
+      "2025-06-14": 272
     }
   },
   {
@@ -1723,7 +1723,7 @@
     "uptime": "93.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.08%",
-    "uptimeMonth": "44.33%",
+    "uptimeMonth": "44.39%",
     "uptimeYear": "87.55%",
     "time": 1370,
     "timeDay": 1354,
@@ -2144,7 +2144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-22": 593,
+      "2025-06-22": 618,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
