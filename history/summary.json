@@ -4,19 +4,19 @@
     "url": "https://unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/unhas.ac.id.ico",
     "slug": "unhas-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "63.43%",
-    "uptimeWeek": "66.53%",
-    "uptimeMonth": "90.42%",
-    "uptimeYear": "99.20%",
+    "uptimeDay": "64.31%",
+    "uptimeWeek": "66.50%",
+    "uptimeMonth": "90.47%",
+    "uptimeYear": "99.21%",
     "time": 1208,
     "timeDay": 1121,
     "timeWeek": 1228,
-    "timeMonth": 1206,
+    "timeMonth": 1207,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2025-07-11": 371,
+      "2025-07-11": 374,
       "2025-07-10": 518,
       "2025-07-09": 419,
       "2025-07-08": 512,
@@ -24,7 +24,7 @@
       "2025-07-06": 388,
       "2025-07-05": 505,
       "2025-07-04": 683,
-      "2025-07-03": 296
+      "2025-07-03": 273
     }
   },
   {
@@ -32,11 +32,11 @@
     "url": "https://apps.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/apps.unhas.ac.id.ico",
     "slug": "apps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "63.85%",
-    "uptimeWeek": "67.99%",
-    "uptimeMonth": "90.52%",
+    "uptimeDay": "64.75%",
+    "uptimeWeek": "67.96%",
+    "uptimeMonth": "90.55%",
     "uptimeYear": "99.21%",
     "time": 2229,
     "timeDay": 2106,
@@ -44,7 +44,7 @@
     "timeMonth": 2200,
     "timeYear": 2216,
     "dailyMinutesDown": {
-      "2025-07-11": 368,
+      "2025-07-11": 371,
       "2025-07-10": 432,
       "2025-07-09": 415,
       "2025-07-08": 508,
@@ -53,7 +53,7 @@
       "2025-07-05": 499,
       "2025-07-04": 677,
       "2025-07-03": 393,
-      "2025-07-02": 16
+      "2025-07-02": 0
     }
   },
   {
@@ -84,11 +84,11 @@
     "url": "https://sso.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/sso.unhas.ac.id.ico",
     "slug": "sso-unhas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "64.29%",
-    "uptimeWeek": "68.37%",
-    "uptimeMonth": "90.62%",
+    "uptimeDay": "65.20%",
+    "uptimeWeek": "68.34%",
+    "uptimeMonth": "90.65%",
     "uptimeYear": "99.22%",
     "time": 1416,
     "timeDay": 1358,
@@ -96,7 +96,7 @@
     "timeMonth": 1412,
     "timeYear": 1405,
     "dailyMinutesDown": {
-      "2025-07-11": 364,
+      "2025-07-11": 367,
       "2025-07-10": 427,
       "2025-07-09": 409,
       "2025-07-08": 502,
@@ -104,8 +104,7 @@
       "2025-07-06": 346,
       "2025-07-05": 494,
       "2025-07-04": 671,
-      "2025-07-03": 387,
-      "2025-07-02": 16
+      "2025-07-03": 387
     }
   },
   {
@@ -234,7 +233,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-11": 1006,
+      "2025-07-11": 1022,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
@@ -1059,7 +1058,7 @@
     "timeMonth": 1141,
     "timeYear": 1237,
     "dailyMinutesDown": {
-      "2025-07-11": 1006,
+      "2025-07-11": 1022,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
@@ -1756,19 +1755,19 @@
     "url": "https://lawfaculty.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/lawfaculty.unhas.ac.id.ico",
     "slug": "fakultas-hukum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "65.73%",
-    "uptimeWeek": "69.14%",
-    "uptimeMonth": "90.67%",
-    "uptimeYear": "99.22%",
-    "time": 1589,
+    "uptimeDay": "66.68%",
+    "uptimeWeek": "69.11%",
+    "uptimeMonth": "90.77%",
+    "uptimeYear": "99.23%",
+    "time": 1587,
     "timeDay": 1541,
     "timeWeek": 1523,
     "timeMonth": 1546,
     "timeYear": 1590,
     "dailyMinutesDown": {
-      "2025-07-11": 361,
+      "2025-07-11": 363,
       "2025-07-10": 402,
       "2025-07-09": 401,
       "2025-07-08": 499,
@@ -1777,7 +1776,7 @@
       "2025-07-05": 485,
       "2025-07-04": 666,
       "2025-07-03": 384,
-      "2025-07-02": 82
+      "2025-07-02": 34
     }
   },
   {
@@ -2221,7 +2220,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-11": 1007,
+      "2025-07-11": 1023,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
