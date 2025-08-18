@@ -281,7 +281,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-17": 1410,
+      "2025-08-18": 119,
+      "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
@@ -644,8 +645,7 @@
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
-      "2024-08-19": 1440,
-      "2024-08-18": 1440
+      "2024-08-19": 1440
     }
   },
   {
@@ -1126,7 +1126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilmubudaya.unhas.ac.id.ico",
     "slug": "fakultas-ilmu-budaya",
     "status": "down",
-    "uptime": "50.08%",
+    "uptime": "50.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1137,7 +1137,8 @@
     "timeMonth": 1007,
     "timeYear": 980,
     "dailyMinutesDown": {
-      "2025-08-17": 1411,
+      "2025-08-18": 119,
+      "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
@@ -1496,8 +1497,7 @@
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
-      "2024-08-19": 1440,
-      "2024-08-18": 1433
+      "2024-08-19": 1440
     }
   },
   {
@@ -1601,18 +1601,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.unhas.ac.id.ico",
     "slug": "fakultas-pertanian",
     "status": "up",
-    "uptime": "98.62%",
-    "uptimeDay": "96.80%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "97.76%",
+    "uptime": "98.60%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "98.06%",
+    "uptimeYear": "97.77%",
     "time": 1889,
     "timeDay": 1471,
     "timeWeek": 1615,
     "timeMonth": 1737,
     "timeYear": 1817,
     "dailyMinutesDown": {
-      "2025-08-17": 46,
+      "2025-08-17": 31,
       "2025-08-14": 19,
       "2025-08-12": 100,
       "2025-08-09": 33,
@@ -1921,9 +1921,9 @@
     "slug": "fakultas-kedokteran-gigi",
     "status": "up",
     "uptime": "94.50%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "88.23%",
     "time": 1375,
     "timeDay": 1141,
@@ -1931,7 +1931,6 @@
     "timeMonth": 1742,
     "timeYear": 1383,
     "dailyMinutesDown": {
-      "2025-08-17": 15,
       "2025-08-12": 98,
       "2025-08-09": 32,
       "2025-08-08": 17,
@@ -2045,7 +2044,7 @@
       "2024-10-03": 16,
       "2024-10-02": 20,
       "2024-09-26": 20,
-      "2024-09-25": 42
+      "2024-09-25": 63
     }
   },
   {
@@ -2143,18 +2142,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nursing.unhas.ac.id.ico",
     "slug": "fakultas-keperawatan",
     "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.25%",
-    "uptimeYear": "97.18%",
+    "uptime": "98.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "96.97%",
     "time": 2389,
     "timeDay": 1596,
     "timeWeek": 2013,
     "timeMonth": 2239,
     "timeYear": 2191,
     "dailyMinutesDown": {
-      "2025-08-17": 15,
       "2025-08-12": 96,
       "2025-08-09": 16,
       "2025-08-03": 21,
@@ -2246,7 +2244,9 @@
       "2024-09-21": 117,
       "2024-09-20": 210,
       "2024-09-18": 349,
-      "2024-09-13": 91
+      "2024-09-13": 91,
+      "2024-09-07": 612,
+      "2024-09-06": 459
     }
   },
   {
@@ -2256,17 +2256,16 @@
     "slug": "fakultas-mipa",
     "status": "up",
     "uptime": "96.12%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "93.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "93.33%",
     "time": 2690,
     "timeDay": 1835,
     "timeWeek": 2130,
     "timeMonth": 2692,
     "timeYear": 2546,
     "dailyMinutesDown": {
-      "2025-08-17": 15,
       "2025-08-12": 95,
       "2025-08-09": 16,
       "2025-08-03": 42,
@@ -2368,7 +2367,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-17": 1412,
+      "2025-08-18": 120,
+      "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
@@ -2731,8 +2731,7 @@
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
-      "2024-08-19": 1440,
-      "2024-08-18": 1440
+      "2024-08-19": 1440
     }
   },
   {
