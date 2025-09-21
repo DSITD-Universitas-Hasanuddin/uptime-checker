@@ -6,9 +6,9 @@
     "slug": "unhas-main",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "98.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "98.81%",
     "uptimeYear": "99.02%",
     "time": 1185,
     "timeDay": 1104,
@@ -16,7 +16,6 @@
     "timeMonth": 1430,
     "timeYear": 1188,
     "dailyMinutesDown": {
-      "2025-09-21": 14,
       "2025-09-18": 48,
       "2025-09-17": 29,
       "2025-09-12": 21,
@@ -47,7 +46,7 @@
       "2025-07-11": 453,
       "2025-07-10": 518,
       "2025-07-09": 419,
-      "2025-07-08": 127
+      "2025-07-08": 159
     }
   },
   {
@@ -57,9 +56,9 @@
     "slug": "apps",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "98.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "98.75%",
     "uptimeYear": "98.96%",
     "time": 2206,
     "timeDay": 2002,
@@ -67,7 +66,6 @@
     "timeMonth": 2310,
     "timeYear": 2210,
     "dailyMinutesDown": {
-      "2025-09-21": 13,
       "2025-09-18": 47,
       "2025-09-17": 28,
       "2025-09-12": 21,
@@ -100,7 +98,7 @@
       "2025-07-11": 435,
       "2025-07-10": 432,
       "2025-07-09": 415,
-      "2025-07-08": 190
+      "2025-07-08": 213
     }
   },
   {
@@ -138,9 +136,9 @@
     "slug": "sso-unhas",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "98.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "99.18%",
     "time": 1387,
     "timeDay": 1371,
@@ -148,7 +146,6 @@
     "timeMonth": 1675,
     "timeYear": 1386,
     "dailyMinutesDown": {
-      "2025-09-21": 13,
       "2025-09-18": 46,
       "2025-09-17": 27,
       "2025-09-12": 20,
@@ -180,7 +177,7 @@
       "2025-07-10": 427,
       "2025-07-09": 409,
       "2025-07-08": 502,
-      "2025-07-07": 5
+      "2025-07-07": 50
     }
   },
   {
@@ -196,7 +193,7 @@
     "uptimeYear": "99.80%",
     "time": 1309,
     "timeDay": 1337,
-    "timeWeek": 1275,
+    "timeWeek": 1265,
     "timeMonth": 1400,
     "timeYear": 1300,
     "dailyMinutesDown": {
@@ -318,7 +315,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-21": 1034,
+      "2025-09-21": 1063,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
@@ -1171,7 +1168,7 @@
     "timeMonth": 974,
     "timeYear": 985,
     "dailyMinutesDown": {
-      "2025-09-21": 1035,
+      "2025-09-21": 1063,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
@@ -1634,19 +1631,19 @@
     "url": "https://agriculture.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.unhas.ac.id.ico",
     "slug": "fakultas-pertanian",
-    "status": "up",
+    "status": "down",
     "uptime": "95.89%",
-    "uptimeDay": "80.81%",
-    "uptimeWeek": "79.76%",
-    "uptimeMonth": "16.54%",
+    "uptimeDay": "81.55%",
+    "uptimeWeek": "80.15%",
+    "uptimeMonth": "16.63%",
     "uptimeYear": "90.80%",
     "time": 1954,
-    "timeDay": 2260,
+    "timeDay": 2256,
     "timeWeek": 2185,
-    "timeMonth": 2205,
+    "timeMonth": 2204,
     "timeYear": 1910,
     "dailyMinutesDown": {
-      "2025-09-21": 277,
+      "2025-09-21": 266,
       "2025-09-20": 239,
       "2025-09-19": 67,
       "2025-09-18": 302,
@@ -1928,9 +1925,9 @@
     "slug": "fakultas-hukum",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "97.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "98.01%",
     "uptimeYear": "99.13%",
     "time": 1581,
     "timeDay": 1461,
@@ -1938,7 +1935,6 @@
     "timeMonth": 1621,
     "timeYear": 1581,
     "dailyMinutesDown": {
-      "2025-09-21": 12,
       "2025-09-18": 45,
       "2025-09-17": 36,
       "2025-09-12": 16,
@@ -1969,7 +1965,7 @@
       "2025-07-10": 402,
       "2025-07-09": 401,
       "2025-07-08": 499,
-      "2025-07-07": 75
+      "2025-07-07": 95
     }
   },
   {
@@ -2422,7 +2418,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-21": 1036,
+      "2025-09-21": 1064,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
