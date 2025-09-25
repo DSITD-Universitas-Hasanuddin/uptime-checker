@@ -321,7 +321,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-25": 336,
+      "2025-09-25": 359,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
@@ -1169,7 +1169,7 @@
     "timeMonth": 942,
     "timeYear": 984,
     "dailyMinutesDown": {
-      "2025-09-25": 336,
+      "2025-09-25": 359,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
@@ -1633,17 +1633,16 @@
     "slug": "fakultas-pertanian",
     "status": "up",
     "uptime": "96.19%",
-    "uptimeDay": "88.06%",
-    "uptimeWeek": "88.42%",
-    "uptimeMonth": "27.01%",
+    "uptimeDay": "88.99%",
+    "uptimeWeek": "88.61%",
+    "uptimeMonth": "27.10%",
     "uptimeYear": "91.45%",
     "time": 2005,
     "timeDay": 6675,
-    "timeWeek": 2274,
+    "timeWeek": 2275,
     "timeMonth": 2256,
     "timeYear": 1954,
     "dailyMinutesDown": {
-      "2025-09-25": 14,
       "2025-09-24": 159,
       "2025-09-23": 216,
       "2025-09-22": 99,
@@ -1724,7 +1723,8 @@
       "2025-04-22": 27,
       "2025-04-08": 152,
       "2025-03-30": 90,
-      "2025-03-29": 36
+      "2025-03-29": 36,
+      "2025-03-25": 17
     }
   },
   {
@@ -1913,18 +1913,19 @@
     "url": "https://lawfaculty.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/lawfaculty.unhas.ac.id.ico",
     "slug": "fakultas-hukum",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.30%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.28%",
     "uptimeMonth": "97.91%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.14%",
     "time": 1580,
     "timeDay": 1668,
     "timeWeek": 1484,
     "timeMonth": 1614,
     "timeYear": 1581,
     "dailyMinutesDown": {
+      "2025-09-25": 2,
       "2025-09-24": 16,
       "2025-09-23": 27,
       "2025-09-18": 45,
@@ -1957,7 +1958,7 @@
       "2025-07-10": 402,
       "2025-07-09": 401,
       "2025-07-08": 499,
-      "2025-07-07": 49
+      "2025-07-07": 4
     }
   },
   {
@@ -2409,7 +2410,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-25": 337,
+      "2025-09-25": 360,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
