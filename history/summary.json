@@ -231,7 +231,7 @@
     "time": 1886,
     "timeDay": 1863,
     "timeWeek": 1831,
-    "timeMonth": 1801,
+    "timeMonth": 1811,
     "timeYear": 1879,
     "dailyMinutesDown": {
       "2025-09-23": 32,
@@ -320,7 +320,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 275,
+      "2025-09-27": 298,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -701,7 +701,7 @@
     "time": 2394,
     "timeDay": 2464,
     "timeWeek": 2125,
-    "timeMonth": 2410,
+    "timeMonth": 2425,
     "timeYear": 2356,
     "dailyMinutesDown": {
       "2025-09-23": 32,
@@ -789,7 +789,7 @@
     "time": 2167,
     "timeDay": 2598,
     "timeWeek": 2750,
-    "timeMonth": 2835,
+    "timeMonth": 2868,
     "timeYear": 2017,
     "dailyMinutesDown": {
       "2025-09-23": 31,
@@ -875,7 +875,7 @@
     "time": 2629,
     "timeDay": 2094,
     "timeWeek": 1872,
-    "timeMonth": 2074,
+    "timeMonth": 2091,
     "timeYear": 2535,
     "dailyMinutesDown": {
       "2025-09-23": 31,
@@ -981,7 +981,7 @@
     "time": 3101,
     "timeDay": 2387,
     "timeWeek": 2438,
-    "timeMonth": 2538,
+    "timeMonth": 2562,
     "timeYear": 2869,
     "dailyMinutesDown": {
       "2025-09-23": 30,
@@ -1067,7 +1067,7 @@
     "time": 2416,
     "timeDay": 3723,
     "timeWeek": 2237,
-    "timeMonth": 2308,
+    "timeMonth": 2319,
     "timeYear": 2413,
     "dailyMinutesDown": {
       "2025-09-23": 30,
@@ -1162,7 +1162,7 @@
     "timeMonth": 936,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2025-09-27": 276,
+      "2025-09-27": 298,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1541,7 +1541,7 @@
     "time": 1878,
     "timeDay": 1599,
     "timeWeek": 1528,
-    "timeMonth": 1680,
+    "timeMonth": 1689,
     "timeYear": 1836,
     "dailyMinutesDown": {
       "2025-09-23": 29,
@@ -1623,19 +1623,19 @@
     "url": "https://agriculture.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.unhas.ac.id.ico",
     "slug": "fakultas-pertanian",
-    "status": "down",
+    "status": "up",
     "uptime": "96.29%",
-    "uptimeDay": "94.87%",
-    "uptimeWeek": "87.38%",
-    "uptimeMonth": "32.80%",
+    "uptimeDay": "93.40%",
+    "uptimeWeek": "87.17%",
+    "uptimeMonth": "32.81%",
     "uptimeYear": "91.65%",
-    "time": 1996,
-    "timeDay": 2108,
-    "timeWeek": 2247,
+    "time": 1997,
+    "timeDay": 2109,
+    "timeWeek": 2246,
     "timeMonth": 2229,
-    "timeYear": 1964,
+    "timeYear": 1965,
     "dailyMinutesDown": {
-      "2025-09-27": 2,
+      "2025-09-27": 23,
       "2025-09-26": 92,
       "2025-09-25": 203,
       "2025-09-24": 159,
@@ -1725,7 +1725,7 @@
     "time": 1814,
     "timeDay": 1326,
     "timeWeek": 1466,
-    "timeMonth": 1556,
+    "timeMonth": 1553,
     "timeYear": 1660,
     "dailyMinutesDown": {
       "2025-09-23": 28,
@@ -1818,7 +1818,7 @@
     "time": 2621,
     "timeDay": 1972,
     "timeWeek": 2098,
-    "timeMonth": 2268,
+    "timeMonth": 2287,
     "timeYear": 2413,
     "dailyMinutesDown": {
       "2025-09-23": 28,
@@ -1957,7 +1957,7 @@
     "time": 1399,
     "timeDay": 1204,
     "timeWeek": 1392,
-    "timeMonth": 1408,
+    "timeMonth": 1413,
     "timeYear": 1405,
     "dailyMinutesDown": {
       "2025-09-23": 27,
@@ -2092,7 +2092,7 @@
     "time": 2317,
     "timeDay": 2183,
     "timeWeek": 2089,
-    "timeMonth": 2187,
+    "timeMonth": 2204,
     "timeYear": 2323,
     "dailyMinutesDown": {
       "2025-09-23": 26,
@@ -2179,7 +2179,7 @@
     "time": 2346,
     "timeDay": 2361,
     "timeWeek": 2062,
-    "timeMonth": 1950,
+    "timeMonth": 1960,
     "timeYear": 2166,
     "dailyMinutesDown": {
       "2025-09-23": 26,
@@ -2288,7 +2288,7 @@
     "time": 2631,
     "timeDay": 2122,
     "timeWeek": 2083,
-    "timeMonth": 2128,
+    "timeMonth": 2142,
     "timeYear": 2506,
     "dailyMinutesDown": {
       "2025-09-23": 26,
@@ -2390,7 +2390,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 277,
+      "2025-09-27": 299,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -2771,7 +2771,7 @@
     "time": 2655,
     "timeDay": 1839,
     "timeWeek": 1984,
-    "timeMonth": 1973,
+    "timeMonth": 1988,
     "timeYear": 2412,
     "dailyMinutesDown": {
       "2025-09-23": 25,
