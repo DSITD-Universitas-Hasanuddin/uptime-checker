@@ -13,7 +13,7 @@
     "time": 1191,
     "timeDay": 968,
     "timeWeek": 1795,
-    "timeMonth": 1509,
+    "timeMonth": 1522,
     "timeYear": 1192,
     "dailyMinutesDown": {
       "2025-10-04": 32,
@@ -67,7 +67,7 @@
     "time": 2219,
     "timeDay": 1938,
     "timeWeek": 3144,
-    "timeMonth": 2580,
+    "timeMonth": 2533,
     "timeYear": 2224,
     "dailyMinutesDown": {
       "2025-10-04": 31,
@@ -152,7 +152,7 @@
     "time": 1389,
     "timeDay": 1094,
     "timeWeek": 1919,
-    "timeMonth": 1685,
+    "timeMonth": 1699,
     "timeYear": 1390,
     "dailyMinutesDown": {
       "2025-09-23": 33,
@@ -324,7 +324,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-07": 134,
+      "2025-10-07": 465,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
@@ -1156,7 +1156,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilmubudaya.unhas.ac.id.ico",
     "slug": "fakultas-ilmu-budaya",
     "status": "down",
-    "uptime": "47.06%",
+    "uptime": "47.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1167,7 +1167,7 @@
     "timeMonth": 1077,
     "timeYear": 993,
     "dailyMinutesDown": {
-      "2025-10-07": 135,
+      "2025-10-07": 466,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
@@ -1628,19 +1628,19 @@
     "url": "https://agriculture.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.unhas.ac.id.ico",
     "slug": "fakultas-pertanian",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "25.13%",
-    "uptimeWeek": "12.35%",
-    "uptimeMonth": "71.02%",
-    "uptimeYear": "97.58%",
+    "uptimeDay": "47.83%",
+    "uptimeWeek": "15.61%",
+    "uptimeMonth": "71.10%",
+    "uptimeYear": "97.59%",
     "time": 2011,
-    "timeDay": 1444,
-    "timeWeek": 1708,
-    "timeMonth": 2200,
-    "timeYear": 2003,
+    "timeDay": 1459,
+    "timeWeek": 1707,
+    "timeMonth": 2198,
+    "timeYear": 2002,
     "dailyMinutesDown": {
-      "2025-10-07": 85,
+      "2025-10-07": 87,
       "2025-10-06": 992,
       "2025-10-05": 1328,
       "2025-10-04": 1319,
@@ -1660,7 +1660,7 @@
       "2025-09-20": 239,
       "2025-09-19": 67,
       "2025-09-18": 302,
-      "2025-09-17": 204
+      "2025-09-17": 169
     }
   },
   {
@@ -1856,7 +1856,7 @@
     "time": 1581,
     "timeDay": 1226,
     "timeWeek": 1691,
-    "timeMonth": 1635,
+    "timeMonth": 1577,
     "timeYear": 1582,
     "dailyMinutesDown": {
       "2025-10-04": 30,
@@ -2342,7 +2342,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-07": 135,
+      "2025-10-07": 467,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
