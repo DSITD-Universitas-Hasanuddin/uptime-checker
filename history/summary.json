@@ -324,7 +324,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-08": 525,
+      "2025-10-08": 536,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
@@ -1167,7 +1167,7 @@
     "timeMonth": 1082,
     "timeYear": 993,
     "dailyMinutesDown": {
-      "2025-10-08": 526,
+      "2025-10-08": 537,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
@@ -1628,19 +1628,19 @@
     "url": "https://agriculture.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.unhas.ac.id.ico",
     "slug": "fakultas-pertanian",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "8.76%",
-    "uptimeWeek": "17.42%",
-    "uptimeMonth": "68.41%",
+    "uptimeDay": "9.35%",
+    "uptimeWeek": "17.51%",
+    "uptimeMonth": "68.46%",
     "uptimeYear": "97.37%",
     "time": 2011,
-    "timeDay": 1524,
-    "timeWeek": 1658,
-    "timeMonth": 2179,
-    "timeYear": 1995,
+    "timeDay": 1486,
+    "timeWeek": 1653,
+    "timeMonth": 2177,
+    "timeYear": 1994,
     "dailyMinutesDown": {
-      "2025-10-08": 523,
+      "2025-10-08": 525,
       "2025-10-07": 881,
       "2025-10-06": 992,
       "2025-10-05": 1328,
@@ -1661,7 +1661,7 @@
       "2025-09-20": 239,
       "2025-09-19": 67,
       "2025-09-18": 302,
-      "2025-09-17": 27
+      "2025-09-17": 2
     }
   },
   {
@@ -2345,7 +2345,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-08": 527,
+      "2025-10-08": 538,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
