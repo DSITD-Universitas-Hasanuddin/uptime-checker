@@ -6,17 +6,16 @@
     "slug": "unhas-main",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "99.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "99.06%",
     "time": 1195,
     "timeDay": 1158,
-    "timeWeek": 1519,
+    "timeWeek": 1551,
     "timeMonth": 1407,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-10-30": 9,
       "2025-10-29": 17,
       "2025-10-27": 19,
       "2025-10-25": 15,
@@ -60,7 +59,7 @@
       "2025-07-13": 540,
       "2025-07-12": 629,
       "2025-07-11": 453,
-      "2025-07-10": 280
+      "2025-07-10": 312
     }
   },
   {
@@ -70,17 +69,16 @@
     "slug": "apps",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "99.01%",
     "time": 2228,
     "timeDay": 2204,
-    "timeWeek": 2473,
+    "timeWeek": 2506,
     "timeMonth": 2577,
     "timeYear": 2237,
     "dailyMinutesDown": {
-      "2025-10-30": 8,
       "2025-10-29": 16,
       "2025-10-27": 19,
       "2025-10-25": 43,
@@ -127,7 +125,7 @@
       "2025-07-13": 537,
       "2025-07-12": 592,
       "2025-07-11": 435,
-      "2025-07-10": 129
+      "2025-07-10": 198
     }
   },
   {
@@ -346,7 +344,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-30": 1363,
+      "2025-10-30": 1382,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -1186,7 +1184,7 @@
     "timeMonth": 1092,
     "timeYear": 997,
     "dailyMinutesDown": {
-      "2025-10-30": 1363,
+      "2025-10-30": 1382,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -1638,19 +1636,19 @@
     "url": "https://agriculture.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.unhas.ac.id.ico",
     "slug": "fakultas-pertanian",
-    "status": "up",
+    "status": "down",
     "uptime": "98.02%",
-    "uptimeDay": "40.61%",
-    "uptimeWeek": "28.78%",
-    "uptimeMonth": "44.32%",
-    "uptimeYear": "95.36%",
-    "time": 1858,
-    "timeDay": 1465,
-    "timeWeek": 1578,
-    "timeMonth": 1575,
+    "uptimeDay": "41.38%",
+    "uptimeWeek": "28.95%",
+    "uptimeMonth": "44.44%",
+    "uptimeYear": "95.37%",
+    "time": 1857,
+    "timeDay": 1443,
+    "timeWeek": 1575,
+    "timeMonth": 1574,
     "timeYear": 1859,
     "dailyMinutesDown": {
-      "2025-10-30": 829,
+      "2025-10-30": 831,
       "2025-10-29": 937,
       "2025-10-28": 1339,
       "2025-10-27": 629,
@@ -1670,7 +1668,7 @@
       "2025-10-13": 1440,
       "2025-10-12": 1388,
       "2025-10-11": 1130,
-      "2025-10-10": 909
+      "2025-10-10": 854
     }
   },
   {
@@ -1850,17 +1848,16 @@
     "slug": "fakultas-hukum",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "97.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "97.97%",
     "uptimeYear": "99.12%",
     "time": 1587,
     "timeDay": 2579,
-    "timeWeek": 1637,
+    "timeWeek": 1663,
     "timeMonth": 1781,
     "timeYear": 1569,
     "dailyMinutesDown": {
-      "2025-10-30": 8,
       "2025-10-29": 16,
       "2025-10-27": 262,
       "2025-10-23": 37,
@@ -1904,7 +1901,7 @@
       "2025-07-12": 583,
       "2025-07-11": 408,
       "2025-07-10": 402,
-      "2025-07-09": 91
+      "2025-07-09": 119
     }
   },
   {
@@ -2342,7 +2339,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-30": 1364,
+      "2025-10-30": 1383,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
