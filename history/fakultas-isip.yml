@@ -1,7 +1,7 @@
 url: https://fisip.unhas.ac.id
-status: up
-code: 200
-responseTime: 3885
-lastUpdated: 2025-10-30T23:13:01.176Z
+status: down
+code: 415
+responseTime: 1256
+lastUpdated: 2025-10-31T09:59:46.039Z
 startTime: 2023-06-28T18:02:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
