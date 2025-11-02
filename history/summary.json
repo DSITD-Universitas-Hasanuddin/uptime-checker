@@ -255,7 +255,7 @@
     "uptimeYear": "98.18%",
     "time": 1869,
     "timeDay": 2838,
-    "timeWeek": 1875,
+    "timeWeek": 1975,
     "timeMonth": 1994,
     "timeYear": 1911,
     "dailyMinutesDown": {
@@ -344,7 +344,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-02": 539,
+      "2025-11-02": 636,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
@@ -724,7 +724,7 @@
     "uptimeYear": "97.66%",
     "time": 2327,
     "timeDay": 1950,
-    "timeWeek": 2052,
+    "timeWeek": 2108,
     "timeMonth": 2405,
     "timeYear": 2389,
     "dailyMinutesDown": {
@@ -814,7 +814,7 @@
     "uptimeYear": "97.94%",
     "time": 2005,
     "timeDay": 2624,
-    "timeWeek": 2362,
+    "timeWeek": 2435,
     "timeMonth": 2442,
     "timeYear": 2140,
     "dailyMinutesDown": {
@@ -900,7 +900,7 @@
     "uptimeYear": "92.99%",
     "time": 2539,
     "timeDay": 1659,
-    "timeWeek": 1785,
+    "timeWeek": 1827,
     "timeMonth": 2474,
     "timeYear": 2517,
     "dailyMinutesDown": {
@@ -1006,7 +1006,7 @@
     "uptimeYear": "98.11%",
     "time": 2878,
     "timeDay": 2036,
-    "timeWeek": 2177,
+    "timeWeek": 2228,
     "timeMonth": 2439,
     "timeYear": 2804,
     "dailyMinutesDown": {
@@ -1092,7 +1092,7 @@
     "uptimeYear": "96.85%",
     "time": 2366,
     "timeDay": 1839,
-    "timeWeek": 1981,
+    "timeWeek": 2027,
     "timeMonth": 2189,
     "timeYear": 2403,
     "dailyMinutesDown": {
@@ -1189,7 +1189,7 @@
     "timeMonth": 1110,
     "timeYear": 998,
     "dailyMinutesDown": {
-      "2025-11-02": 539,
+      "2025-11-02": 637,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
@@ -1567,7 +1567,7 @@
     "uptimeYear": "98.24%",
     "time": 1901,
     "timeDay": 3007,
-    "timeWeek": 2674,
+    "timeWeek": 2797,
     "timeMonth": 2158,
     "timeYear": 1894,
     "dailyMinutesDown": {
@@ -1642,19 +1642,19 @@
     "url": "https://agriculture.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.unhas.ac.id.ico",
     "slug": "fakultas-pertanian",
-    "status": "down",
-    "uptime": "97.95%",
-    "uptimeDay": "1.81%",
-    "uptimeWeek": "27.87%",
-    "uptimeMonth": "42.24%",
-    "uptimeYear": "95.19%",
+    "status": "up",
+    "uptime": "97.94%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "27.89%",
+    "uptimeMonth": "42.02%",
+    "uptimeYear": "95.17%",
     "time": 1875,
-    "timeDay": 1281,
-    "timeWeek": 1596,
-    "timeMonth": 1551,
+    "timeDay": 1423,
+    "timeWeek": 1597,
+    "timeMonth": 1552,
     "timeYear": 1849,
     "dailyMinutesDown": {
-      "2025-11-02": 539,
+      "2025-11-02": 635,
       "2025-11-01": 1306,
       "2025-10-31": 781,
       "2025-10-30": 848,
@@ -1692,7 +1692,7 @@
     "uptimeYear": "98.22%",
     "time": 1768,
     "timeDay": 1277,
-    "timeWeek": 1376,
+    "timeWeek": 1416,
     "timeMonth": 1459,
     "timeYear": 1657,
     "dailyMinutesDown": {
@@ -1777,7 +1777,7 @@
     "uptimeYear": "98.22%",
     "time": 2410,
     "timeDay": 1527,
-    "timeWeek": 1757,
+    "timeWeek": 1791,
     "timeMonth": 2030,
     "timeYear": 2347,
     "dailyMinutesDown": {
@@ -1927,7 +1927,7 @@
     "uptimeYear": "88.20%",
     "time": 1418,
     "timeDay": 1248,
-    "timeWeek": 1453,
+    "timeWeek": 1511,
     "timeMonth": 1467,
     "timeYear": 1424,
     "dailyMinutesDown": {
@@ -2056,7 +2056,7 @@
     "uptimeYear": "97.77%",
     "time": 2290,
     "timeDay": 1621,
-    "timeWeek": 1862,
+    "timeWeek": 1914,
     "timeMonth": 2049,
     "timeYear": 2324,
     "dailyMinutesDown": {
@@ -2144,7 +2144,7 @@
     "uptimeYear": "97.73%",
     "time": 2274,
     "timeDay": 1393,
-    "timeWeek": 1848,
+    "timeWeek": 1932,
     "timeMonth": 1902,
     "timeYear": 2142,
     "dailyMinutesDown": {
@@ -2249,7 +2249,7 @@
     "uptimeYear": "93.66%",
     "time": 2486,
     "timeDay": 1690,
-    "timeWeek": 2387,
+    "timeWeek": 2504,
     "timeMonth": 2093,
     "timeYear": 2443,
     "dailyMinutesDown": {
@@ -2353,7 +2353,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-02": 540,
+      "2025-11-02": 638,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
@@ -2733,7 +2733,7 @@
     "uptimeYear": "98.18%",
     "time": 2519,
     "timeDay": 1490,
-    "timeWeek": 1666,
+    "timeWeek": 1712,
     "timeMonth": 1828,
     "timeYear": 2301,
     "dailyMinutesDown": {
