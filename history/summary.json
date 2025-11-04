@@ -14,7 +14,7 @@
     "timeDay": 1161,
     "timeWeek": 1522,
     "timeMonth": 1281,
-    "timeYear": 1198,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2025-11-04": 113,
       "2025-11-03": 24,
@@ -352,7 +352,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-04": 1097,
+      "2025-11-04": 1236,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
@@ -1207,7 +1207,7 @@
     "timeMonth": 952,
     "timeYear": 989,
     "dailyMinutesDown": {
-      "2025-11-04": 1098,
+      "2025-11-04": 1236,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
@@ -1662,19 +1662,19 @@
     "url": "https://agriculture.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.unhas.ac.id.ico",
     "slug": "fakultas-pertanian",
-    "status": "up",
+    "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "26.50%",
-    "uptimeWeek": "30.33%",
-    "uptimeMonth": "59.53%",
-    "uptimeYear": "96.63%",
-    "time": 1831,
-    "timeDay": 1389,
-    "timeWeek": 1504,
-    "timeMonth": 1532,
-    "timeYear": 1831,
+    "uptimeDay": "35.95%",
+    "uptimeWeek": "31.68%",
+    "uptimeMonth": "59.69%",
+    "uptimeYear": "96.64%",
+    "time": 1830,
+    "timeDay": 1367,
+    "timeWeek": 1501,
+    "timeMonth": 1531,
+    "timeYear": 1830,
     "dailyMinutesDown": {
-      "2025-11-04": 716,
+      "2025-11-04": 718,
       "2025-11-03": 1142,
       "2025-11-02": 996,
       "2025-11-01": 1306,
@@ -1690,7 +1690,7 @@
       "2025-10-22": 1363,
       "2025-10-21": 1042,
       "2025-10-20": 1138,
-      "2025-10-19": 896
+      "2025-10-19": 820
     }
   },
   {
@@ -1948,7 +1948,7 @@
     "timeDay": 1467,
     "timeWeek": 1486,
     "timeMonth": 1462,
-    "timeYear": 1425,
+    "timeYear": 1426,
     "dailyMinutesDown": {
       "2025-11-04": 105,
       "2025-11-02": 19,
@@ -2378,7 +2378,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-04": 1099,
+      "2025-11-04": 1237,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
