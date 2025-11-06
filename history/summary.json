@@ -4,10 +4,10 @@
     "url": "https://unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/unhas.ac.id.ico",
     "slug": "unhas-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.64%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "98.62%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "99.07%",
     "time": 1195,
@@ -16,6 +16,7 @@
     "timeMonth": 1276,
     "timeYear": 1198,
     "dailyMinutesDown": {
+      "2025-11-06": 3,
       "2025-11-04": 113,
       "2025-11-03": 24,
       "2025-10-29": 17,
@@ -61,7 +62,7 @@
       "2025-07-13": 540,
       "2025-07-12": 629,
       "2025-07-11": 453,
-      "2025-07-10": 130
+      "2025-07-10": 110
     }
   },
   {
@@ -69,11 +70,11 @@
     "url": "https://apps.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/apps.unhas.ac.id.ico",
     "slug": "apps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "98.62%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "98.61%",
     "uptimeYear": "99.00%",
     "time": 2232,
     "timeDay": 2054,
@@ -81,6 +82,7 @@
     "timeMonth": 2418,
     "timeYear": 2237,
     "dailyMinutesDown": {
+      "2025-11-06": 2,
       "2025-11-04": 112,
       "2025-10-29": 16,
       "2025-10-27": 19,
@@ -128,7 +130,7 @@
       "2025-07-13": 537,
       "2025-07-12": 592,
       "2025-07-11": 435,
-      "2025-07-10": 129
+      "2025-07-10": 109
     }
   },
   {
@@ -352,7 +354,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-06": 243,
+      "2025-11-06": 292,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -1205,7 +1207,7 @@
     "timeMonth": 950,
     "timeYear": 989,
     "dailyMinutesDown": {
-      "2025-11-06": 243,
+      "2025-11-06": 292,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -1662,8 +1664,8 @@
     "slug": "fakultas-pertanian",
     "status": "up",
     "uptime": "98.56%",
-    "uptimeDay": "6.47%",
-    "uptimeWeek": "28.72%",
+    "uptimeDay": "9.85%",
+    "uptimeWeek": "29.20%",
     "uptimeMonth": "59.21%",
     "uptimeYear": "96.60%",
     "time": 1829,
@@ -1873,18 +1875,19 @@
     "url": "https://lawfaculty.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/lawfaculty.unhas.ac.id.ico",
     "slug": "fakultas-hukum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "97.84%",
-    "uptimeYear": "99.10%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "97.83%",
+    "uptimeYear": "99.11%",
     "time": 1579,
     "timeDay": 1450,
     "timeWeek": 1857,
     "timeMonth": 1807,
     "timeYear": 1571,
     "dailyMinutesDown": {
+      "2025-11-06": 2,
       "2025-11-04": 106,
       "2025-10-29": 16,
       "2025-10-27": 262,
@@ -1929,7 +1932,7 @@
       "2025-07-12": 583,
       "2025-07-11": 408,
       "2025-07-10": 402,
-      "2025-07-09": 91
+      "2025-07-09": 70
     }
   },
   {
@@ -2374,7 +2377,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-06": 244,
+      "2025-11-06": 293,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
