@@ -1,7 +1,7 @@
 url: https://vokasi.unhas.ac.id
-status: up
-code: 200
-responseTime: 2371
-lastUpdated: 2025-11-05T23:13:55.208Z
+status: down
+code: 415
+responseTime: 863
+lastUpdated: 2025-11-06T21:40:09.510Z
 startTime: 2023-06-28T18:03:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
