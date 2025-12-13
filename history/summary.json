@@ -312,7 +312,7 @@
     "uptimeYear": "97.84%",
     "time": 1837,
     "timeDay": 1632,
-    "timeWeek": 1682,
+    "timeWeek": 1702,
     "timeMonth": 1658,
     "timeYear": 1860,
     "dailyMinutesDown": {
@@ -421,7 +421,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-13": 1154,
+      "2025-12-13": 1167,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -801,7 +801,7 @@
     "uptimeYear": "97.81%",
     "time": 2311,
     "timeDay": 2261,
-    "timeWeek": 2326,
+    "timeWeek": 2359,
     "timeMonth": 2291,
     "timeYear": 2400,
     "dailyMinutesDown": {
@@ -907,7 +907,7 @@
     "uptimeYear": "97.69%",
     "time": 2123,
     "timeDay": 2615,
-    "timeWeek": 2588,
+    "timeWeek": 2622,
     "timeMonth": 2459,
     "timeYear": 2305,
     "dailyMinutesDown": {
@@ -1011,7 +1011,7 @@
     "uptimeYear": "92.75%",
     "time": 2418,
     "timeDay": 2146,
-    "timeWeek": 2106,
+    "timeWeek": 2128,
     "timeMonth": 2058,
     "timeYear": 2407,
     "dailyMinutesDown": {
@@ -1135,7 +1135,7 @@
     "uptimeYear": "97.86%",
     "time": 2746,
     "timeDay": 3056,
-    "timeWeek": 2610,
+    "timeWeek": 2614,
     "timeMonth": 2548,
     "timeYear": 2731,
     "dailyMinutesDown": {
@@ -1234,13 +1234,13 @@
     "slug": "fakultas-farmasi",
     "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "69.54%",
+    "uptimeDay": "70.43%",
     "uptimeWeek": "80.57%",
     "uptimeMonth": "92.53%",
     "uptimeYear": "96.33%",
     "time": 2322,
     "timeDay": 1701,
-    "timeWeek": 1737,
+    "timeWeek": 1735,
     "timeMonth": 2106,
     "timeYear": 2341,
     "dailyMinutesDown": {
@@ -1354,7 +1354,7 @@
     "timeMonth": 1162,
     "timeYear": 1031,
     "dailyMinutesDown": {
-      "2025-12-13": 1154,
+      "2025-12-13": 1167,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -1734,7 +1734,7 @@
     "uptimeYear": "98.00%",
     "time": 2041,
     "timeDay": 2724,
-    "timeWeek": 2708,
+    "timeWeek": 2703,
     "timeMonth": 2604,
     "timeYear": 2117,
     "dailyMinutesDown": {
@@ -1828,26 +1828,26 @@
     "url": "https://agriculture.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.unhas.ac.id.ico",
     "slug": "fakultas-pertanian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "59.88%",
-    "uptimeWeek": "46.43%",
-    "uptimeMonth": "87.62%",
+    "uptimeDay": "59.75%",
+    "uptimeWeek": "46.41%",
+    "uptimeMonth": "87.67%",
     "uptimeYear": "98.97%",
-    "time": 2670,
-    "timeDay": 4425,
-    "timeWeek": 4256,
+    "time": 2671,
+    "timeDay": 4431,
+    "timeWeek": 4255,
     "timeMonth": 4315,
-    "timeYear": 2708,
+    "timeYear": 2709,
     "dailyMinutesDown": {
-      "2025-12-13": 518,
+      "2025-12-13": 520,
       "2025-12-12": 772,
       "2025-12-11": 621,
       "2025-12-10": 872,
       "2025-12-09": 789,
       "2025-12-08": 671,
       "2025-12-07": 982,
-      "2025-12-06": 204
+      "2025-12-06": 180
     }
   },
   {
@@ -1863,7 +1863,7 @@
     "uptimeYear": "97.98%",
     "time": 1665,
     "timeDay": 1861,
-    "timeWeek": 1699,
+    "timeWeek": 1724,
     "timeMonth": 1667,
     "timeYear": 1675,
     "dailyMinutesDown": {
@@ -1967,7 +1967,7 @@
     "uptimeYear": "97.98%",
     "time": 2293,
     "timeDay": 2287,
-    "timeWeek": 2285,
+    "timeWeek": 2312,
     "timeMonth": 2096,
     "timeYear": 2257,
     "dailyMinutesDown": {
@@ -2153,7 +2153,7 @@
     "uptimeYear": "89.51%",
     "time": 1453,
     "timeDay": 1739,
-    "timeWeek": 1573,
+    "timeWeek": 1589,
     "timeMonth": 1579,
     "timeYear": 1487,
     "dailyMinutesDown": {
@@ -2282,7 +2282,7 @@
     "uptimeYear": "97.81%",
     "time": 2291,
     "timeDay": 2897,
-    "timeWeek": 2306,
+    "timeWeek": 2333,
     "timeMonth": 2227,
     "timeYear": 2332,
     "dailyMinutesDown": {
@@ -2388,7 +2388,7 @@
     "uptimeYear": "97.12%",
     "time": 2080,
     "timeDay": 2485,
-    "timeWeek": 1961,
+    "timeWeek": 1984,
     "timeMonth": 1890,
     "timeYear": 2086,
     "dailyMinutesDown": {
@@ -2491,7 +2491,7 @@
     "uptimeYear": "93.42%",
     "time": 2362,
     "timeDay": 2223,
-    "timeWeek": 1929,
+    "timeWeek": 1951,
     "timeMonth": 2027,
     "timeYear": 2331,
     "dailyMinutesDown": {
@@ -2614,7 +2614,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-13": 1155,
+      "2025-12-13": 1168,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -2994,7 +2994,7 @@
     "uptimeYear": "97.99%",
     "time": 2254,
     "timeDay": 2018,
-    "timeWeek": 1843,
+    "timeWeek": 1862,
     "timeMonth": 1843,
     "timeYear": 2200,
     "dailyMinutesDown": {
