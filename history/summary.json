@@ -312,7 +312,7 @@
     "uptimeYear": "97.90%",
     "time": 1823,
     "timeDay": 1526,
-    "timeWeek": 1729,
+    "timeWeek": 1747,
     "timeMonth": 1651,
     "timeYear": 1854,
     "dailyMinutesDown": {
@@ -421,7 +421,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-14": 1301,
+      "2025-12-14": 1307,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -801,7 +801,7 @@
     "uptimeYear": "97.86%",
     "time": 2321,
     "timeDay": 2578,
-    "timeWeek": 2438,
+    "timeWeek": 2479,
     "timeMonth": 2306,
     "timeYear": 2403,
     "dailyMinutesDown": {
@@ -907,7 +907,7 @@
     "uptimeYear": "97.74%",
     "time": 2122,
     "timeDay": 2530,
-    "timeWeek": 2636,
+    "timeWeek": 2677,
     "timeMonth": 2458,
     "timeYear": 2310,
     "dailyMinutesDown": {
@@ -1011,7 +1011,7 @@
     "uptimeYear": "92.74%",
     "time": 2432,
     "timeDay": 1935,
-    "timeWeek": 2005,
+    "timeWeek": 2033,
     "timeMonth": 2055,
     "timeYear": 2400,
     "dailyMinutesDown": {
@@ -1136,7 +1136,7 @@
     "uptimeYear": "97.85%",
     "time": 2830,
     "timeDay": 2318,
-    "timeWeek": 2628,
+    "timeWeek": 2674,
     "timeMonth": 2550,
     "timeYear": 2728,
     "dailyMinutesDown": {
@@ -1242,7 +1242,7 @@
     "uptimeYear": "97.71%",
     "time": 2312,
     "timeDay": 2090,
-    "timeWeek": 1733,
+    "timeWeek": 1755,
     "timeMonth": 2091,
     "timeYear": 2333,
     "dailyMinutesDown": {
@@ -1351,7 +1351,7 @@
     "timeMonth": 1170,
     "timeYear": 1031,
     "dailyMinutesDown": {
-      "2025-12-14": 1301,
+      "2025-12-14": 1308,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -1731,7 +1731,7 @@
     "uptimeYear": "97.99%",
     "time": 2047,
     "timeDay": 2359,
-    "timeWeek": 2647,
+    "timeWeek": 2694,
     "timeMonth": 2589,
     "timeYear": 2124,
     "dailyMinutesDown": {
@@ -1826,19 +1826,19 @@
     "url": "https://agriculture.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.unhas.ac.id.ico",
     "slug": "fakultas-pertanian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "39.30%",
-    "uptimeWeek": "48.42%",
-    "uptimeMonth": "88.13%",
+    "uptimeDay": "40.26%",
+    "uptimeWeek": "48.49%",
+    "uptimeMonth": "88.15%",
     "uptimeYear": "99.01%",
-    "time": 2702,
-    "timeDay": 4673,
+    "time": 2703,
+    "timeDay": 4664,
     "timeWeek": 4290,
     "timeMonth": 4346,
-    "timeYear": 2757,
+    "timeYear": 2758,
     "dailyMinutesDown": {
-      "2025-12-14": 804,
+      "2025-12-14": 797,
       "2025-12-13": 673,
       "2025-12-12": 772,
       "2025-12-11": 621,
@@ -1860,7 +1860,7 @@
     "uptimeYear": "98.03%",
     "time": 1747,
     "timeDay": 1572,
-    "timeWeek": 1678,
+    "timeWeek": 1699,
     "timeMonth": 1655,
     "timeYear": 1672,
     "dailyMinutesDown": {
@@ -1964,7 +1964,7 @@
     "uptimeYear": "97.96%",
     "time": 2369,
     "timeDay": 1833,
-    "timeWeek": 2259,
+    "timeWeek": 2295,
     "timeMonth": 2071,
     "timeYear": 2248,
     "dailyMinutesDown": {
@@ -2151,7 +2151,7 @@
     "uptimeYear": "90.13%",
     "time": 1455,
     "timeDay": 1457,
-    "timeWeek": 1607,
+    "timeWeek": 1626,
     "timeMonth": 1570,
     "timeYear": 1487,
     "dailyMinutesDown": {
@@ -2277,7 +2277,7 @@
     "uptimeYear": "97.86%",
     "time": 2288,
     "timeDay": 2237,
-    "timeWeek": 2362,
+    "timeWeek": 2401,
     "timeMonth": 2233,
     "timeYear": 2332,
     "dailyMinutesDown": {
@@ -2383,7 +2383,7 @@
     "uptimeYear": "97.14%",
     "time": 2074,
     "timeDay": 1845,
-    "timeWeek": 2004,
+    "timeWeek": 2033,
     "timeMonth": 1890,
     "timeYear": 2083,
     "dailyMinutesDown": {
@@ -2485,7 +2485,7 @@
     "uptimeYear": "93.40%",
     "time": 2424,
     "timeDay": 1914,
-    "timeWeek": 1957,
+    "timeWeek": 1985,
     "timeMonth": 2017,
     "timeYear": 2323,
     "dailyMinutesDown": {
@@ -2609,7 +2609,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-14": 1302,
+      "2025-12-14": 1308,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -2989,7 +2989,7 @@
     "uptimeYear": "97.98%",
     "time": 2248,
     "timeDay": 1900,
-    "timeWeek": 2045,
+    "timeWeek": 2075,
     "timeMonth": 1889,
     "timeYear": 2204,
     "dailyMinutesDown": {
