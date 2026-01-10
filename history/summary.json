@@ -483,7 +483,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-10": 452,
+      "2026-01-10": 475,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -1363,7 +1363,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilmubudaya.unhas.ac.id.ico",
     "slug": "fakultas-ilmu-budaya",
     "status": "down",
-    "uptime": "42.23%",
+    "uptime": "42.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1374,7 +1374,7 @@
     "timeMonth": 1151,
     "timeYear": 1044,
     "dailyMinutesDown": {
-      "2026-01-10": 452,
+      "2026-01-10": 476,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -1851,19 +1851,19 @@
     "url": "https://agriculture.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.unhas.ac.id.ico",
     "slug": "fakultas-pertanian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "88.82%",
-    "uptimeWeek": "87.54%",
-    "uptimeMonth": "86.53%",
-    "uptimeYear": "98.88%",
+    "uptimeDay": "88.69%",
+    "uptimeWeek": "87.53%",
+    "uptimeMonth": "86.69%",
+    "uptimeYear": "98.89%",
     "time": 3064,
-    "timeDay": 5552,
-    "timeWeek": 5790,
-    "timeMonth": 4383,
+    "timeDay": 5412,
+    "timeWeek": 5762,
+    "timeMonth": 4382,
     "timeYear": 3113,
     "dailyMinutesDown": {
-      "2026-01-10": 98,
+      "2026-01-10": 100,
       "2026-01-09": 146,
       "2026-01-08": 246,
       "2026-01-07": 395,
@@ -1877,7 +1877,7 @@
       "2025-12-29": 1034,
       "2025-12-28": 747,
       "2025-12-27": 571,
-      "2025-12-26": 608
+      "2025-12-26": 537
     }
   },
   {
@@ -2615,7 +2615,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-10": 453,
+      "2026-01-10": 476,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
