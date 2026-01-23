@@ -1,7 +1,7 @@
 url: https://agriculture.unhas.ac.id
-status: up
-code: 200
-responseTime: 3645
-lastUpdated: 2026-01-23T11:01:33.658Z
+status: down
+code: 403
+responseTime: 3560
+lastUpdated: 2026-01-23T11:26:30.672Z
 startTime: 2023-06-28T18:02:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
