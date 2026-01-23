@@ -204,7 +204,7 @@
     "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.27%",
+    "uptimeMonth": "65.55%",
     "uptimeYear": "95.46%",
     "time": 661,
     "timeDay": 659,
@@ -337,7 +337,7 @@
     "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.28%",
+    "uptimeMonth": "65.55%",
     "uptimeYear": "95.39%",
     "time": 1347,
     "timeDay": 1671,
@@ -486,7 +486,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sister.unhas.ac.id.ico",
     "slug": "sister-unhas",
     "status": "down",
-    "uptime": "27.53%",
+    "uptime": "27.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -497,7 +497,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-22": 1436,
+      "2026-01-23": 118,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -860,8 +861,7 @@
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 1440,
-      "2025-01-23": 1440
+      "2025-01-24": 1440
     }
   },
   {
@@ -1267,18 +1267,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/farmasi.unhas.ac.id.ico",
     "slug": "fakultas-farmasi",
     "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "37.12%",
-    "uptimeWeek": "89.59%",
-    "uptimeMonth": "96.91%",
-    "uptimeYear": "98.36%",
+    "uptime": "99.35%",
+    "uptimeDay": "28.66%",
+    "uptimeWeek": "88.38%",
+    "uptimeMonth": "96.64%",
+    "uptimeYear": "98.33%",
     "time": 2235,
     "timeDay": 1157,
     "timeWeek": 1666,
     "timeMonth": 1774,
     "timeYear": 2243,
     "dailyMinutesDown": {
-      "2026-01-22": 905,
+      "2026-01-23": 118,
+      "2026-01-22": 909,
       "2026-01-20": 143,
       "2026-01-15": 30,
       "2026-01-02": 98,
@@ -1364,7 +1365,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilmubudaya.unhas.ac.id.ico",
     "slug": "fakultas-ilmu-budaya",
     "status": "down",
-    "uptime": "41.66%",
+    "uptime": "41.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1375,7 +1376,8 @@
     "timeMonth": 1174,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2026-01-22": 1436,
+      "2026-01-23": 118,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -1738,8 +1740,7 @@
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 1440,
-      "2025-01-23": 1440
+      "2025-01-24": 1440
     }
   },
   {
@@ -1850,17 +1851,17 @@
     "slug": "fakultas-pertanian",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "80.06%",
-    "uptimeWeek": "82.10%",
-    "uptimeMonth": "88.30%",
-    "uptimeYear": "99.03%",
+    "uptimeDay": "80.59%",
+    "uptimeWeek": "82.18%",
+    "uptimeMonth": "88.27%",
+    "uptimeYear": "99.02%",
     "time": 3213,
     "timeDay": 6370,
     "timeWeek": 5189,
-    "timeMonth": 4804,
+    "timeMonth": 4805,
     "timeYear": 3274,
     "dailyMinutesDown": {
-      "2026-01-22": 288,
+      "2026-01-22": 280,
       "2026-01-21": 530,
       "2026-01-20": 282,
       "2026-01-19": 314,
@@ -1879,7 +1880,7 @@
       "2026-01-05": 89,
       "2026-01-04": 133,
       "2026-01-02": 509,
-      "2026-01-01": 498
+      "2026-01-01": 521
     }
   },
   {
@@ -2596,7 +2597,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-22": 1437,
+      "2026-01-23": 119,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -2959,8 +2961,7 @@
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
-      "2025-01-24": 1440,
-      "2025-01-23": 1440
+      "2025-01-24": 1440
     }
   },
   {
