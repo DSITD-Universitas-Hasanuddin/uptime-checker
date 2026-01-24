@@ -4,11 +4,11 @@
     "url": "https://unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/unhas.ac.id.ico",
     "slug": "unhas-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "96.60%",
-    "uptimeMonth": "98.38%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "96.59%",
+    "uptimeMonth": "98.37%",
     "uptimeYear": "98.45%",
     "time": 1212,
     "timeDay": 1319,
@@ -16,7 +16,7 @@
     "timeMonth": 1426,
     "timeYear": 1213,
     "dailyMinutesDown": {
-      "2026-01-24": 22,
+      "2026-01-24": 23,
       "2026-01-21": 187,
       "2026-01-20": 21,
       "2026-01-19": 112,
@@ -94,7 +94,7 @@
       "2025-07-23": 484,
       "2025-07-22": 46,
       "2025-07-21": 22,
-      "2025-07-14": 177
+      "2025-07-14": 161
     }
   },
   {
@@ -206,7 +206,7 @@
     "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.11%",
+    "uptimeMonth": "70.22%",
     "uptimeYear": "95.46%",
     "time": 662,
     "timeDay": 798,
@@ -340,7 +340,7 @@
     "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.11%",
+    "uptimeMonth": "70.22%",
     "uptimeYear": "95.39%",
     "time": 1348,
     "timeDay": 1264,
@@ -499,7 +499,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-24": 676,
+      "2026-01-24": 721,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -1371,7 +1371,7 @@
     "timeMonth": 1167,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2026-01-24": 676,
+      "2026-01-24": 721,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -1850,8 +1850,8 @@
     "uptimeMonth": "90.01%",
     "uptimeYear": "99.17%",
     "time": 3252,
-    "timeDay": 6477,
-    "timeWeek": 5202,
+    "timeDay": 6868,
+    "timeWeek": 5234,
     "timeMonth": 4896,
     "timeYear": 3300,
     "dailyMinutesDown": {
@@ -2586,7 +2586,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-24": 677,
+      "2026-01-24": 722,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -2961,7 +2961,7 @@
     "status": "up",
     "uptime": "99.29%",
     "uptimeDay": "96.95%",
-    "uptimeWeek": "72.32%",
+    "uptimeWeek": "72.77%",
     "uptimeMonth": "92.92%",
     "uptimeYear": "98.16%",
     "time": 2189,
