@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.05%",
+    "uptimeWeek": "97.17%",
     "uptimeMonth": "98.25%",
     "uptimeYear": "98.46%",
     "time": 1212,
     "timeDay": 1194,
-    "timeWeek": 1505,
+    "timeWeek": 1512,
     "timeMonth": 1415,
     "timeYear": 1213,
     "dailyMinutesDown": {
@@ -105,12 +105,12 @@
     "status": "up",
     "uptime": "99.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.46%",
+    "uptimeWeek": "97.58%",
     "uptimeMonth": "98.36%",
     "uptimeYear": "98.40%",
     "time": 2242,
     "timeDay": 2073,
-    "timeWeek": 2218,
+    "timeWeek": 2207,
     "timeMonth": 2304,
     "timeYear": 2245,
     "dailyMinutesDown": {
@@ -205,7 +205,7 @@
     "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "75.01%",
+    "uptimeMonth": "75.40%",
     "uptimeYear": "95.45%",
     "time": 663,
     "timeDay": 943,
@@ -255,12 +255,12 @@
     "status": "up",
     "uptime": "99.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.50%",
+    "uptimeWeek": "97.61%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "98.53%",
     "time": 1416,
     "timeDay": 1441,
-    "timeWeek": 1546,
+    "timeWeek": 1525,
     "timeMonth": 1665,
     "timeYear": 1418,
     "dailyMinutesDown": {
@@ -340,7 +340,7 @@
     "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "75.01%",
+    "uptimeMonth": "75.40%",
     "uptimeYear": "95.39%",
     "time": 1350,
     "timeDay": 1232,
@@ -500,7 +500,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 1397,
+      "2026-01-26": 128,
+      "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -863,8 +864,7 @@
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
-      "2025-01-27": 1440,
-      "2025-01-26": 1440
+      "2025-01-27": 1440
     }
   },
   {
@@ -1371,7 +1371,8 @@
     "timeMonth": 1180,
     "timeYear": 1055,
     "dailyMinutesDown": {
-      "2026-01-25": 1397,
+      "2026-01-26": 128,
+      "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -1734,8 +1735,7 @@
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
-      "2025-01-27": 1440,
-      "2025-01-26": 1440
+      "2025-01-27": 1440
     }
   },
   {
@@ -1846,13 +1846,13 @@
     "status": "up",
     "uptime": "99.68%",
     "uptimeDay": "88.68%",
-    "uptimeWeek": "81.27%",
+    "uptimeWeek": "82.52%",
     "uptimeMonth": "90.12%",
     "uptimeYear": "99.18%",
     "time": 3264,
-    "timeDay": 5621,
+    "timeDay": 5759,
     "timeWeek": 5735,
-    "timeMonth": 5028,
+    "timeMonth": 5033,
     "timeYear": 3340,
     "dailyMinutesDown": {
       "2026-01-25": 162,
@@ -2076,14 +2076,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/lawfaculty.unhas.ac.id.ico",
     "slug": "fakultas-hukum",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.48%",
+    "uptimeWeek": "97.58%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "98.67%",
     "time": 1584,
     "timeDay": 1563,
-    "timeWeek": 1650,
+    "timeWeek": 1652,
     "timeMonth": 1681,
     "timeYear": 1578,
     "dailyMinutesDown": {
@@ -2564,7 +2564,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 1398,
+      "2026-01-26": 129,
+      "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -2927,8 +2928,7 @@
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
-      "2025-01-27": 1440,
-      "2025-01-26": 1440
+      "2025-01-27": 1440
     }
   },
   {
@@ -2939,7 +2939,7 @@
     "status": "up",
     "uptime": "99.29%",
     "uptimeDay": "97.35%",
-    "uptimeWeek": "93.14%",
+    "uptimeWeek": "94.84%",
     "uptimeMonth": "92.78%",
     "uptimeYear": "98.16%",
     "time": 2190,
