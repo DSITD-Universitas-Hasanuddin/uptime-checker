@@ -404,7 +404,7 @@
     "time": 1804,
     "timeDay": 2078,
     "timeWeek": 1857,
-    "timeMonth": 1719,
+    "timeMonth": 1724,
     "timeYear": 1807,
     "dailyMinutesDown": {
       "2026-01-30": 146,
@@ -491,7 +491,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sister.unhas.ac.id.ico",
     "slug": "sister-unhas",
     "status": "down",
-    "uptime": "27.24%",
+    "uptime": "27.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -502,7 +502,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 963,
+      "2026-02-03": 1239,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
@@ -883,7 +883,7 @@
     "time": 2323,
     "timeDay": 2723,
     "timeWeek": 2490,
-    "timeMonth": 2240,
+    "timeMonth": 2245,
     "timeYear": 2352,
     "dailyMinutesDown": {
       "2026-01-30": 146,
@@ -981,7 +981,7 @@
     "time": 2256,
     "timeDay": 4947,
     "timeWeek": 2890,
-    "timeMonth": 2613,
+    "timeMonth": 2609,
     "timeYear": 2409,
     "dailyMinutesDown": {
       "2026-01-30": 146,
@@ -1075,8 +1075,8 @@
     "time": 2335,
     "timeDay": 2391,
     "timeWeek": 2332,
-    "timeMonth": 2065,
-    "timeYear": 2327,
+    "timeMonth": 2073,
+    "timeYear": 2326,
     "dailyMinutesDown": {
       "2026-01-30": 146,
       "2026-01-29": 15,
@@ -1173,7 +1173,7 @@
     "time": 2714,
     "timeDay": 2905,
     "timeWeek": 3007,
-    "timeMonth": 2598,
+    "timeMonth": 2597,
     "timeYear": 2691,
     "dailyMinutesDown": {
       "2026-01-30": 146,
@@ -1271,7 +1271,7 @@
     "time": 2215,
     "timeDay": 2324,
     "timeWeek": 1706,
-    "timeMonth": 1762,
+    "timeMonth": 1767,
     "timeYear": 2220,
     "dailyMinutesDown": {
       "2026-02-02": 132,
@@ -1371,7 +1371,7 @@
     "timeMonth": 1184,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2026-02-03": 964,
+      "2026-02-03": 1239,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
@@ -1752,7 +1752,7 @@
     "time": 2126,
     "timeDay": 3030,
     "timeWeek": 2879,
-    "timeMonth": 2534,
+    "timeMonth": 2543,
     "timeYear": 2220,
     "dailyMinutesDown": {
       "2026-01-30": 146,
@@ -1840,19 +1840,19 @@
     "url": "https://agriculture.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.unhas.ac.id.ico",
     "slug": "fakultas-pertanian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "65.17%",
-    "uptimeWeek": "77.25%",
-    "uptimeMonth": "89.25%",
-    "uptimeYear": "99.10%",
-    "time": 3406,
-    "timeDay": 6196,
-    "timeWeek": 6586,
-    "timeMonth": 5925,
+    "uptimeDay": "75.89%",
+    "uptimeWeek": "78.49%",
+    "uptimeMonth": "89.30%",
+    "uptimeYear": "99.11%",
+    "time": 3407,
+    "timeDay": 5853,
+    "timeWeek": 6669,
+    "timeMonth": 5921,
     "timeYear": 3478,
     "dailyMinutesDown": {
-      "2026-02-03": 183,
+      "2026-02-03": 185,
       "2026-02-02": 460,
       "2026-01-31": 145,
       "2026-01-30": 762,
@@ -1868,7 +1868,7 @@
       "2026-01-20": 282,
       "2026-01-19": 314,
       "2026-01-18": 115,
-      "2026-01-17": 43
+      "2026-01-17": 20
     }
   },
   {
@@ -1885,7 +1885,7 @@
     "time": 1650,
     "timeDay": 1806,
     "timeWeek": 1670,
-    "timeMonth": 1673,
+    "timeMonth": 1681,
     "timeYear": 1654,
     "dailyMinutesDown": {
       "2026-01-30": 146,
@@ -1978,7 +1978,7 @@
     "time": 2226,
     "timeDay": 2210,
     "timeWeek": 2241,
-    "timeMonth": 2045,
+    "timeMonth": 2047,
     "timeYear": 2150,
     "dailyMinutesDown": {
       "2026-01-30": 146,
@@ -2069,7 +2069,7 @@
     "slug": "fakultas-hukum",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "42.50%",
+    "uptimeDay": "61.61%",
     "uptimeWeek": "86.80%",
     "uptimeMonth": "95.82%",
     "uptimeYear": "98.44%",
@@ -2077,7 +2077,7 @@
     "timeDay": 1720,
     "timeWeek": 1709,
     "timeMonth": 1675,
-    "timeYear": 1579,
+    "timeYear": 1580,
     "dailyMinutesDown": {
       "2026-02-03": 353,
       "2026-02-02": 955,
@@ -2174,7 +2174,7 @@
     "time": 1471,
     "timeDay": 1465,
     "timeWeek": 1616,
-    "timeMonth": 1492,
+    "timeMonth": 1494,
     "timeYear": 1524,
     "dailyMinutesDown": {
       "2026-01-30": 146,
@@ -2266,7 +2266,7 @@
     "time": 2281,
     "timeDay": 2461,
     "timeWeek": 2354,
-    "timeMonth": 2200,
+    "timeMonth": 2195,
     "timeYear": 2307,
     "dailyMinutesDown": {
       "2026-01-30": 146,
@@ -2360,7 +2360,7 @@
     "time": 2044,
     "timeDay": 2009,
     "timeWeek": 2263,
-    "timeMonth": 1912,
+    "timeMonth": 1920,
     "timeYear": 2016,
     "dailyMinutesDown": {
       "2026-01-30": 146,
@@ -2455,7 +2455,7 @@
     "time": 2285,
     "timeDay": 2516,
     "timeWeek": 2370,
-    "timeMonth": 2040,
+    "timeMonth": 2047,
     "timeYear": 2219,
     "dailyMinutesDown": {
       "2026-01-30": 146,
@@ -2551,7 +2551,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 965,
+      "2026-02-03": 1240,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
@@ -2932,7 +2932,7 @@
     "time": 2252,
     "timeDay": 3704,
     "timeWeek": 3368,
-    "timeMonth": 2584,
+    "timeMonth": 2612,
     "timeYear": 2209,
     "dailyMinutesDown": {
       "2026-01-30": 146,
