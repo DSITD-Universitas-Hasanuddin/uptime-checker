@@ -1,7 +1,7 @@
 url: https://med.unhas.ac.id
-status: up
-code: 200
-responseTime: 2492
-lastUpdated: 2026-02-16T10:28:20.310Z
+status: down
+code: 415
+responseTime: 1104
+lastUpdated: 2026-02-16T21:59:34.696Z
 startTime: 2023-06-28T18:02:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
