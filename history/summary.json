@@ -113,7 +113,7 @@
     "timeDay": 2511,
     "timeWeek": 2246,
     "timeMonth": 2259,
-    "timeYear": 2250,
+    "timeYear": 2249,
     "dailyMinutesDown": {
       "2026-02-16": 41,
       "2026-02-15": 68,
@@ -346,18 +346,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sikola.unhas.ac.id.ico",
     "slug": "sikola-unhas",
     "status": "down",
-    "uptime": "96.19%",
+    "uptime": "96.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "57.54%",
-    "uptimeYear": "91.85%",
+    "uptimeMonth": "57.14%",
+    "uptimeYear": "91.82%",
     "time": 1359,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1396,
     "timeYear": 1339,
     "dailyMinutesDown": {
-      "2026-02-17": 1416,
+      "2026-02-18": 151,
+      "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -422,7 +423,7 @@
     "time": 1805,
     "timeDay": 1564,
     "timeWeek": 1724,
-    "timeMonth": 1654,
+    "timeMonth": 1650,
     "timeYear": 1801,
     "dailyMinutesDown": {
       "2026-02-17": 84,
@@ -516,7 +517,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-17": 1416,
+      "2026-02-18": 151,
+      "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -879,8 +881,7 @@
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
-      "2025-02-19": 1440,
-      "2025-02-18": 1440
+      "2025-02-19": 1440
     }
   },
   {
@@ -897,7 +898,7 @@
     "time": 2334,
     "timeDay": 2073,
     "timeWeek": 2118,
-    "timeMonth": 2179,
+    "timeMonth": 2188,
     "timeYear": 2351,
     "dailyMinutesDown": {
       "2026-02-17": 84,
@@ -987,7 +988,7 @@
     "time": 2316,
     "timeDay": 2125,
     "timeWeek": 2295,
-    "timeMonth": 2435,
+    "timeMonth": 2445,
     "timeYear": 2431,
     "dailyMinutesDown": {
       "2026-02-17": 84,
@@ -1077,7 +1078,7 @@
     "time": 2301,
     "timeDay": 1966,
     "timeWeek": 1995,
-    "timeMonth": 2035,
+    "timeMonth": 2040,
     "timeYear": 2292,
     "dailyMinutesDown": {
       "2026-02-17": 84,
@@ -1168,7 +1169,7 @@
     "time": 2681,
     "timeDay": 2080,
     "timeWeek": 2249,
-    "timeMonth": 2449,
+    "timeMonth": 2458,
     "timeYear": 2663,
     "dailyMinutesDown": {
       "2026-02-17": 84,
@@ -1260,7 +1261,7 @@
     "time": 2199,
     "timeDay": 1816,
     "timeWeek": 1856,
-    "timeMonth": 1808,
+    "timeMonth": 1814,
     "timeYear": 2200,
     "dailyMinutesDown": {
       "2026-02-17": 84,
@@ -1357,7 +1358,8 @@
     "timeMonth": 1347,
     "timeYear": 1063,
     "dailyMinutesDown": {
-      "2026-02-17": 1417,
+      "2026-02-18": 151,
+      "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -1720,8 +1722,7 @@
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
-      "2025-02-19": 1440,
-      "2025-02-18": 1440
+      "2025-02-19": 1440
     }
   },
   {
@@ -1738,7 +1739,7 @@
     "time": 2168,
     "timeDay": 2145,
     "timeWeek": 2215,
-    "timeMonth": 2409,
+    "timeMonth": 2416,
     "timeYear": 2242,
     "dailyMinutesDown": {
       "2026-02-17": 84,
@@ -1822,17 +1823,17 @@
     "slug": "fakultas-pertanian",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "97.27%",
-    "uptimeWeek": "90.10%",
-    "uptimeMonth": "89.48%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "91.05%",
+    "uptimeMonth": "89.45%",
     "uptimeYear": "99.12%",
     "time": 3462,
     "timeDay": 5014,
     "timeWeek": 6068,
-    "timeMonth": 6121,
+    "timeMonth": 6131,
     "timeYear": 3551,
     "dailyMinutesDown": {
-      "2026-02-17": 39,
+      "2026-02-17": 29,
       "2026-02-16": 83,
       "2026-02-15": 100,
       "2026-02-14": 127,
@@ -1854,7 +1855,8 @@
       "2026-01-26": 189,
       "2026-01-25": 162,
       "2026-01-24": 139,
-      "2026-01-23": 180
+      "2026-01-23": 180,
+      "2026-01-22": 20
     }
   },
   {
@@ -1871,7 +1873,7 @@
     "time": 1645,
     "timeDay": 1473,
     "timeWeek": 1584,
-    "timeMonth": 1637,
+    "timeMonth": 1642,
     "timeYear": 1652,
     "dailyMinutesDown": {
       "2026-02-17": 82,
@@ -1960,7 +1962,7 @@
     "time": 2194,
     "timeDay": 1822,
     "timeWeek": 2004,
-    "timeMonth": 2017,
+    "timeMonth": 2026,
     "timeYear": 2136,
     "dailyMinutesDown": {
       "2026-02-17": 82,
@@ -2051,7 +2053,7 @@
     "timeDay": 1571,
     "timeWeek": 1643,
     "timeMonth": 1658,
-    "timeYear": 1582,
+    "timeYear": 1581,
     "dailyMinutesDown": {
       "2026-02-16": 40,
       "2026-02-15": 65,
@@ -2152,8 +2154,8 @@
     "time": 1464,
     "timeDay": 1359,
     "timeWeek": 1393,
-    "timeMonth": 1423,
-    "timeYear": 1527,
+    "timeMonth": 1427,
+    "timeYear": 1528,
     "dailyMinutesDown": {
       "2026-02-17": 82,
       "2026-02-16": 90,
@@ -2240,7 +2242,7 @@
     "time": 2283,
     "timeDay": 1934,
     "timeWeek": 2037,
-    "timeMonth": 2104,
+    "timeMonth": 2108,
     "timeYear": 2292,
     "dailyMinutesDown": {
       "2026-02-17": 82,
@@ -2330,7 +2332,7 @@
     "time": 2033,
     "timeDay": 1740,
     "timeWeek": 1801,
-    "timeMonth": 1870,
+    "timeMonth": 1876,
     "timeYear": 2009,
     "dailyMinutesDown": {
       "2026-02-17": 82,
@@ -2422,7 +2424,7 @@
     "time": 2255,
     "timeDay": 1807,
     "timeWeek": 1946,
-    "timeMonth": 2024,
+    "timeMonth": 2030,
     "timeYear": 2200,
     "dailyMinutesDown": {
       "2026-02-17": 82,
@@ -2514,7 +2516,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-17": 1418,
+      "2026-02-18": 152,
+      "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -2877,8 +2880,7 @@
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
-      "2025-02-19": 1440,
-      "2025-02-18": 1440
+      "2025-02-19": 1440
     }
   },
   {
@@ -2890,7 +2892,7 @@
     "uptime": "99.45%",
     "uptimeDay": "94.28%",
     "uptimeWeek": "95.50%",
-    "uptimeMonth": "92.44%",
+    "uptimeMonth": "92.84%",
     "uptimeYear": "98.54%",
     "time": 2274,
     "timeDay": 2880,
