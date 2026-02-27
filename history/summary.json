@@ -347,7 +347,7 @@
     "uptime": "95.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "26.31%",
+    "uptimeMonth": "26.28%",
     "uptimeYear": "89.30%",
     "time": 1364,
     "timeDay": 0,
@@ -355,7 +355,7 @@
     "timeMonth": 1398,
     "timeYear": 1342,
     "dailyMinutesDown": {
-      "2026-02-27": 711,
+      "2026-02-27": 724,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -521,7 +521,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-27": 711,
+      "2026-02-27": 725,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -1350,7 +1350,7 @@
     "timeMonth": 0,
     "timeYear": 1067,
     "dailyMinutesDown": {
-      "2026-02-27": 711,
+      "2026-02-27": 725,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -1810,19 +1810,19 @@
     "url": "https://agriculture.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.unhas.ac.id.ico",
     "slug": "fakultas-pertanian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "46.56%",
-    "uptimeWeek": "81.26%",
+    "uptimeDay": "46.55%",
+    "uptimeWeek": "81.24%",
     "uptimeMonth": "86.95%",
-    "uptimeYear": "98.88%",
+    "uptimeYear": "98.89%",
     "time": 3492,
     "timeDay": 3533,
-    "timeWeek": 3647,
-    "timeMonth": 5811,
+    "timeWeek": 3620,
+    "timeMonth": 5805,
     "timeYear": 3556,
     "dailyMinutesDown": {
-      "2026-02-27": 546,
+      "2026-02-27": 548,
       "2026-02-26": 325,
       "2026-02-25": 495,
       "2026-02-24": 203,
@@ -1849,8 +1849,7 @@
       "2026-01-30": 762,
       "2026-01-29": 289,
       "2026-01-28": 279,
-      "2026-01-27": 353,
-      "2026-01-26": 34
+      "2026-01-27": 353
     }
   },
   {
@@ -2501,7 +2500,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-27": 712,
+      "2026-02-27": 726,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
