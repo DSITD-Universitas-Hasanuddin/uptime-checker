@@ -347,7 +347,7 @@
     "uptime": "95.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.68%",
+    "uptimeMonth": "24.65%",
     "uptimeYear": "89.17%",
     "time": 1364,
     "timeDay": 0,
@@ -355,7 +355,7 @@
     "timeMonth": 1374,
     "timeYear": 1344,
     "dailyMinutesDown": {
-      "2026-02-27": 1424,
+      "2026-02-27": 1437,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -422,17 +422,17 @@
     "slug": "dikmawa",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "97.27%",
-    "uptimeWeek": "94.91%",
-    "uptimeMonth": "96.12%",
-    "uptimeYear": "98.43%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "96.13%",
+    "uptimeYear": "98.42%",
     "time": 1801,
     "timeDay": 2349,
     "timeWeek": 1721,
     "timeMonth": 1708,
     "timeYear": 1800,
     "dailyMinutesDown": {
-      "2026-02-27": 39,
+      "2026-02-27": 33,
       "2026-02-25": 135,
       "2026-02-24": 96,
       "2026-02-23": 56,
@@ -501,7 +501,8 @@
       "2025-09-20": 15,
       "2025-09-17": 27,
       "2025-09-01": 333,
-      "2025-08-20": 20
+      "2025-08-20": 20,
+      "2025-08-19": 16
     }
   },
   {
@@ -521,7 +522,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-27": 1425,
+      "2026-02-27": 1437,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -895,9 +896,9 @@
     "slug": "fakultas-kedokteran",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "97.27%",
-    "uptimeWeek": "94.91%",
-    "uptimeMonth": "96.12%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "96.13%",
     "uptimeYear": "99.06%",
     "time": 2345,
     "timeDay": 2028,
@@ -905,7 +906,7 @@
     "timeMonth": 2257,
     "timeYear": 2357,
     "dailyMinutesDown": {
-      "2026-02-27": 39,
+      "2026-02-27": 33,
       "2026-02-25": 135,
       "2026-02-24": 96,
       "2026-02-23": 56,
@@ -973,7 +974,8 @@
       "2025-09-17": 26,
       "2025-09-01": 333,
       "2025-08-20": 21,
-      "2025-08-19": 17
+      "2025-08-19": 17,
+      "2025-08-12": 41
     }
   },
   {
@@ -983,9 +985,9 @@
     "slug": "fakultas-ekonomi",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "97.27%",
-    "uptimeWeek": "94.91%",
-    "uptimeMonth": "96.11%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "94.97%",
+    "uptimeMonth": "96.13%",
     "uptimeYear": "98.86%",
     "time": 2353,
     "timeDay": 2186,
@@ -993,7 +995,7 @@
     "timeMonth": 2443,
     "timeYear": 2443,
     "dailyMinutesDown": {
-      "2026-02-27": 40,
+      "2026-02-27": 33,
       "2026-02-25": 135,
       "2026-02-24": 96,
       "2026-02-23": 56,
@@ -1061,7 +1063,8 @@
       "2025-09-17": 26,
       "2025-09-01": 333,
       "2025-08-21": 345,
-      "2025-08-20": 624
+      "2025-08-20": 624,
+      "2025-08-19": 17
     }
   },
   {
@@ -1070,18 +1073,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fikp.unhas.ac.id.ico",
     "slug": "fakultas-ikp",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "97.26%",
-    "uptimeWeek": "94.90%",
-    "uptimeMonth": "96.11%",
-    "uptimeYear": "99.06%",
+    "uptime": "99.64%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "94.97%",
+    "uptimeMonth": "96.13%",
+    "uptimeYear": "99.05%",
     "time": 2296,
     "timeDay": 1887,
     "timeWeek": 1955,
     "timeMonth": 2136,
     "timeYear": 2282,
     "dailyMinutesDown": {
-      "2026-02-27": 40,
+      "2026-02-27": 33,
       "2026-02-25": 135,
       "2026-02-24": 96,
       "2026-02-23": 56,
@@ -1149,7 +1152,7 @@
       "2025-09-01": 333,
       "2025-08-20": 20,
       "2025-08-19": 17,
-      "2025-08-12": 41
+      "2025-08-12": 106
     }
   },
   {
@@ -1350,7 +1353,7 @@
     "timeMonth": 0,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2026-02-27": 1425,
+      "2026-02-27": 1438,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
@@ -1810,19 +1813,19 @@
     "url": "https://agriculture.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/agriculture.unhas.ac.id.ico",
     "slug": "fakultas-pertanian",
-    "status": "down",
+    "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "50.49%",
-    "uptimeWeek": "80.04%",
-    "uptimeMonth": "87.10%",
+    "uptimeDay": "50.61%",
+    "uptimeWeek": "79.93%",
+    "uptimeMonth": "87.08%",
     "uptimeYear": "98.89%",
     "time": 3496,
-    "timeDay": 3344,
-    "timeWeek": 3469,
-    "timeMonth": 5752,
+    "timeDay": 3378,
+    "timeWeek": 3477,
+    "timeMonth": 5743,
     "timeYear": 3555,
     "dailyMinutesDown": {
-      "2026-02-27": 699,
+      "2026-02-27": 710,
       "2026-02-26": 325,
       "2026-02-25": 495,
       "2026-02-24": 203,
@@ -2501,7 +2504,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-27": 1426,
+      "2026-02-27": 1439,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 1440,
