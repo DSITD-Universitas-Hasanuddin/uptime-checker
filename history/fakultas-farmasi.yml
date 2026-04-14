@@ -1,7 +1,7 @@
 url: https://farmasi.unhas.ac.id
-status: up
-code: 200
-responseTime: 1820
-lastUpdated: 2026-04-13T23:36:55.602Z
+status: down
+code: 500
+responseTime: 1087
+lastUpdated: 2026-04-14T14:23:15.394Z
 startTime: 2023-06-28T18:02:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
