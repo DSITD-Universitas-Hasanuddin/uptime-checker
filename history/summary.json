@@ -132,7 +132,7 @@
     "timeDay": 4444,
     "timeWeek": 4853,
     "timeMonth": 5207,
-    "timeYear": 2346,
+    "timeYear": 2347,
     "dailyMinutesDown": {
       "2025-10-27": 19,
       "2025-10-29": 16,
@@ -378,11 +378,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sikola.unhas.ac.id.ico",
     "slug": "sikola-unhas",
     "status": "down",
-    "uptime": "85.81%",
+    "uptime": "85.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.02%",
+    "uptimeYear": "62.00%",
     "time": 1338,
     "timeDay": 0,
     "timeWeek": 0,
@@ -422,7 +422,7 @@
       "2025-12-17": 478,
       "2026-01-09": 108,
       "2026-01-24": 16,
-      "2026-06-07": 112,
+      "2026-06-07": 252,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -643,7 +643,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sister.unhas.ac.id.ico",
     "slug": "sister-unhas",
     "status": "down",
-    "uptime": "24.54%",
+    "uptime": "24.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -654,7 +654,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 112,
+      "2026-06-07": 252,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -1436,7 +1436,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilmubudaya.unhas.ac.id.ico",
     "slug": "fakultas-ilmu-budaya",
     "status": "down",
-    "uptime": "36.42%",
+    "uptime": "36.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1447,7 +1447,7 @@
     "timeMonth": 0,
     "timeYear": 1077,
     "dailyMinutesDown": {
-      "2026-06-07": 113,
+      "2026-06-07": 253,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -2266,15 +2266,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dent.unhas.ac.id.ico",
     "slug": "fakultas-kedokteran-gigi",
     "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "97.43%",
-    "uptimeWeek": "86.28%",
-    "uptimeMonth": "81.86%",
-    "uptimeYear": "96.82%",
+    "uptime": "98.91%",
+    "uptimeDay": "87.72%",
+    "uptimeWeek": "84.89%",
+    "uptimeMonth": "81.85%",
+    "uptimeYear": "96.79%",
     "time": 1651,
     "timeDay": 0,
     "timeWeek": 1833,
-    "timeMonth": 1915,
+    "timeMonth": 1911,
     "timeYear": 1648,
     "dailyMinutesDown": {
       "2026-04-25": 38,
@@ -2315,7 +2315,7 @@
       "2026-06-01": 37,
       "2026-06-03": 180,
       "2026-06-05": 243,
-      "2026-06-07": 37
+      "2026-06-07": 177
     }
   },
   {
@@ -2597,7 +2597,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 114,
+      "2026-06-07": 254,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -2971,9 +2971,9 @@
     "slug": "lp-2-m",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "92.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "92.80%",
     "uptimeYear": "97.20%",
     "time": 2452,
     "timeDay": 2205,
@@ -2981,6 +2981,7 @@
     "timeMonth": 2543,
     "timeYear": 2485,
     "dailyMinutesDown": {
+      "2026-01-26": 15,
       "2026-01-27": 120,
       "2026-01-28": 162,
       "2026-01-29": 16,
@@ -3050,8 +3051,7 @@
       "2026-05-24": 365,
       "2026-05-28": 551,
       "2026-05-27": 484,
-      "2026-06-05": 158,
-      "2026-06-07": 11
+      "2026-06-05": 158
     }
   }
 ]
