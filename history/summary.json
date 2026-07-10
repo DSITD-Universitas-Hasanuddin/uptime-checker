@@ -6,10 +6,10 @@
     "slug": "unhas-main",
     "status": "down",
     "uptime": "97.60%",
-    "uptimeDay": "94.81%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "97.07%",
-    "uptimeYear": "91.56%",
+    "uptimeDay": "91.50%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "91.55%",
     "time": 2027,
     "timeDay": 3592,
     "timeWeek": 4360,
@@ -115,7 +115,7 @@
       "2026-06-25": 120,
       "2026-06-28": 276,
       "2026-06-29": 204,
-      "2026-07-10": 75
+      "2026-07-10": 122
     }
   },
   {
@@ -378,11 +378,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sikola.unhas.ac.id.ico",
     "slug": "sikola-unhas",
     "status": "down",
-    "uptime": "83.10%",
+    "uptime": "83.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "53.02%",
+    "uptimeYear": "53.01%",
     "time": 1348,
     "timeDay": 0,
     "timeWeek": 0,
@@ -420,7 +420,7 @@
       "2025-12-17": 478,
       "2026-01-09": 108,
       "2026-01-24": 16,
-      "2026-07-10": 166,
+      "2026-07-10": 214,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
@@ -585,10 +585,10 @@
     "slug": "dikmawa",
     "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "95.16%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "97.76%",
-    "uptimeYear": "96.86%",
+    "uptimeDay": "91.85%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "96.85%",
     "time": 1880,
     "timeDay": 2169,
     "timeWeek": 2546,
@@ -666,7 +666,7 @@
       "2026-06-25": 106,
       "2026-06-28": 276,
       "2026-06-29": 190,
-      "2026-07-10": 70
+      "2026-07-10": 117
     }
   },
   {
@@ -686,7 +686,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-10": 166,
+      "2026-07-10": 214,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
@@ -1059,10 +1059,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/med.unhas.ac.id.ico",
     "slug": "fakultas-kedokteran",
     "status": "down",
-    "uptime": "98.71%",
-    "uptimeDay": "95.82%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "97.83%",
+    "uptime": "98.70%",
+    "uptimeDay": "92.51%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "96.07%",
     "time": 2470,
     "timeDay": 2601,
@@ -1140,7 +1140,7 @@
       "2026-06-25": 101,
       "2026-06-28": 276,
       "2026-06-29": 185,
-      "2026-07-10": 60
+      "2026-07-10": 108
     }
   },
   {
@@ -1150,10 +1150,10 @@
     "slug": "fakultas-ekonomi",
     "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "96.16%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "97.89%",
-    "uptimeYear": "95.79%",
+    "uptimeDay": "92.84%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "95.78%",
     "time": 2726,
     "timeDay": 2796,
     "timeWeek": 3169,
@@ -1199,7 +1199,7 @@
       "2026-06-25": 96,
       "2026-06-28": 275,
       "2026-06-29": 180,
-      "2026-07-10": 55
+      "2026-07-10": 103
     }
   },
   {
@@ -1209,10 +1209,10 @@
     "slug": "fakultas-ikp",
     "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "96.49%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "96.24%",
+    "uptimeDay": "93.17%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "97.83%",
+    "uptimeYear": "96.23%",
     "time": 2349,
     "timeDay": 2360,
     "timeWeek": 2672,
@@ -1283,7 +1283,7 @@
       "2026-06-25": 92,
       "2026-06-28": 275,
       "2026-06-29": 176,
-      "2026-07-10": 51
+      "2026-07-10": 98
     }
   },
   {
@@ -1293,10 +1293,10 @@
     "slug": "fakultas-km",
     "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "96.82%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "98.00%",
-    "uptimeYear": "96.33%",
+    "uptimeDay": "93.51%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "97.89%",
+    "uptimeYear": "96.32%",
     "time": 2696,
     "timeDay": 2668,
     "timeWeek": 2973,
@@ -1373,7 +1373,7 @@
       "2026-06-25": 87,
       "2026-06-28": 275,
       "2026-06-29": 171,
-      "2026-07-10": 46
+      "2026-07-10": 94
     }
   },
   {
@@ -1383,10 +1383,10 @@
     "slug": "fakultas-farmasi",
     "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "97.15%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "98.05%",
-    "uptimeYear": "95.78%",
+    "uptimeDay": "93.84%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "95.77%",
     "time": 2209,
     "timeDay": 3114,
     "timeWeek": 3373,
@@ -1468,7 +1468,7 @@
       "2026-06-25": 82,
       "2026-06-28": 275,
       "2026-06-29": 166,
-      "2026-07-10": 41
+      "2026-07-10": 89
     }
   },
   {
@@ -1488,7 +1488,7 @@
     "timeMonth": 0,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2026-07-10": 167,
+      "2026-07-10": 215,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
@@ -1862,10 +1862,10 @@
     "slug": "fakultas-isip",
     "status": "down",
     "uptime": "98.54%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "98.11%",
-    "uptimeYear": "95.57%",
+    "uptimeDay": "94.20%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "95.56%",
     "time": 2454,
     "timeDay": 2533,
     "timeWeek": 3484,
@@ -1943,7 +1943,7 @@
       "2026-06-25": 77,
       "2026-06-28": 275,
       "2026-06-29": 161,
-      "2026-07-10": 36
+      "2026-07-10": 84
     }
   },
   {
@@ -1953,10 +1953,10 @@
     "slug": "fakultas-pertanian",
     "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "97.49%",
+    "uptimeDay": "94.53%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "98.05%",
+    "uptimeYear": "97.48%",
     "time": 3604,
     "timeDay": 1969,
     "timeWeek": 2322,
@@ -2009,7 +2009,7 @@
       "2026-06-25": 72,
       "2026-06-28": 274,
       "2026-06-29": 156,
-      "2026-07-10": 31
+      "2026-07-10": 79
     }
   },
   {
@@ -2019,10 +2019,10 @@
     "slug": "fakultas-peternakan",
     "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "98.22%",
-    "uptimeYear": "96.84%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "96.83%",
     "time": 1721,
     "timeDay": 2154,
     "timeWeek": 2579,
@@ -2101,7 +2101,7 @@
       "2026-06-25": 68,
       "2026-06-28": 274,
       "2026-06-29": 152,
-      "2026-07-10": 26
+      "2026-07-10": 74
     }
   },
   {
@@ -2111,10 +2111,10 @@
     "slug": "fakultas-kehutanan",
     "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "98.27%",
-    "uptimeYear": "95.93%",
+    "uptimeDay": "95.17%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "95.92%",
     "time": 2158,
     "timeDay": 2156,
     "timeWeek": 2670,
@@ -2195,7 +2195,7 @@
       "2026-06-25": 63,
       "2026-06-28": 274,
       "2026-06-29": 147,
-      "2026-07-10": 22
+      "2026-07-10": 69
     }
   },
   {
@@ -2378,10 +2378,10 @@
     "slug": "fakultas-vokasi",
     "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "96.73%",
+    "uptimeDay": "95.49%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "96.72%",
     "time": 2372,
     "timeDay": 2880,
     "timeWeek": 3140,
@@ -2453,7 +2453,7 @@
       "2026-06-25": 53,
       "2026-06-28": 274,
       "2026-06-29": 137,
-      "2026-07-10": 17
+      "2026-07-10": 65
     }
   },
   {
@@ -2463,10 +2463,10 @@
     "slug": "fakultas-keperawatan",
     "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "97.90%",
-    "uptimeYear": "96.58%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "97.79%",
+    "uptimeYear": "96.57%",
     "time": 2237,
     "timeDay": 3812,
     "timeWeek": 4436,
@@ -2543,7 +2543,7 @@
       "2026-06-25": 48,
       "2026-06-28": 274,
       "2026-06-29": 132,
-      "2026-07-10": 12
+      "2026-07-10": 60
     }
   },
   {
@@ -2553,9 +2553,9 @@
     "slug": "fakultas-mipa",
     "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "98.48%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "98.37%",
     "uptimeYear": "96.78%",
     "time": 2235,
     "timeDay": 2443,
@@ -2638,7 +2638,7 @@
       "2026-06-25": 44,
       "2026-06-28": 273,
       "2026-06-29": 128,
-      "2026-07-10": 7
+      "2026-07-10": 55
     }
   },
   {
@@ -2658,7 +2658,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-10": 168,
+      "2026-07-10": 216,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
@@ -3032,10 +3032,10 @@
     "slug": "lp-2-m",
     "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "98.60%",
-    "uptimeYear": "97.12%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "97.11%",
     "time": 2480,
     "timeDay": 2332,
     "timeWeek": 2904,
@@ -3114,7 +3114,7 @@
       "2026-06-25": 34,
       "2026-06-28": 273,
       "2026-06-29": 118,
-      "2026-07-10": 2
+      "2026-07-10": 50
     }
   }
 ]
