@@ -8,7 +8,7 @@
     "uptime": "97.76%",
     "uptimeDay": "93.30%",
     "uptimeWeek": "94.85%",
-    "uptimeMonth": "95.85%",
+    "uptimeMonth": "96.03%",
     "uptimeYear": "91.87%",
     "time": 2479,
     "timeDay": 3690,
@@ -375,7 +375,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.71%",
+    "uptimeYear": "41.69%",
     "time": 1364,
     "timeDay": 0,
     "timeWeek": 0,
@@ -410,7 +410,7 @@
       "2025-12-17": 478,
       "2026-01-09": 108,
       "2026-01-24": 16,
-      "2026-08-20": 619,
+      "2026-08-20": 697,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
@@ -614,19 +614,18 @@
     "url": "https://dikmawa.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/dikmawa.unhas.ac.id.ico",
     "slug": "dikmawa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "94.30%",
-    "uptimeWeek": "95.82%",
-    "uptimeMonth": "97.26%",
+    "uptimeDay": "93.78%",
+    "uptimeWeek": "95.74%",
+    "uptimeMonth": "97.24%",
     "uptimeYear": "96.70%",
     "time": 1910,
-    "timeDay": 2004,
-    "timeWeek": 2395,
-    "timeMonth": 2450,
+    "timeDay": 1817,
+    "timeWeek": 2322,
+    "timeMonth": 2427,
     "timeYear": 1882,
     "dailyMinutesDown": {
-      "2026-02-14": 19,
       "2026-02-15": 92,
       "2026-02-16": 89,
       "2026-02-17": 84,
@@ -699,7 +698,7 @@
       "2026-08-11": 8,
       "2026-08-15": 257,
       "2026-08-18": 82,
-      "2026-08-20": 82
+      "2026-08-20": 89
     }
   },
   {
@@ -719,7 +718,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-20": 619,
+      "2026-08-20": 697,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
@@ -1101,7 +1100,7 @@
     "timeDay": 2399,
     "timeWeek": 2747,
     "timeMonth": 2919,
-    "timeYear": 2451,
+    "timeYear": 2453,
     "dailyMinutesDown": {
       "2026-02-24": 33,
       "2026-02-25": 135,
@@ -1193,7 +1192,7 @@
     "timeDay": 3133,
     "timeWeek": 3241,
     "timeMonth": 3227,
-    "timeYear": 2838,
+    "timeYear": 2840,
     "dailyMinutesDown": {
       "2026-04-14": 246,
       "2026-04-15": 1010,
@@ -1258,7 +1257,7 @@
     "timeDay": 2152,
     "timeWeek": 2512,
     "timeMonth": 2523,
-    "timeYear": 2301,
+    "timeYear": 2302,
     "dailyMinutesDown": {
       "2026-03-04": 64,
       "2026-03-05": 139,
@@ -1344,7 +1343,7 @@
     "timeDay": 2163,
     "timeWeek": 2894,
     "timeMonth": 3004,
-    "timeYear": 2676,
+    "timeYear": 2678,
     "dailyMinutesDown": {
       "2026-02-19": 64,
       "2026-02-21": 122,
@@ -1438,7 +1437,7 @@
     "timeDay": 2059,
     "timeWeek": 2354,
     "timeMonth": 2396,
-    "timeYear": 2130,
+    "timeYear": 2132,
     "dailyMinutesDown": {
       "2026-02-24": 96,
       "2026-02-25": 135,
@@ -1537,7 +1536,7 @@
     "timeMonth": 0,
     "timeYear": 1082,
     "dailyMinutesDown": {
-      "2026-08-20": 619,
+      "2026-08-20": 697,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
@@ -1911,15 +1910,15 @@
     "slug": "fakultas-isip",
     "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "96.16%",
-    "uptimeWeek": "97.23%",
-    "uptimeMonth": "97.73%",
-    "uptimeYear": "95.48%",
+    "uptimeDay": "90.74%",
+    "uptimeWeek": "96.45%",
+    "uptimeMonth": "97.55%",
+    "uptimeYear": "95.46%",
     "time": 2525,
     "timeDay": 3283,
     "timeWeek": 3035,
     "timeMonth": 3067,
-    "timeYear": 2577,
+    "timeYear": 2579,
     "dailyMinutesDown": {
       "2026-03-01": 44,
       "2026-03-02": 150,
@@ -1993,7 +1992,7 @@
       "2026-08-12": 106,
       "2026-08-15": 171,
       "2026-08-18": 54,
-      "2026-08-20": 55
+      "2026-08-20": 133
     }
   },
   {
@@ -2003,10 +2002,10 @@
     "slug": "fakultas-pertanian",
     "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "87.15%",
-    "uptimeWeek": "96.13%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "97.45%",
+    "uptimeDay": "81.73%",
+    "uptimeWeek": "95.36%",
+    "uptimeMonth": "97.39%",
+    "uptimeYear": "97.44%",
     "time": 3615,
     "timeDay": 2105,
     "timeWeek": 2184,
@@ -2066,7 +2065,7 @@
       "2026-08-12": 96,
       "2026-08-15": 156,
       "2026-08-18": 49,
-      "2026-08-20": 185
+      "2026-08-20": 263
     }
   },
   {
@@ -2084,7 +2083,7 @@
     "timeDay": 2219,
     "timeWeek": 2409,
     "timeMonth": 2538,
-    "timeYear": 1773,
+    "timeYear": 1774,
     "dailyMinutesDown": {
       "2026-02-15": 19,
       "2026-02-16": 90,
@@ -2179,7 +2178,7 @@
     "timeDay": 2102,
     "timeWeek": 2579,
     "timeMonth": 2539,
-    "timeYear": 2139,
+    "timeYear": 2141,
     "dailyMinutesDown": {
       "2026-02-18": 87,
       "2026-02-19": 64,
@@ -2383,7 +2382,7 @@
     "timeDay": 918,
     "timeWeek": 1107,
     "timeMonth": 1127,
-    "timeYear": 1606,
+    "timeYear": 1607,
     "dailyMinutesDown": {
       "2026-04-26": 77,
       "2026-04-27": 786,
@@ -2444,7 +2443,7 @@
     "timeDay": 2558,
     "timeWeek": 3198,
     "timeMonth": 3226,
-    "timeYear": 2412,
+    "timeYear": 2414,
     "dailyMinutesDown": {
       "2026-02-24": 99,
       "2026-02-25": 136,
@@ -2531,7 +2530,7 @@
     "timeDay": 3931,
     "timeWeek": 4238,
     "timeMonth": 4510,
-    "timeYear": 2363,
+    "timeYear": 2365,
     "dailyMinutesDown": {
       "2026-02-23": 56,
       "2026-02-24": 99,
@@ -2623,7 +2622,7 @@
     "timeDay": 2256,
     "timeWeek": 2501,
     "timeMonth": 2526,
-    "timeYear": 2157,
+    "timeYear": 2159,
     "dailyMinutesDown": {
       "2026-02-15": 20,
       "2026-02-16": 90,
@@ -2722,7 +2721,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-20": 620,
+      "2026-08-20": 698,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
@@ -3104,7 +3103,7 @@
     "timeDay": 2138,
     "timeWeek": 2600,
     "timeMonth": 2691,
-    "timeYear": 2447,
+    "timeYear": 2448,
     "dailyMinutesDown": {
       "2026-02-08": 30,
       "2026-02-10": 33,
