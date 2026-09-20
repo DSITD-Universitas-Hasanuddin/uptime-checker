@@ -14,7 +14,7 @@
     "timeDay": 6324,
     "timeWeek": 5218,
     "timeMonth": 5217,
-    "timeYear": 2970,
+    "timeYear": 2974,
     "dailyMinutesDown": {
       "2026-01-26": 20,
       "2026-01-28": 25,
@@ -125,19 +125,18 @@
     "url": "https://apps.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/apps.unhas.ac.id.ico",
     "slug": "apps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "62.66%",
-    "uptimeWeek": "51.90%",
-    "uptimeMonth": "86.59%",
+    "uptimeDay": "67.24%",
+    "uptimeWeek": "51.66%",
+    "uptimeMonth": "86.54%",
     "uptimeYear": "97.67%",
     "time": 3031,
-    "timeDay": 4778,
+    "timeDay": 4689,
     "timeWeek": 4935,
     "timeMonth": 5022,
-    "timeYear": 3163,
+    "timeYear": 3165,
     "dailyMinutesDown": {
-      "2026-01-08": 17,
       "2026-01-09": 141,
       "2026-01-10": 33,
       "2026-01-11": 15,
@@ -214,7 +213,7 @@
       "2026-09-17": 926,
       "2026-09-18": 961,
       "2026-09-19": 698,
-      "2026-09-20": 23
+      "2026-09-20": 47
     }
   },
   {
@@ -376,7 +375,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.36%",
+    "uptimeYear": "33.34%",
     "time": 1383,
     "timeDay": 0,
     "timeWeek": 0,
@@ -409,7 +408,7 @@
       "2025-12-17": 478,
       "2026-01-09": 108,
       "2026-01-24": 16,
-      "2026-09-20": 240,
+      "2026-09-20": 339,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
@@ -757,7 +756,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-20": 240,
+      "2026-09-20": 340,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
@@ -1588,7 +1587,7 @@
     "timeMonth": 0,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2026-09-20": 240,
+      "2026-09-20": 340,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
@@ -2349,7 +2348,7 @@
     "timeDay": 1723,
     "timeWeek": 1756,
     "timeMonth": 1689,
-    "timeYear": 1675,
+    "timeYear": 1676,
     "dailyMinutesDown": {
       "2025-12-10": 84,
       "2025-12-12": 19,
@@ -2804,7 +2803,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-20": 241,
+      "2026-09-20": 341,
       "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
@@ -3176,10 +3175,10 @@
     "url": "https://lp2m.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/lp2m.unhas.ac.id.ico",
     "slug": "lp-2-m",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.65%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "91.62%",
     "uptimeMonth": "95.83%",
     "uptimeYear": "96.78%",
     "time": 2549,
@@ -3188,7 +3187,6 @@
     "timeMonth": 3520,
     "timeYear": 2522,
     "dailyMinutesDown": {
-      "2026-02-14": 21,
       "2026-02-15": 95,
       "2026-02-16": 90,
       "2026-02-17": 82,
@@ -3265,7 +3263,8 @@
       "2026-09-11": 184,
       "2026-09-16": 299,
       "2026-09-17": 257,
-      "2026-09-18": 286
+      "2026-09-18": 286,
+      "2026-09-20": 2
     }
   }
 ]
