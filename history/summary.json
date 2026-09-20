@@ -12,8 +12,8 @@
     "uptimeYear": "91.70%",
     "time": 2680,
     "timeDay": 4425,
-    "timeWeek": 4998,
-    "timeMonth": 5147,
+    "timeWeek": 5060,
+    "timeMonth": 5187,
     "timeYear": 2964,
     "dailyMinutesDown": {
       "2026-01-26": 20,
@@ -125,19 +125,18 @@
     "url": "https://apps.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/apps.unhas.ac.id.ico",
     "slug": "apps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "51.50%",
-    "uptimeWeek": "52.12%",
-    "uptimeMonth": "86.64%",
+    "uptimeDay": "50.41%",
+    "uptimeWeek": "51.97%",
+    "uptimeMonth": "86.61%",
     "uptimeYear": "97.67%",
-    "time": 3026,
+    "time": 3027,
     "timeDay": 4746,
-    "timeWeek": 5091,
-    "timeMonth": 5001,
+    "timeWeek": 4939,
+    "timeMonth": 5025,
     "timeYear": 3160,
     "dailyMinutesDown": {
-      "2026-01-07": 26,
       "2026-01-08": 17,
       "2026-01-09": 141,
       "2026-01-10": 33,
@@ -214,7 +213,8 @@
       "2026-09-16": 1256,
       "2026-09-17": 926,
       "2026-09-18": 961,
-      "2026-09-19": 698
+      "2026-09-19": 698,
+      "2026-09-20": 16
     }
   },
   {
@@ -230,8 +230,8 @@
     "uptimeYear": "95.42%",
     "time": 772,
     "timeDay": 994,
-    "timeWeek": 789,
-    "timeMonth": 778,
+    "timeWeek": 806,
+    "timeMonth": 774,
     "timeYear": 808,
     "dailyMinutesDown": {
       "2025-09-23": 34,
@@ -277,8 +277,8 @@
     "uptimeYear": "97.85%",
     "time": 1610,
     "timeDay": 1696,
-    "timeWeek": 1794,
-    "timeMonth": 1568,
+    "timeWeek": 1686,
+    "timeMonth": 1577,
     "timeYear": 1599,
     "dailyMinutesDown": {
       "2025-12-04": 21,
@@ -376,7 +376,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.41%",
+    "uptimeYear": "33.40%",
     "time": 1382,
     "timeDay": 0,
     "timeWeek": 0,
@@ -409,7 +409,8 @@
       "2025-12-17": 478,
       "2026-01-09": 108,
       "2026-01-24": 16,
-      "2026-09-19": 1399,
+      "2026-09-20": 49,
+      "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
@@ -651,8 +652,8 @@
     "uptimeYear": "95.00%",
     "time": 1957,
     "timeDay": 2492,
-    "timeWeek": 4453,
-    "timeMonth": 3086,
+    "timeWeek": 3130,
+    "timeMonth": 3119,
     "timeYear": 1938,
     "dailyMinutesDown": {
       "2026-02-17": 84,
@@ -756,7 +757,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-19": 1399,
+      "2026-09-20": 49,
+      "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
@@ -1119,8 +1121,7 @@
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
-      "2025-09-21": 1440,
-      "2025-09-20": 1440
+      "2025-09-21": 1440
     }
   },
   {
@@ -1136,8 +1137,8 @@
     "uptimeYear": "95.76%",
     "time": 2552,
     "timeDay": 3016,
-    "timeWeek": 6737,
-    "timeMonth": 4686,
+    "timeWeek": 5932,
+    "timeMonth": 4749,
     "timeYear": 2541,
     "dailyMinutesDown": {
       "2026-03-01": 80,
@@ -1222,17 +1223,17 @@
     "url": "https://feb.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/feb.unhas.ac.id.ico",
     "slug": "fakultas-ekonomi",
-    "status": "down",
+    "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "97.69%",
-    "uptimeYear": "96.26%",
-    "time": 2874,
-    "timeDay": 2993,
-    "timeWeek": 6760,
-    "timeMonth": 3978,
-    "timeYear": 2880,
+    "uptimeDay": "93.48%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "96.24%",
+    "time": 2875,
+    "timeDay": 3400,
+    "timeWeek": 4116,
+    "timeMonth": 4011,
+    "timeYear": 2881,
     "dailyMinutesDown": {
       "2026-04-16": 911,
       "2026-04-15": 19,
@@ -1285,7 +1286,8 @@
       "2026-09-11": 241,
       "2026-09-12": 116,
       "2026-09-17": 81,
-      "2026-09-19": 13
+      "2026-09-20": 40,
+      "2026-09-19": 54
     }
   },
   {
@@ -1301,8 +1303,8 @@
     "uptimeYear": "96.01%",
     "time": 2354,
     "timeDay": 5514,
-    "timeWeek": 3951,
-    "timeMonth": 3621,
+    "timeWeek": 3720,
+    "timeMonth": 3661,
     "timeYear": 2360,
     "dailyMinutesDown": {
       "2026-03-12": 89,
@@ -1383,12 +1385,12 @@
     "uptime": "98.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.29%",
-    "uptimeMonth": "97.63%",
+    "uptimeMonth": "97.83%",
     "uptimeYear": "96.03%",
     "time": 2739,
     "timeDay": 2945,
-    "timeWeek": 3812,
-    "timeMonth": 4091,
+    "timeWeek": 3470,
+    "timeMonth": 4160,
     "timeYear": 2742,
     "dailyMinutesDown": {
       "2026-02-23": 56,
@@ -1483,8 +1485,8 @@
     "uptimeYear": "95.57%",
     "time": 2192,
     "timeDay": 2520,
-    "timeWeek": 3110,
-    "timeMonth": 2836,
+    "timeWeek": 2911,
+    "timeMonth": 2858,
     "timeYear": 2148,
     "dailyMinutesDown": {
       "2026-02-28": 15,
@@ -1586,7 +1588,8 @@
     "timeMonth": 0,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2026-09-19": 1399,
+      "2026-09-20": 49,
+      "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
@@ -1949,8 +1952,7 @@
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
-      "2025-09-21": 1440,
-      "2025-09-20": 1440
+      "2025-09-21": 1440
     }
   },
   {
@@ -1959,15 +1961,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fisip.unhas.ac.id.ico",
     "slug": "fakultas-isip",
     "status": "up",
-    "uptime": "98.09%",
+    "uptime": "98.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "79.68%",
     "uptimeYear": "93.85%",
     "time": 2583,
     "timeDay": 2482,
-    "timeWeek": 4124,
-    "timeMonth": 3927,
+    "timeWeek": 3879,
+    "timeMonth": 3965,
     "timeYear": 2671,
     "dailyMinutesDown": {
       "2026-03-05": 139,
@@ -2065,9 +2067,9 @@
     "uptimeYear": "95.76%",
     "time": 3667,
     "timeDay": 4318,
-    "timeWeek": 3627,
-    "timeMonth": 3024,
-    "timeYear": 3727,
+    "timeWeek": 3564,
+    "timeMonth": 3053,
+    "timeYear": 3729,
     "dailyMinutesDown": {
       "2026-03-12": 61,
       "2026-03-13": 664,
@@ -2147,8 +2149,8 @@
     "uptimeYear": "96.61%",
     "time": 1844,
     "timeDay": 3597,
-    "timeWeek": 3826,
-    "timeMonth": 3699,
+    "timeWeek": 3625,
+    "timeMonth": 3742,
     "timeYear": 1863,
     "dailyMinutesDown": {
       "2026-02-19": 64,
@@ -2244,8 +2246,8 @@
     "uptimeYear": "95.74%",
     "time": 2209,
     "timeDay": 2457,
-    "timeWeek": 3231,
-    "timeMonth": 3609,
+    "timeWeek": 2791,
+    "timeMonth": 3652,
     "timeYear": 2194,
     "dailyMinutesDown": {
       "2026-02-22": 65,
@@ -2346,7 +2348,7 @@
     "time": 1668,
     "timeDay": 1662,
     "timeWeek": 1762,
-    "timeMonth": 1680,
+    "timeMonth": 1688,
     "timeYear": 1675,
     "dailyMinutesDown": {
       "2025-12-10": 84,
@@ -2453,8 +2455,8 @@
     "uptimeYear": "96.77%",
     "time": 1601,
     "timeDay": 3433,
-    "timeWeek": 2240,
-    "timeMonth": 1362,
+    "timeWeek": 2422,
+    "timeMonth": 1377,
     "timeYear": 1607,
     "dailyMinutesDown": {
       "2026-04-26": 77,
@@ -2514,8 +2516,8 @@
     "uptimeYear": "96.55%",
     "time": 2489,
     "timeDay": 2471,
-    "timeWeek": 4355,
-    "timeMonth": 4317,
+    "timeWeek": 3407,
+    "timeMonth": 4363,
     "timeYear": 2504,
     "dailyMinutesDown": {
       "2026-03-01": 80,
@@ -2603,8 +2605,8 @@
     "uptimeYear": "96.20%",
     "time": 2479,
     "timeDay": 6053,
-    "timeWeek": 5352,
-    "timeMonth": 5651,
+    "timeWeek": 5201,
+    "timeMonth": 5698,
     "timeYear": 2541,
     "dailyMinutesDown": {
       "2026-03-02": 150,
@@ -2699,8 +2701,8 @@
     "uptimeYear": "96.67%",
     "time": 2265,
     "timeDay": 2842,
-    "timeWeek": 3516,
-    "timeMonth": 3464,
+    "timeWeek": 3416,
+    "timeMonth": 3502,
     "timeYear": 2212,
     "dailyMinutesDown": {
       "2026-02-18": 87,
@@ -2802,7 +2804,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-19": 1400,
+      "2026-09-20": 50,
+      "2026-09-19": 1440,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
@@ -3165,8 +3168,7 @@
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
-      "2025-09-21": 1440,
-      "2025-09-20": 1440
+      "2025-09-21": 1440
     }
   },
   {
@@ -3182,8 +3184,8 @@
     "uptimeYear": "96.78%",
     "time": 2548,
     "timeDay": 2446,
-    "timeWeek": 4517,
-    "timeMonth": 3506,
+    "timeWeek": 4469,
+    "timeMonth": 3540,
     "timeYear": 2522,
     "dailyMinutesDown": {
       "2026-02-14": 21,
