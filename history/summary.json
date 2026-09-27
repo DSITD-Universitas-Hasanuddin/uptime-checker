@@ -13,7 +13,7 @@
     "time": 2727,
     "timeDay": 3794,
     "timeWeek": 4511,
-    "timeMonth": 4967,
+    "timeMonth": 4984,
     "timeYear": 3045,
     "dailyMinutesDown": {
       "2026-02-03": 47,
@@ -126,15 +126,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/apps.unhas.ac.id.ico",
     "slug": "apps",
     "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "63.81%",
-    "uptimeWeek": "55.54%",
-    "uptimeMonth": "76.78%",
-    "uptimeYear": "96.93%",
+    "uptime": "99.17%",
+    "uptimeDay": "52.63%",
+    "uptimeWeek": "53.95%",
+    "uptimeMonth": "76.41%",
+    "uptimeYear": "96.90%",
     "time": 3123,
     "timeDay": 5179,
     "timeWeek": 5906,
-    "timeMonth": 5320,
+    "timeMonth": 5327,
     "timeYear": 3257,
     "dailyMinutesDown": {
       "2026-01-28": 24,
@@ -210,7 +210,7 @@
       "2026-09-24": 452,
       "2026-09-25": 841,
       "2026-09-26": 552,
-      "2026-09-27": 13
+      "2026-09-27": 174
     }
   },
   {
@@ -273,7 +273,7 @@
     "time": 1611,
     "timeDay": 1404,
     "timeWeek": 1599,
-    "timeMonth": 1594,
+    "timeMonth": 1593,
     "timeYear": 1603,
     "dailyMinutesDown": {
       "2025-12-04": 21,
@@ -371,7 +371,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.48%",
+    "uptimeYear": "31.45%",
     "time": 1391,
     "timeDay": 0,
     "timeWeek": 0,
@@ -403,7 +403,7 @@
       "2025-12-17": 478,
       "2026-01-09": 108,
       "2026-01-24": 16,
-      "2026-09-27": 99,
+      "2026-09-27": 260,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -654,7 +654,7 @@
     "time": 1964,
     "timeDay": 2586,
     "timeWeek": 2420,
-    "timeMonth": 3314,
+    "timeMonth": 3328,
     "timeYear": 1945,
     "dailyMinutesDown": {
       "2026-02-17": 84,
@@ -758,7 +758,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-27": 99,
+      "2026-09-27": 260,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -1139,7 +1139,7 @@
     "time": 2561,
     "timeDay": 3052,
     "timeWeek": 3584,
-    "timeMonth": 4818,
+    "timeMonth": 4863,
     "timeYear": 2560,
     "dailyMinutesDown": {
       "2026-03-02": 150,
@@ -1235,7 +1235,7 @@
     "time": 2901,
     "timeDay": 4129,
     "timeWeek": 5571,
-    "timeMonth": 4599,
+    "timeMonth": 4641,
     "timeYear": 2912,
     "dailyMinutesDown": {
       "2026-04-18": 418,
@@ -1307,7 +1307,7 @@
     "time": 2357,
     "timeDay": 2713,
     "timeWeek": 2448,
-    "timeMonth": 3627,
+    "timeMonth": 3665,
     "timeYear": 2372,
     "dailyMinutesDown": {
       "2026-03-12": 26,
@@ -1394,7 +1394,7 @@
     "time": 2734,
     "timeDay": 3006,
     "timeWeek": 3419,
-    "timeMonth": 4308,
+    "timeMonth": 4357,
     "timeYear": 2755,
     "dailyMinutesDown": {
       "2026-02-24": 96,
@@ -1490,7 +1490,7 @@
     "time": 2192,
     "timeDay": 2707,
     "timeWeek": 2525,
-    "timeMonth": 2909,
+    "timeMonth": 2923,
     "timeYear": 2151,
     "dailyMinutesDown": {
       "2026-03-01": 114,
@@ -1592,7 +1592,7 @@
     "timeMonth": 0,
     "timeYear": 1130,
     "dailyMinutesDown": {
-      "2026-09-27": 99,
+      "2026-09-27": 260,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -1973,7 +1973,7 @@
     "time": 2596,
     "timeDay": 4290,
     "timeWeek": 3704,
-    "timeMonth": 4346,
+    "timeMonth": 4361,
     "timeYear": 2703,
     "dailyMinutesDown": {
       "2026-03-08": 47,
@@ -2072,8 +2072,8 @@
     "time": 3753,
     "timeDay": 2941,
     "timeWeek": 2835,
-    "timeMonth": 3283,
-    "timeYear": 3822,
+    "timeMonth": 3271,
+    "timeYear": 3823,
     "dailyMinutesDown": {
       "2026-03-12": 45,
       "2026-03-13": 664,
@@ -2155,7 +2155,7 @@
     "time": 1855,
     "timeDay": 3162,
     "timeWeek": 3039,
-    "timeMonth": 3738,
+    "timeMonth": 3775,
     "timeYear": 1884,
     "dailyMinutesDown": {
       "2026-02-21": 56,
@@ -2255,7 +2255,7 @@
     "time": 2212,
     "timeDay": 2872,
     "timeWeek": 2650,
-    "timeMonth": 3641,
+    "timeMonth": 3611,
     "timeYear": 2201,
     "dailyMinutesDown": {
       "2026-02-25": 136,
@@ -2356,7 +2356,7 @@
     "time": 1681,
     "timeDay": 2191,
     "timeWeek": 2587,
-    "timeMonth": 1875,
+    "timeMonth": 1883,
     "timeYear": 1696,
     "dailyMinutesDown": {
       "2025-12-12": 19,
@@ -2464,7 +2464,7 @@
     "time": 1599,
     "timeDay": 1323,
     "timeWeek": 1155,
-    "timeMonth": 1367,
+    "timeMonth": 1376,
     "timeYear": 1608,
     "dailyMinutesDown": {
       "2026-04-26": 77,
@@ -2525,7 +2525,7 @@
     "time": 2499,
     "timeDay": 3188,
     "timeWeek": 3094,
-    "timeMonth": 4292,
+    "timeMonth": 4326,
     "timeYear": 2521,
     "dailyMinutesDown": {
       "2026-03-05": 139,
@@ -2608,14 +2608,14 @@
     "slug": "fakultas-keperawatan",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "50.83%",
+    "uptimeDay": "62.02%",
     "uptimeWeek": "68.79%",
     "uptimeMonth": "87.72%",
     "uptimeYear": "95.75%",
     "time": 2555,
     "timeDay": 11897,
     "timeWeek": 6525,
-    "timeMonth": 6112,
+    "timeMonth": 6151,
     "timeYear": 2626,
     "dailyMinutesDown": {
       "2026-03-16": 104,
@@ -2702,14 +2702,14 @@
     "slug": "fakultas-mipa",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "70.78%",
+    "uptimeDay": "81.96%",
     "uptimeWeek": "91.61%",
     "uptimeMonth": "96.84%",
     "uptimeYear": "96.55%",
     "time": 2268,
     "timeDay": 3647,
     "timeWeek": 3560,
-    "timeMonth": 3675,
+    "timeMonth": 3704,
     "timeYear": 2232,
     "dailyMinutesDown": {
       "2026-02-21": 55,
@@ -2812,7 +2812,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-27": 100,
+      "2026-09-27": 261,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -3193,7 +3193,7 @@
     "time": 2532,
     "timeDay": 2648,
     "timeWeek": 2928,
-    "timeMonth": 3655,
+    "timeMonth": 3687,
     "timeYear": 2538,
     "dailyMinutesDown": {
       "2026-02-17": 82,
