@@ -8,13 +8,13 @@
     "uptime": "97.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.07%",
-    "uptimeMonth": "91.97%",
+    "uptimeMonth": "91.99%",
     "uptimeYear": "91.18%",
     "time": 3002,
     "timeDay": 4432,
     "timeWeek": 5264,
     "timeMonth": 5138,
-    "timeYear": 3215,
+    "timeYear": 3219,
     "dailyMinutesDown": {
       "2026-02-24": 42,
       "2026-02-28": 21,
@@ -126,17 +126,17 @@
     "url": "https://apps.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/apps.unhas.ac.id.ico",
     "slug": "apps",
-    "status": "down",
-    "uptime": "98.73%",
-    "uptimeDay": "44.03%",
-    "uptimeWeek": "57.05%",
-    "uptimeMonth": "55.24%",
-    "uptimeYear": "95.20%",
-    "time": 3230,
-    "timeDay": 4700,
-    "timeWeek": 4935,
-    "timeMonth": 5351,
-    "timeYear": 3353,
+    "status": "up",
+    "uptime": "98.72%",
+    "uptimeDay": "44.57%",
+    "uptimeWeek": "55.69%",
+    "uptimeMonth": "54.88%",
+    "uptimeYear": "95.17%",
+    "time": 3233,
+    "timeDay": 4556,
+    "timeWeek": 4875,
+    "timeMonth": 5332,
+    "timeYear": 3357,
     "dailyMinutesDown": {
       "2026-03-24": 88,
       "2026-03-25": 52,
@@ -208,7 +208,8 @@
       "2026-10-09": 76,
       "2026-10-08": 994,
       "2026-10-10": 772,
-      "2026-10-11": 693
+      "2026-10-11": 806,
+      "2026-10-12": 48
     }
   },
   {
@@ -225,8 +226,8 @@
     "time": 779,
     "timeDay": 629,
     "timeWeek": 705,
-    "timeMonth": 778,
-    "timeYear": 795,
+    "timeMonth": 783,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2025-11-04": 112,
       "2025-11-07": 18,
@@ -266,13 +267,13 @@
     "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.51%",
-    "uptimeMonth": "96.65%",
+    "uptimeMonth": "96.66%",
     "uptimeYear": "97.64%",
     "time": 1618,
     "timeDay": 1000,
     "timeWeek": 1639,
     "timeMonth": 1684,
-    "timeYear": 1595,
+    "timeYear": 1594,
     "dailyMinutesDown": {
       "2025-12-13": 44,
       "2025-12-17": 512,
@@ -369,12 +370,12 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "27.41%",
+    "uptimeYear": "27.37%",
     "time": 1390,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1382,
+    "timeYear": 1383,
     "dailyMinutesDown": {
       "2025-10-30": 16,
       "2025-11-04": 111,
@@ -401,7 +402,8 @@
       "2025-12-17": 478,
       "2026-01-09": 108,
       "2026-01-24": 16,
-      "2026-10-11": 1327,
+      "2026-10-12": 56,
+      "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
@@ -661,7 +663,7 @@
     "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.61%",
-    "uptimeMonth": "97.04%",
+    "uptimeMonth": "97.05%",
     "uptimeYear": "94.83%",
     "time": 2002,
     "timeDay": 2231,
@@ -760,7 +762,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sister.unhas.ac.id.ico",
     "slug": "sister-unhas",
     "status": "down",
-    "uptime": "22.27%",
+    "uptime": "22.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -771,7 +773,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-11": 1327,
+      "2026-10-12": 56,
+      "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
@@ -1134,8 +1137,7 @@
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
-      "2025-10-13": 1440,
-      "2025-10-12": 1440
+      "2025-10-13": 1440
     }
   },
   {
@@ -1248,7 +1250,7 @@
     "timeDay": 3213,
     "timeWeek": 4471,
     "timeMonth": 4841,
-    "timeYear": 2925,
+    "timeYear": 2924,
     "dailyMinutesDown": {
       "2026-04-19": 610,
       "2026-04-20": 708,
@@ -1513,7 +1515,7 @@
     "timeDay": 2521,
     "timeWeek": 4321,
     "timeMonth": 4315,
-    "timeYear": 2210,
+    "timeYear": 2209,
     "dailyMinutesDown": {
       "2026-03-04": 64,
       "2026-03-05": 139,
@@ -1616,9 +1618,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1107,
+    "timeYear": 1108,
     "dailyMinutesDown": {
-      "2026-10-11": 1327,
+      "2026-10-12": 57,
+      "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
@@ -1981,8 +1984,7 @@
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
-      "2025-10-13": 1440,
-      "2025-10-12": 1440
+      "2025-10-13": 1440
     }
   },
   {
@@ -2000,7 +2002,7 @@
     "timeDay": 2973,
     "timeWeek": 4096,
     "timeMonth": 5798,
-    "timeYear": 2778,
+    "timeYear": 2776,
     "dailyMinutesDown": {
       "2026-03-14": 96,
       "2026-03-16": 104,
@@ -2102,7 +2104,7 @@
     "timeDay": 2939,
     "timeWeek": 4276,
     "timeMonth": 5338,
-    "timeYear": 4035,
+    "timeYear": 4036,
     "dailyMinutesDown": {
       "2026-03-13": 164,
       "2026-03-14": 73,
@@ -2505,7 +2507,7 @@
     "timeDay": 1191,
     "timeWeek": 2529,
     "timeMonth": 1712,
-    "timeYear": 1609,
+    "timeYear": 1610,
     "dailyMinutesDown": {
       "2026-04-26": 44,
       "2026-04-27": 786,
@@ -2653,14 +2655,14 @@
     "status": "up",
     "uptime": "98.52%",
     "uptimeDay": "85.32%",
-    "uptimeWeek": "85.92%",
+    "uptimeWeek": "87.28%",
     "uptimeMonth": "79.74%",
     "uptimeYear": "95.14%",
     "time": 2674,
     "timeDay": 4389,
-    "timeWeek": 9115,
+    "timeWeek": 9424,
     "timeMonth": 7645,
-    "timeYear": 2771,
+    "timeYear": 2772,
     "dailyMinutesDown": {
       "2026-03-29": 22,
       "2026-03-30": 136,
@@ -2859,7 +2861,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-11": 1328,
+      "2026-10-12": 58,
+      "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
@@ -3222,8 +3225,7 @@
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
-      "2025-10-13": 1440,
-      "2025-10-12": 1440
+      "2025-10-13": 1440
     }
   },
   {
@@ -3241,7 +3243,7 @@
     "timeDay": 1981,
     "timeWeek": 7716,
     "timeMonth": 4583,
-    "timeYear": 2602,
+    "timeYear": 2603,
     "dailyMinutesDown": {
       "2026-02-22": 66,
       "2026-02-21": 36,
