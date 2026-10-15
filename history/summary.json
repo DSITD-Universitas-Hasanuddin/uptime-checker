@@ -4,17 +4,17 @@
     "url": "https://unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/unhas.ac.id.ico",
     "slug": "unhas-main",
-    "status": "down",
-    "uptime": "97.67%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "88.19%",
-    "uptimeMonth": "92.32%",
-    "uptimeYear": "91.19%",
-    "time": 3029,
-    "timeDay": 10588,
-    "timeWeek": 5432,
-    "timeMonth": 5240,
-    "timeYear": 3265,
+    "status": "up",
+    "uptime": "97.66%",
+    "uptimeDay": "90.92%",
+    "uptimeWeek": "87.04%",
+    "uptimeMonth": "92.29%",
+    "uptimeYear": "91.17%",
+    "time": 3035,
+    "timeDay": 7913,
+    "timeWeek": 5413,
+    "timeMonth": 5259,
+    "timeYear": 3273,
     "dailyMinutesDown": {
       "2026-02-28": 21,
       "2026-03-06": 160,
@@ -118,7 +118,8 @@
       "2026-10-06": 9,
       "2026-10-08": 616,
       "2026-10-10": 560,
-      "2026-10-14": 15
+      "2026-10-15": 43,
+      "2026-10-14": 88
     }
   },
   {
@@ -127,16 +128,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/apps.unhas.ac.id.ico",
     "slug": "apps",
     "status": "down",
-    "uptime": "98.62%",
+    "uptime": "98.61%",
     "uptimeDay": "70.72%",
-    "uptimeWeek": "49.43%",
+    "uptimeWeek": "48.06%",
     "uptimeMonth": "50.22%",
-    "uptimeYear": "94.77%",
+    "uptimeYear": "94.74%",
     "time": 3249,
     "timeDay": 4558,
     "timeWeek": 4510,
     "timeMonth": 5207,
-    "timeYear": 3376,
+    "timeYear": 3379,
     "dailyMinutesDown": {
       "2026-04-01": 49,
       "2026-04-04": 560,
@@ -207,7 +208,8 @@
       "2026-10-11": 806,
       "2026-10-12": 1364,
       "2026-10-13": 738,
-      "2026-10-14": 349
+      "2026-10-14": 422,
+      "2026-10-15": 65
     }
   },
   {
@@ -225,7 +227,7 @@
     "timeDay": 451,
     "timeWeek": 560,
     "timeMonth": 752,
-    "timeYear": 794,
+    "timeYear": 795,
     "dailyMinutesDown": {
       "2025-11-04": 112,
       "2025-11-07": 18,
@@ -368,12 +370,12 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "26.58%",
+    "uptimeYear": "26.55%",
     "time": 1392,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1386,
+    "timeYear": 1387,
     "dailyMinutesDown": {
       "2025-10-30": 16,
       "2025-11-04": 111,
@@ -400,7 +402,8 @@
       "2025-12-17": 478,
       "2026-01-09": 108,
       "2026-01-24": 16,
-      "2026-10-14": 1367,
+      "2026-10-15": 65,
+      "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
@@ -669,7 +672,7 @@
     "timeDay": 1848,
     "timeWeek": 2873,
     "timeMonth": 3765,
-    "timeYear": 1996,
+    "timeYear": 1997,
     "dailyMinutesDown": {
       "2026-02-19": 63,
       "2026-02-21": 123,
@@ -762,7 +765,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sister.unhas.ac.id.ico",
     "slug": "sister-unhas",
     "status": "down",
-    "uptime": "22.22%",
+    "uptime": "22.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -773,7 +776,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-14": 1367,
+      "2026-10-15": 66,
+      "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
@@ -1136,8 +1140,7 @@
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
-      "2025-10-16": 1440,
-      "2025-10-15": 1440
+      "2025-10-16": 1440
     }
   },
   {
@@ -1250,7 +1253,7 @@
     "timeDay": 9299,
     "timeWeek": 4355,
     "timeMonth": 4468,
-    "timeYear": 2934,
+    "timeYear": 2935,
     "dailyMinutesDown": {
       "2026-04-19": 610,
       "2026-04-20": 708,
@@ -1515,7 +1518,7 @@
     "timeDay": 3220,
     "timeWeek": 2936,
     "timeMonth": 4012,
-    "timeYear": 2213,
+    "timeYear": 2212,
     "dailyMinutesDown": {
       "2026-03-04": 64,
       "2026-03-05": 139,
@@ -1618,9 +1621,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1115,
+    "timeYear": 1112,
     "dailyMinutesDown": {
-      "2026-10-14": 1368,
+      "2026-10-15": 66,
+      "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
@@ -1983,8 +1987,7 @@
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
-      "2025-10-16": 1440,
-      "2025-10-15": 1440
+      "2025-10-16": 1440
     }
   },
   {
@@ -1993,7 +1996,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fisip.unhas.ac.id.ico",
     "slug": "fakultas-isip",
     "status": "up",
-    "uptime": "98.04%",
+    "uptime": "98.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.22%",
     "uptimeMonth": "95.07%",
@@ -2002,7 +2005,7 @@
     "timeDay": 3279,
     "timeWeek": 4571,
     "timeMonth": 4887,
-    "timeYear": 2795,
+    "timeYear": 2796,
     "dailyMinutesDown": {
       "2026-03-14": 96,
       "2026-03-16": 104,
@@ -2104,7 +2107,7 @@
     "timeDay": 13038,
     "timeWeek": 5434,
     "timeMonth": 5374,
-    "timeYear": 4047,
+    "timeYear": 4048,
     "dailyMinutesDown": {
       "2026-03-13": 164,
       "2026-03-14": 73,
@@ -2192,7 +2195,7 @@
     "timeDay": 2325,
     "timeWeek": 4540,
     "timeMonth": 3701,
-    "timeYear": 1941,
+    "timeYear": 1940,
     "dailyMinutesDown": {
       "2026-03-01": 114,
       "2026-03-02": 150,
@@ -2293,7 +2296,7 @@
     "timeDay": 4233,
     "timeWeek": 4783,
     "timeMonth": 3087,
-    "timeYear": 2237,
+    "timeYear": 2236,
     "dailyMinutesDown": {
       "2026-03-04": 64,
       "2026-03-05": 139,
@@ -2655,14 +2658,14 @@
     "status": "up",
     "uptime": "98.47%",
     "uptimeDay": "62.30%",
-    "uptimeWeek": "77.09%",
-    "uptimeMonth": "77.46%",
+    "uptimeWeek": "78.46%",
+    "uptimeMonth": "77.77%",
     "uptimeYear": "94.94%",
     "time": 2725,
     "timeDay": 7018,
     "timeWeek": 9953,
     "timeMonth": 7354,
-    "timeYear": 2832,
+    "timeYear": 2833,
     "dailyMinutesDown": {
       "2026-04-01": 127,
       "2026-04-02": 55,
@@ -2862,7 +2865,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-14": 1369,
+      "2026-10-15": 67,
+      "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
@@ -3225,8 +3229,7 @@
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
-      "2025-10-16": 1440,
-      "2025-10-15": 1440
+      "2025-10-16": 1440
     }
   },
   {
