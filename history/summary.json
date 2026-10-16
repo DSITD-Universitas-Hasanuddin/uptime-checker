@@ -129,10 +129,10 @@
     "slug": "apps",
     "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "71.92%",
-    "uptimeWeek": "54.01%",
+    "uptimeDay": "69.02%",
+    "uptimeWeek": "53.60%",
     "uptimeMonth": "50.85%",
-    "uptimeYear": "94.67%",
+    "uptimeYear": "94.66%",
     "time": 3252,
     "timeDay": 0,
     "timeWeek": 4225,
@@ -209,7 +209,7 @@
       "2026-10-13": 738,
       "2026-10-14": 422,
       "2026-10-15": 399,
-      "2026-10-16": 78
+      "2026-10-16": 119
     }
   },
   {
@@ -402,7 +402,7 @@
       "2025-12-17": 478,
       "2026-01-09": 108,
       "2026-01-24": 16,
-      "2026-10-16": 78,
+      "2026-10-16": 119,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
@@ -777,7 +777,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-16": 78,
+      "2026-10-16": 120,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
@@ -1152,7 +1152,7 @@
     "status": "up",
     "uptime": "98.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.86%",
+    "uptimeWeek": "96.27%",
     "uptimeMonth": "91.76%",
     "uptimeYear": "95.29%",
     "time": 2569,
@@ -1624,7 +1624,7 @@
     "timeMonth": 0,
     "timeYear": 1114,
     "dailyMinutesDown": {
-      "2026-10-16": 78,
+      "2026-10-16": 120,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
@@ -2663,7 +2663,7 @@
     "uptimeMonth": "78.21%",
     "uptimeYear": "94.90%",
     "time": 2747,
-    "timeDay": 8336,
+    "timeDay": 5490,
     "timeWeek": 8061,
     "timeMonth": 7592,
     "timeYear": 2853,
@@ -2760,7 +2760,7 @@
     "uptimeMonth": "92.86%",
     "uptimeYear": "96.20%",
     "time": 2329,
-    "timeDay": 3183,
+    "timeDay": 2748,
     "timeWeek": 3398,
     "timeMonth": 4449,
     "timeYear": 2313,
@@ -2867,7 +2867,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-16": 79,
+      "2026-10-16": 121,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
@@ -3239,17 +3239,17 @@
     "url": "https://lp2m.unhas.ac.id",
     "icon": "https://icons.duckduckgo.com/ip3/lp2m.unhas.ac.id.ico",
     "slug": "lp-2-m",
-    "status": "down",
+    "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "69.92%",
-    "uptimeWeek": "92.03%",
-    "uptimeMonth": "89.54%",
-    "uptimeYear": "96.21%",
-    "time": 2550,
-    "timeDay": 2253,
-    "timeWeek": 3371,
-    "timeMonth": 4309,
-    "timeYear": 2618,
+    "uptimeDay": "69.87%",
+    "uptimeWeek": "92.05%",
+    "uptimeMonth": "89.45%",
+    "uptimeYear": "96.20%",
+    "time": 2556,
+    "timeDay": 4331,
+    "timeWeek": 3939,
+    "timeMonth": 4409,
+    "timeYear": 2625,
     "dailyMinutesDown": {
       "2026-02-24": 35,
       "2026-02-25": 136,
@@ -3332,7 +3332,7 @@
       "2026-10-09": 146,
       "2026-10-10": 270,
       "2026-10-15": 431,
-      "2026-10-16": 2
+      "2026-10-16": 42
     }
   }
 ]
