@@ -129,9 +129,9 @@
     "slug": "apps",
     "status": "up",
     "uptime": "98.26%",
-    "uptimeDay": "35.81%",
-    "uptimeWeek": "20.87%",
-    "uptimeMonth": "45.52%",
+    "uptimeDay": "43.10%",
+    "uptimeWeek": "21.91%",
+    "uptimeMonth": "45.76%",
     "uptimeYear": "93.36%",
     "time": 3273,
     "timeDay": 4046,
@@ -370,7 +370,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "24.35%",
+    "uptimeYear": "24.33%",
     "time": 1398,
     "timeDay": 0,
     "timeWeek": 0,
@@ -402,7 +402,7 @@
       "2025-12-17": 478,
       "2026-01-09": 108,
       "2026-01-24": 16,
-      "2026-10-23": 127,
+      "2026-10-23": 232,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sister.unhas.ac.id.ico",
     "slug": "sister-unhas",
     "status": "down",
-    "uptime": "22.09%",
+    "uptime": "22.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-23": 127,
+      "2026-10-23": 232,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -1634,7 +1634,7 @@
     "timeMonth": 0,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2026-10-23": 128,
+      "2026-10-23": 233,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -2119,7 +2119,7 @@
     "timeDay": 2939,
     "timeWeek": 2902,
     "timeMonth": 5038,
-    "timeYear": 4153,
+    "timeYear": 4154,
     "dailyMinutesDown": {
       "2026-03-13": 112,
       "2026-03-14": 73,
@@ -2580,11 +2580,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vokasi.unhas.ac.id.ico",
     "slug": "fakultas-vokasi",
     "status": "down",
-    "uptime": "98.77%",
-    "uptimeDay": "76.19%",
-    "uptimeWeek": "92.42%",
-    "uptimeMonth": "91.17%",
-    "uptimeYear": "95.90%",
+    "uptime": "98.76%",
+    "uptimeDay": "68.93%",
+    "uptimeWeek": "91.38%",
+    "uptimeMonth": "90.93%",
+    "uptimeYear": "95.88%",
     "time": 2567,
     "timeDay": 2779,
     "timeWeek": 3511,
@@ -2665,7 +2665,7 @@
       "2026-10-21": 382,
       "2026-10-20": 40,
       "2026-10-22": 337,
-      "2026-10-23": 6
+      "2026-10-23": 111
     }
   },
   {
@@ -2675,10 +2675,10 @@
     "slug": "fakultas-keperawatan",
     "status": "down",
     "uptime": "98.62%",
-    "uptimeDay": "64.71%",
-    "uptimeWeek": "82.46%",
-    "uptimeMonth": "79.24%",
-    "uptimeYear": "95.43%",
+    "uptimeDay": "57.46%",
+    "uptimeWeek": "81.43%",
+    "uptimeMonth": "79.00%",
+    "uptimeYear": "95.41%",
     "time": 2791,
     "timeDay": 4350,
     "timeWeek": 5100,
@@ -2764,7 +2764,7 @@
       "2026-10-20": 327,
       "2026-10-21": 80,
       "2026-10-22": 503,
-      "2026-10-23": 5
+      "2026-10-23": 110
     }
   },
   {
@@ -2774,10 +2774,10 @@
     "slug": "fakultas-mipa",
     "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "95.20%",
-    "uptimeMonth": "92.15%",
-    "uptimeYear": "96.13%",
+    "uptimeDay": "92.46%",
+    "uptimeWeek": "94.16%",
+    "uptimeMonth": "91.91%",
+    "uptimeYear": "96.11%",
     "time": 2332,
     "timeDay": 2976,
     "timeWeek": 2769,
@@ -2869,7 +2869,7 @@
       "2026-10-18": 5,
       "2026-10-17": 133,
       "2026-10-19": 341,
-      "2026-10-23": 4
+      "2026-10-23": 109
     }
   },
   {
@@ -2889,7 +2889,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-23": 129,
+      "2026-10-23": 234,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -3262,11 +3262,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lp2m.unhas.ac.id.ico",
     "slug": "lp-2-m",
     "status": "down",
-    "uptime": "98.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "94.61%",
-    "uptimeMonth": "92.73%",
-    "uptimeYear": "96.13%",
+    "uptime": "98.83%",
+    "uptimeDay": "92.59%",
+    "uptimeWeek": "93.57%",
+    "uptimeMonth": "92.49%",
+    "uptimeYear": "96.11%",
     "time": 2604,
     "timeDay": 2690,
     "timeWeek": 7368,
@@ -3354,7 +3354,7 @@
       "2026-10-15": 431,
       "2026-10-16": 276,
       "2026-10-21": 307,
-      "2026-10-23": 2
+      "2026-10-23": 107
     }
   }
 ]
